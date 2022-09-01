@@ -4,5 +4,4 @@
 
 layout: home
 ---
-# Guide:
-[Click Here!](meaniebeanie22.github.io/help)
+If you need help, [Click Here!](meaniebeanie22.github.io/help)
