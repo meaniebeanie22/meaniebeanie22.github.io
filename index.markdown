@@ -4,4 +4,3 @@
 
 layout: home
 ---
-If you need help, [Click Here!](meaniebeanie22.github.io/help)
