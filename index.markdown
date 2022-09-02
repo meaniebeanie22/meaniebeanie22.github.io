@@ -6,8 +6,9 @@ layout: home
 title: Home
 ---
 ## [Foreword](/chapters/Foreword.html)
-## [Section 1](/chapters/Section1.html)
-## [Section 2](/chapters/Section2.html)
-## [Section 3](/chapters/Section3.html)
-## [Section 4](/chapters/Section4.html)
-## [Section 5](/chapters/Section5.html)
+## [Part 1: The Old Buccaneer](/chapters/Section1.html)
+## [Part 2: The Sea Cook](/chapters/Section2.html)
+## [Part 3: My Shore Adventure](/chapters/Section3.html)
+## [Part 4: The Stockade](/chapters/Section4.html)
+## [Part 5: My Sea Adventure](/chapters/Section5.html)
+## [Part 6: Captain Silver](/chapter/Section6.html)
