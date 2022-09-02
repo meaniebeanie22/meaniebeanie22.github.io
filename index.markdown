@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 ## [Foreword](/chapters/Foreword.html)
 ## [Section 1](/chapters/Section1.html)
