@@ -78,7 +78,7 @@ parlour; and he was always sure to be as silent as a mouse when any such
 was present.](#blackdog) For me, at least, there was no secret about the matter, for
 I was, in a way, a sharer in his alarms. He had taken me aside one day
 and promised me a silver fourpenny on the first of every month if I
-would only keep my “weather-eye open for a seafaring man with one leg”
+would only keep my [:“weather-eye open for a seafaring man with one leg”](#blackdog)
  and let him know the moment he appeared. Often enough when the first
 of the month came round and I applied to him for my wage, he would only
 blow through his nose at me and stare me down, but before the week was
@@ -88,10 +88,10 @@ repeat his orders to look out for “the seafaring man with one leg.”
 How that personage haunted my dreams, I need scarcely tell you. On
 stormy nights, when the wind shook the four corners of the house and
 the surf roared along the cove and up the cliffs, I would see him in a
-thousand forms, and with a thousand diabolical expressions. Now the leg
+thousand forms, and with a thousand diabolical expressions. [:Now the leg
 would be cut off at the knee, now at the hip; now he was a monstrous
 kind of a creature who had never had but the one leg, and that in the
-middle of his body. To see him leap and run and pursue me over hedge and
+middle of his body.](#blackdogscary) To see him leap and run and pursue me over hedge and
 ditch was the worst of nightmares. And altogether I paid pretty dear for
 my monthly fourpenny piece, in the shape of these abominable fancies.
 
@@ -127,12 +127,12 @@ admire him, calling him a “true sea-dog” and a “real old salt” and
 such like names, and saying there was the sort of man that made England
 terrible at sea.
 
-In one way, indeed, he bade fair to ruin us, for he kept on staying week
+[:In one way, indeed, he bade fair to ruin us, for he kept on staying week
 after week, and at last month after month, so that all the money had
 been long exhausted, and still my father never plucked up the heart to
 insist on having more. If ever he mentioned it, the captain blew through
 his nose so loudly that you might say he roared, and stared my poor
-father out of the room. I have seen him wringing his hands after such a
+father out of the room.](#refusepay) I have seen him wringing his hands after such a
 rebuff, and I am sure the annoyance and the terror he lived in must have
 greatly hastened his early and unhappy death.
 
@@ -143,8 +143,8 @@ was a great annoyance when it blew. I remember the appearance of his
 coat, which he patched himself upstairs in his room, and which, before
 the end, was nothing but patches. He never wrote or received a letter,
 and he never spoke with any but the neighbours, and with these, for the
-most part, only when drunk on rum. The great sea-chest none of us had
-ever seen open.
+most part, only when drunk on rum. [:The great sea-chest none of us had
+ever seen open.](#chest)
 
 He was only once crossed, and that was towards the end, when my poor
 father was far gone in a decline that took him off. Dr. Livesey came
@@ -180,9 +180,9 @@ glared still harder, and at last broke out with a villainous, low oath,
 “Silence, there, between decks!”
 
 “Were you addressing me, sir?” says the doctor; and when the ruffian had
-told him, with another oath, that this was so, “I have only one thing to
+told him, with another oath, that this was so, [:“I have only one thing to
 say to you, sir,” replies the doctor, “that if you keep on drinking rum,
-the world will soon be quit of a very dirty scoundrel!”
+the world will soon be quit of a very dirty scoundrel!”](#forecapdeath)
 
 The old fellow’s fury was awful. He sprang to his feet, drew and opened
 a sailor’s clasp-knife, and balancing it open on the palm of his hand,
@@ -192,7 +192,7 @@ The doctor never so much as moved. He spoke to him as before, over his
 shoulder and in the same tone of voice, rather high, so that all the
 room might hear, but perfectly calm and steady: “If you do not put that
 knife this instant in your pocket, I promise, upon my honour, you shall
-hang at the next assizes.”
+hang at the next [:assizes](https://en.wikipedia.org/wiki/Assizes).”
 
 Then followed a battle of looks between them, but the captain soon
 knuckled under, put up his weapon, and resumed his seat, grumbling like
@@ -221,3 +221,11 @@ We end up finding out this is true, as he tells Jim that he sailed as Captain Fl
 Foreshadowing the arrival of Black Dog.
 # :x capstanbars
 capstan bar. noun. a lever, often wooden, for turning a capstan.
+# :x blackdogscary
+This again refers to black dog, and paints a picture of how almost everyone saw him - not just Jim. He was feared by all, and probably a former member of Flint's crew who the Captain didn't get along with so well.
+# :x refusepay
+This goes on for a while, and when Jim and his mother take what they are owed when the pirate dies, it incites a conflict between them (with the Squire and the Doc.) and the pirates (Pew et. al)
+# :x forecapdeath
+Foreshadowing the Captain's stroke due to alcohol, which crippled him for the (rather short) rest of his life.
+# :x chest
+And there's a good reason why - it had all of the Captain's worldy possessions, along with critical documentation of his time as a pirate - if the Doctor or a lawmen had seen it he would be toast.
