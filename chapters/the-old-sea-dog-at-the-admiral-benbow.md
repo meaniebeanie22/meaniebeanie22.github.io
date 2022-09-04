@@ -33,7 +33,7 @@ often afterwards:
              Yo-ho-ho, and a bottle of rum!”](#poem)
 
 in the high, old tottering voice that seemed to have been tuned and
-broken at the [:capstan](https://en.wikipedia.org/wiki/Capstan_(nautical)) [:bars](https://www.thefreedictionary.com/capstan+bar). Then he rapped on the door with a bit of
+broken at the [:capstan](https://en.wikipedia.org/wiki/Capstan_(nautical)) [:bars](https://www.dictionary.com/browse/capstan-bar#:~:text=for%20capstan%20bar-,capstan%20bar,wooden%2C%20for%20turning%20a%20capstan). Then he rapped on the door with a bit of
 stick like a handspike that he carried, and when my father appeared,
 called roughly for a glass of rum. This, when it was brought to him,
 he drank slowly, like a connoisseur, lingering on the taste and still
