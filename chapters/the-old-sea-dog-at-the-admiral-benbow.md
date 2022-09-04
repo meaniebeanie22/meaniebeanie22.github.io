@@ -7,7 +7,8 @@ title: The Old Sea Dog
 1. An intro into the book, telling us who the main characters at the beginning are (Livesey and Trelawney), and gives us the settings of the book (the inn and Treasure Island predominantly)
 2. A recount of the old sea dog ('My mate Bill' - who turns out to have been Cpt. Flint's first mate) who stayed at the Admiral Benbow, and his physical appearance and general demeanor
 3. Dr. Livesey's first interaction with Bill, a confrontation that beings about the main plot
-4. 'The song'
+4. 'The song'  
+
 #### Analysis  
 During this chapter, Stevenson supports the character development of many of the core characters of the novel, and presents Jim in a light that relates him most to the target audience - youth. The whole novel brings about a sence of adventure, but this chapter is the kindling of the story - it takes the idea and gives it what it needs to grow into a fully fledged tale of adventure.
 ## Annotated chapter  
@@ -209,11 +210,11 @@ the captain held his peace that evening, and for many evenings to come.
 
 
 # :x chardesc
-Livesey, Trelawney, and others are acknowledged, along with a short explanation of the starting setting and characters
+Livesey, Trelawney, and others are acknowledged, along with a short explanation of the starting setting and characters.
 # :x poem
 You'll see this one a lot - it's the stereotypical pirate chant used throughout the book and modern pop-culture pirates, like Jack Sparrow.
 # :x captainunderpays
-He says this - but no one dares ask him for more - they end up scavenging it off his body after he has his second stroke
+He says this - but no one dares ask him for more - they end up scavenging it off his body after he has his second stroke.
 # :x captainisamate
 We end up finding out this is true, as he tells Jim that he sailed as Captain Flint's first mate (Flint being the one who's treasure we end up trying to take - flint was dead well before the story, hence why the Captain has his map).
 # :x blackdog
