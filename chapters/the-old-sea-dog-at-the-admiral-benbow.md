@@ -3,7 +3,13 @@ layout: page
 title: The Old Sea Dog
 ---
 ## Short summary  
-
+#### Events:  
+1. An intro into the book, telling us who the main characters at the beginning are (Livesey and Trelawney), and gives us the settings of the book (the inn and Treasure Island predominantly)
+2. A recount of the old sea dog ('My mate Bill' - who turns out to have been Cpt. Flint's first mate) who stayed at the Admiral Benbow, and his physical appearance and general demeanor
+3. Dr. Livesey's first interaction with Bill, a confrontation that beings about the main plot
+4. 'The song'
+#### Analysis  
+During this chapter, Stevenson supports the character development of many of the core characters of the novel, and presents Jim in a light that relates him most to the target audience - youth. The whole novel brings about a sence of adventure, but this chapter is the kindling of the story - it takes the idea and gives it what it needs to grow into a fully fledged tale of adventure.
 ## Annotated chapter  
 SQUIRE TRELAWNEY, Dr. Livesey, and the rest of these gentlemen having
 asked me to write down the whole particulars about Treasure Island, from
@@ -13,7 +19,7 @@ take up my pen in the year of grace 17__ and go back to the time when
 my father kept the Admiral Benbow inn and the brown old seaman with the
 sabre cut first took up his lodging under our roof.
 
-I remember him as if it were yesterday, as he came plodding to the
+[:I remember him](#chardesc) as if it were yesterday, as he came plodding to the
 inn door, his sea-chest following behind him in a hand-barrow--a
 tall, strong, heavy, nut-brown man, his tarry pigtail falling over the
 shoulder of his soiled blue coat, his hands ragged and scarred, with
@@ -22,11 +28,11 @@ white. I remember him looking round the cove and whistling to himself
 as he did so, and then breaking out in that old sea-song that he sang so
 often afterwards:
 
-          “Fifteen men on the dead man’s chest--
-             Yo-ho-ho, and a bottle of rum!”
+          [:“Fifteen men on the dead man’s chest--
+             Yo-ho-ho, and a bottle of rum!”](#poem)
 
 in the high, old tottering voice that seemed to have been tuned and
-broken at the capstan bars. Then he rapped on the door with a bit of
+broken at the [:capstan](https://en.wikipedia.org/wiki/Capstan_(nautical)) [:bars](https://www.thefreedictionary.com/capstan+bar). Then he rapped on the door with a bit of
 stick like a handspike that he carried, and when my father appeared,
 called roughly for a glass of rum. This, when it was brought to him,
 he drank slowly, like a connoisseur, lingering on the taste and still
@@ -43,12 +49,12 @@ up my chest. I’ll stay here a bit,” he continued. “I’m a plain man; rum
 and bacon and eggs is what I want, and that head up there for to watch
 ships off. What you mought call me? You mought call me captain. Oh, I
 see what you’re at--there”; and he threw down three or four gold pieces
-on the threshold. “You can tell me when I’ve worked through that,” says
+on the threshold. [:“You can tell me when I’ve worked through that,”](#captainunderpays) says
 he, looking as fierce as a commander.
 
 And indeed bad as his clothes were and coarsely as he spoke, he had none
-of the appearance of a man who sailed before the mast, but seemed like
-a mate or skipper accustomed to be obeyed or to strike. The man who came
+of the appearance of a man who sailed before the mast, [:but seemed like
+a mate or skipper accustomed to be obeyed or to strike.](#captainisamate] The man who came
 with the barrow told us the mail had set him down the morning before at
 the Royal George, that he had inquired what inns there were along the
 coast, and hearing ours well spoken of, I suppose, and described as
@@ -64,11 +70,11 @@ about our house soon learned to let him be. Every day when he came back
 from his stroll he would ask if any seafaring men had gone by along the
 road. At first we thought it was the want of company of his own kind
 that made him ask this question, but at last we began to see he was
-desirous to avoid them. When a seaman did put up at the Admiral Benbow
+desirous to avoid them. [:When a seaman did put up at the Admiral Benbow
 (as now and then some did, making by the coast road for Bristol) he
 would look in at him through the curtained door before he entered the
 parlour; and he was always sure to be as silent as a mouse when any such
-was present. For me, at least, there was no secret about the matter, for
+was present.](#blackdog) For me, at least, there was no secret about the matter, for
 I was, in a way, a sharer in his alarms. He had taken me aside one day
 and promised me a silver fourpenny on the first of every month if I
 would only keep my “weather-eye open for a seafaring man with one leg”
@@ -200,3 +206,15 @@ out of this. Let that suffice.”
 
 Soon after, Dr. Livesey’s horse came to the door and he rode away, but
 the captain held his peace that evening, and for many evenings to come.
+
+
+# :x chardesc
+Livesey, Trelawney, and others are acknowledged, along with a short explanation of the starting setting and characters
+# :x poem
+You'll see this one a lot - it's the stereotypical pirate chant used throughout the book and modern pop-culture pirates, like Jack Sparrow.
+# :x captainunderpays
+He says this - but no one dares ask him for more - they end up scavenging it off his body after he has his second stroke
+# :x captainisamate
+We end up finding out this is true, as he tells Jim that he sailed as Captain Flint's first mate (Flint being the one who's treasure we end up trying to take - flint was dead well before the story, hence why the Captain has his map).
+# :x blackdog
+Foreshadowing the arrival of Black Dog.
