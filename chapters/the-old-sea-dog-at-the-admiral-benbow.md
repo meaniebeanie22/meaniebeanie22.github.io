@@ -29,8 +29,8 @@ white. I remember him looking round the cove and whistling to himself
 as he did so, and then breaking out in that old sea-song that he sang so
 often afterwards:
 
-          [:“Fifteen men on the dead man’s chest--
-             Yo-ho-ho, and a bottle of rum!”](#poem)
+  [:“Fifteen men on the dead man’s chest--
+      Yo-ho-ho, and a bottle of rum!”](#poem)
 
 in the high, old tottering voice that seemed to have been tuned and
 broken at the [:capstan](https://en.wikipedia.org/wiki/Capstan_(nautical)) [:bars](#capstanbars). Then he rapped on the door with a bit of
