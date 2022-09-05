@@ -226,6 +226,6 @@ This again refers to Black Dog, and paints a picture of how almost everyone saw 
 # :x refusepay
 This goes on for a while, and when Jim and his mother take what they are owed when the pirate dies, it incites a conflict between them (with the Squire and the Doc.) and the pirates (Pew et. al).
 # :x forecapdeath
-Foreshadowing the Captain's stroke due to alcohol, which crippled him for the (rather short) rest of his life.
+Foreshadowing the Captain's stroke due to alcohol, which crippled him for the rest of his (rather short) life.
 # :x chest
 And there's a good reason why - it had all of the Captain's worldy possessions, along with critical documentation of his time as a pirate - if the Doctor or a lawmen had seen it he would be toast.
