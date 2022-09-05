@@ -222,9 +222,9 @@ Foreshadowing the arrival of Black Dog.
 # :x capstanbars
 capstan bar. noun. a lever, often wooden, for turning a capstan.
 # :x blackdogscary
-This again refers to black dog, and paints a picture of how almost everyone saw him - not just Jim. He was feared by all, and probably a former member of Flint's crew who the Captain didn't get along with so well.
+This again refers to Black Dog, and paints a picture of how almost everyone saw him - not just Jim. He was feared by all, and probably a former member of Flint's crew who the Captain didn't get along with so well.
 # :x refusepay
-This goes on for a while, and when Jim and his mother take what they are owed when the pirate dies, it incites a conflict between them (with the Squire and the Doc.) and the pirates (Pew et. al)
+This goes on for a while, and when Jim and his mother take what they are owed when the pirate dies, it incites a conflict between them (with the Squire and the Doc.) and the pirates (Pew et. al).
 # :x forecapdeath
 Foreshadowing the Captain's stroke due to alcohol, which crippled him for the (rather short) rest of his life.
 # :x chest
