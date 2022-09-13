@@ -11,6 +11,8 @@ title: The Old Sea Dog
 
 #### Analysis  
 During this chapter, Stevenson supports the character development of many of the core characters of the novel, and presents Jim in a light that relates him most to the target audience - youth. The whole novel brings about a sence of adventure, but this chapter is the kindling of the story - it takes the idea and gives it what it needs to grow into a fully fledged tale of adventure.
+  
+He uses themes like adventure and coming-of-age in Treasure Island extensively, further appealing to youth. It's written as a recount of the past, of what many of us thought great life could have been life back in the 1700s. While the book may not be particularly accurate, it certainly hits the spot in his audience.  
 ## Annotated chapter  
 SQUIRE TRELAWNEY, Dr. Livesey, and the rest of these gentlemen having
 asked me to write down the whole particulars about Treasure Island, from
