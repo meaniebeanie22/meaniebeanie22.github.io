@@ -3,7 +3,14 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-
+#### Events:  
+1. Black Dog comes to the Inn
+2. Scares Bill
+3. They beat eachother up, Bill winning
+4. Black Dog runs
+5. Bill has (his first) stroke
+#### Analysis  
+This chapter is mainly character development. We have a vivid description of both Black Dog and Livesey, along with foreshadowing about Bill's eventual demise due to a stroke from rum. The events of this chapter fuel the fire for the book, as it further continues to construct that sence of adventure and mystery tha Stevenson creates throughout the book.
 ## Annotated chapter  
 IT was not very long after this that there occurred the first of the
 mysterious events that rid us at last of the captain, though not, as you
