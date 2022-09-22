@@ -8,9 +8,11 @@ title: Chapter
 2. Scares Bill
 3. They beat eachother up, Bill winning
 4. Black Dog runs
-5. Bill has (his first) stroke
+5. Bill has (his first) stroke  
+
 #### Analysis  
-This chapter is mainly character development. We have a vivid description of both Black Dog and Livesey, along with foreshadowing about Bill's eventual demise due to a stroke from rum. The events of this chapter fuel the fire for the book, as it further continues to construct that sence of adventure and mystery tha Stevenson creates throughout the novel.
+This chapter is mainly character development. We have a vivid description of both Black Dog and Livesey, along with foreshadowing about Bill's eventual demise due to a stroke from rum. The events of this chapter fuel the fire for the book, as it further continues to construct that sence of adventure and mystery tha Stevenson creates throughout the novel.  
+
 ## Annotated chapter  
 [:IT was not very long after this that there occurred the first of the
 mysterious events that rid us at last of the captain, though not, as you
@@ -268,7 +270,7 @@ Evidence they served with Flint on the same vessel. As we see later on, Bill has
 Probably because he had a stroke due to several reasons:  
 1. Alcohol
 2. Stress
-3. Head Trauma
+3. Head Trauma  
 Hence the blood in his head couldn't move.
 
 # :x rumisdeath  
