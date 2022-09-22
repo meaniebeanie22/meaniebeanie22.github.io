@@ -10,11 +10,11 @@ title: Chapter
 4. Black Dog runs
 5. Bill has (his first) stroke
 #### Analysis  
-This chapter is mainly character development. We have a vivid description of both Black Dog and Livesey, along with foreshadowing about Bill's eventual demise due to a stroke from rum. The events of this chapter fuel the fire for the book, as it further continues to construct that sence of adventure and mystery tha Stevenson creates throughout the book.
+This chapter is mainly character development. We have a vivid description of both Black Dog and Livesey, along with foreshadowing about Bill's eventual demise due to a stroke from rum. The events of this chapter fuel the fire for the book, as it further continues to construct that sence of adventure and mystery tha Stevenson creates throughout the novel.
 ## Annotated chapter  
-IT was not very long after this that there occurred the first of the
+[:IT was not very long after this that there occurred the first of the
 mysterious events that rid us at last of the captain, though not, as you
-will see, of his affairs. It was a bitter cold winter, with long, hard
+will see, of his affairs.](#stroke) It was a bitter cold winter, with long, hard
 frosts and heavy gales; and it was plain from the first that my poor
 father was little likely to see the spring. He sank daily, and my mother
 and I had all the inn upon our hands, and were kept busy enough without
@@ -23,21 +23,21 @@ paying much regard to our unpleasant guest.
 It was one January morning, very early--a pinching, frosty morning--the
 cove all grey with hoar-frost, the ripple lapping softly on the stones,
 the sun still low and only touching the hilltops and shining far to
-seaward. The captain had risen earlier than usual and set out down the
+seaward. [:The captain had risen earlier than usual and set out down the
 beach, his cutlass swinging under the broad skirts of the old blue coat,
 his brass telescope under his arm, his hat tilted back upon his head. I
 remember his breath hanging like smoke in his wake as he strode off, and
 the last sound I heard of him as he turned the big rock was a loud snort
-of indignation, as though his mind was still running upon Dr. Livesey.
+of indignation, as though his mind was still running upon Dr. Livesey.](#billchardev)
 
 Well, mother was upstairs with father and I was laying the
 breakfast-table against the captain’s return when the parlour door
-opened and a man stepped in on whom I had never set my eyes before. He
+opened and a man stepped in on whom I had never set my eyes before. [:He
 was a pale, tallowy creature, wanting two fingers of the left hand, and
 though he wore a cutlass, he did not look much like a fighter. I
 had always my eye open for seafaring men, with one leg or two, and I
 remember this one puzzled me. He was not sailorly, and yet he had a
-smack of the sea about him too.
+smack of the sea about him too.](#blackdogin)
 
 I asked him what was for his service, and he said he would take rum; but
 as I was going out of the room to fetch it, he sat down upon a table
@@ -68,13 +68,13 @@ And when I had pointed out the rock and told him how the captain was
 likely to return, and how soon, and answered a few other questions,
 “Ah,” said he, “this’ll be as good as drink to my mate Bill.”
 
-The expression of his face as he said these words was not at all
+[:The expression of his face as he said these words was not at all
 pleasant, and I had my own reasons for thinking that the stranger was
 mistaken, even supposing he meant what he said. But it was no affair of
-mine, I thought; and besides, it was difficult to know what to do. The
+mine, I thought; and besides, it was difficult to know what to do.](#foreshadowbd) The
 stranger kept hanging about just inside the inn door, peering round the
 corner like a cat waiting for a mouse. Once I stepped out myself into
-the road, but he immediately called me back, and as I did not obey quick
+the road, [:but he immediately called me back](#repcallingback), and as I did not obey quick
 enough for his fancy, a most horrible change came over his tallowy face,
 and he ordered me in with an oath that made me jump. As soon as I
 was back again he returned to his former manner, half fawning, half
@@ -86,8 +86,8 @@ along of Bill, you wouldn’t have stood there to be spoke to twice--not
 you. That was never Bill’s way, nor the way of sich as sailed with him.
 And here, sure enough, is my mate Bill, with a spy-glass under his arm,
 bless his old ’art, to be sure. You and me’ll just go back into the
-parlour, sonny, and get behind the door, and we’ll give Bill a little
-surprise--bless his ’art, I say again.”
+parlour, sonny, and get behind the door, [:and we’ll give Bill a little
+surprise--bless his ’art, I say again.”](#intenttofight)
 
 So saying, the stranger backed along with me into the parlour and put me
 behind him in the corner so that we were both hidden by the open door. I
@@ -97,9 +97,9 @@ cleared the hilt of his cutlass and loosened the blade in the sheath;
 and all the time we were waiting there he kept swallowing as if he felt
 what we used to call a lump in the throat.
 
-At last in strode the captain, slammed the door behind him, without
+[:At last in strode the captain, slammed the door behind him, without
 looking to the right or left, and marched straight across the room to
-where his breakfast awaited him.
+where his breakfast awaited him.](#capscared)
 
 “Bill,” said the stranger in a voice that I thought he had tried to make
 bold and big.
@@ -118,7 +118,7 @@ The captain made a sort of gasp.
 “Black Dog!” said he.
 
 “And who else?” returned the other, getting more at his ease. “Black
-Dog as ever was, come for to see his old shipmate Billy, at the Admiral
+Dog as ever was, come for to see [:his old shipmate Billy](#shipmates), at the Admiral
 Benbow inn. Ah, Bill, Bill, we have seen a sight of times, us two, since
 I lost them two talons,” holding up his mutilated hand.
 
@@ -174,9 +174,9 @@ out, and I broke one glass and fouled the tap, and while I was still
 getting in my own way, I heard a loud fall in the parlour, and running
 in, beheld the captain lying full length upon the floor. At the same
 instant my mother, alarmed by the cries and fighting, came running
-downstairs to help me. Between us we raised his head. He was breathing
+downstairs to help me. [:Between us we raised his head. He was breathing
 very loud and hard, but his eyes were closed and his face a horrible
-colour.
+colour.](#strokesymptoms)
 
 “Dear, deary me,” cried my mother, “what a disgrace upon the house! And
 your poor father sick!”
@@ -237,8 +237,8 @@ Between us, with much trouble, we managed to hoist him upstairs, and
 laid him on his bed, where his head fell back on the pillow as if he
 were almost fainting.
 
-“Now, mind you,” said the doctor, “I clear my conscience--the name of
-rum for you is death.”
+“Now, mind you,” said the doctor, [:“I clear my conscience--the name of
+rum for you is death.”](#rumisdeath)
 
 And with that he went off to see my father, taking me with him by the
 arm.
@@ -247,3 +247,29 @@ arm.
 drawn blood enough to keep him quiet awhile; he should lie for a week
 where he is--that is the best thing for him and you; but another stroke
 would settle him.”
+
+# :x stroke  
+Referencing Bill's first stroke
+# :x billchardev  
+Further character development of Bill.
+# :x blackdogin  
+Description of Black Dog, and his weird air (as he wasn't a sailor, but a mate).
+# :x foreshadowbd  
+Foreshadowing Black Dog fighting Bill, and his strained relationship with him.  
+# :x repcallingback  
+Black Dog is constantly calling for Jim to be by his side, perhaps showing that his doesn't trust him, or that he wants him to see the fight he has with Bill.  
+# :x intenttofight  
+Black Dog telling Jim he's going to fight Bill, just before he opens the door.  
+# :x capscared  
+The captain shows many times that he is scared of Black Dog, probably because he served under him on Captain Flint's crew.  
+# :x shipmates  
+Evidence they served with Flint on the same vessel. As we see later on, Bill has precise records of Flint's voyages, and it would make sence for him to be Quartermaster, and Black Dog first mate.  
+# :x strokesymptoms  
+Probably because he had a stroke due to several reasons:  
+1. Alcohol
+2. Stress
+3. Head Trauma
+Hence the blood in his head couldn't move.
+
+# :x rumisdeath  
+We see he doesn't heed the doctor's advice, and he dies from a second and worse stroke.
