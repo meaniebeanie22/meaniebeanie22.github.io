@@ -14,8 +14,8 @@ title: Chapter
 In this chapter with have the death of Bill, who is the main plot driver for the first section, before Jim loks over his corpse to find the details needed for the whole plot to kick off (the map used by Livesey and the Squire to locate the treasure). This chapter gets the ball rolling, and serves as a spark for the rest of the story to grow (there are others, but this is the main one).
 ## Annotated chapter  
 ABOUT noon I stopped at the captain’s door with some cooling drinks
-and medicines. He was lying very much as we had left him, only a little
-higher, and he seemed both weak and excited.
+and medicines. [:He was lying very much as we had left him, only a little
+higher, and he seemed both weak and excited.](#reasonweak)
 
 “Jim,” he said, “you’re the only one here that’s worth anything, and you
 know I’ve been always good to you. Never a month but I’ve given you a
@@ -28,7 +28,7 @@ won’t you, matey?”
 But he broke in cursing the doctor, in a feeble voice but heartily.
 “Doctors is all swabs,” he said; “and that doctor there, why, what do
 he know about seafaring men? I been in places hot as pitch, and mates
-dropping round with Yellow Jack, and the blessed land a-heaving like the
+dropping round with [:Yellow Jack](#yellowjack), and the blessed land a-heaving like the
 sea with earthquakes--what to the doctor know of lands like that?--and I
 lived on rum, I tell you. It’s been meat and drink, and man and wife,
 to me; and if I’m not to have my rum now I’m a poor old hulk on a lee
@@ -82,12 +82,12 @@ former place, where he lay for a while silent.
 “Black Dog?” I asked.
 
 “Ah! Black Dog,” says he. “_He’s_ a bad ’un; but there’s worse that put him
-on. Now, if I can’t get away nohow, and they tip me the black spot, mind
-you, it’s my old sea-chest they’re after; you get on a horse--you can,
+on. Now, if I can’t get away nohow, and they tip me the [:black spot](#summons), mind
+you, [:it’s my old sea-chest they’re after](#map); you get on a horse--you can,
 can’t you? Well, then, you get on a horse, and go to--well, yes,
-I will!--to that eternal doctor swab, and tell him to pipe all
+I will!--to that eternal doctor swab, [:and tell him to pipe all
 hands--magistrates and sich--and he’ll lay ’em aboard at the Admiral
-Benbow--all old Flint’s crew, man and boy, all on ’em that’s left. I was
+Benbow--all old Flint’s crew, man and boy, all on ’em that’s left.](#arrests) I was
 first mate, I was, old Flint’s first mate, and I’m the on’y one as knows
 the place. He gave it me at Savannah, when he lay a-dying, like as if I
 was to now, you see. But you won’t peach unless they get the black spot
@@ -114,9 +114,9 @@ in the meanwhile kept me so busy that I had scarcely time to think of
 the captain, far less to be afraid of him.
 
 He got downstairs next morning, to be sure, and had his meals as usual,
-though he ate little and had more, I am afraid, than his usual supply of
+though he ate little [:and had more, I am afraid, than his usual supply of
 rum, for he helped himself out of the bar, scowling and blowing through
-his nose, and no one dared to cross him. On the night before the funeral
+his nose, and no one dared to cross him.](#rumod) On the night before the funeral
 he was as drunk as ever; and it was shocking, in that house of mourning,
 to hear him singing away at his ugly old sea-song; but weak as he was,
 we were all in the fear of death for him, and the doctor was suddenly
@@ -155,10 +155,10 @@ George!--where or in what part of this country he may now be?”
 “I hear a voice,” said he, “a young voice. Will you give me your hand,
 my kind young friend, and lead me in?”
 
-I held out my hand, and the horrible, soft-spoken, eyeless creature
+[:I held out my hand, and the horrible, soft-spoken, eyeless creature
 gripped it in a moment like a vise. I was so much startled that I
 struggled to withdraw, but the blind man pulled me close up to him with
-a single action of his arm.
+a single action of his arm.](#pew)
 
 “Now, boy,” he said, “take me in to the captain.”
 
@@ -208,8 +208,8 @@ senses, but at length, and about at the same moment, I released his
 wrist, which I was still holding, and he drew in his hand and looked
 sharply into the palm.
 
-“Ten o’clock!” he cried. “Six hours. We’ll do them yet,” and he sprang
-to his feet.
+[:“Ten o’clock!” he cried. “Six hours. We’ll do them yet,” and he sprang
+to his feet.](#maptaking)
 
 Even as he did so, he reeled, put his hand to his throat, stood swaying
 for a moment, and then, with a peculiar sound, fell from his whole
@@ -221,3 +221,20 @@ thing to understand, for I had certainly never liked the man, though of
 late I had begun to pity him, but as soon as I saw that he was dead, I
 burst into a flood of tears. It was the second death I had known, and
 the sorrow of the first was still fresh in my heart.
+
+# :x reasonweak  
+Stroke last chapter left him bedridden  
+# :x yellowjack  
+Another name for Yellow Fever, a viral disease spread by mosquitoes that can cause fever, headache, nausea, and vomiting. Common in parts of Africa and South America
+# :x summons  
+Pirate summons, means he's bust very soon.
+# :x map  
+Because of the map - we have evidence of this when the raid the Inn shortly after the Hawkins' took it and some money and left.
+# :x arrests  
+This ends up happening shortly after, and of those who come few make it out alive and well - Pew is crushed by a horse to start with.
+# :x rumod  
+He overdoses on rum and dies from another stroke at the end of the chapter.
+# :x pew  
+Pew - the blind man. Gives the Captain a black spot and a stroke.
+# :x maptaking  
+When they take the map? When he has to hand what he got from flint over? It would make sence, and is just after Hawkins and co take the map.
