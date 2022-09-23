@@ -3,7 +3,16 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Loading treasure on to the Hispaniola
+2. They hear the mutineers - drunk and screaming
+3. Mutineers deserted
+4. A single shot fired into the sail
+5. Go to a port in Spanish America for more hands - Silver deserts with some money
+6. Summary of ending situation for the characters still alive and known  
 
+#### Analysis:  
+This chapter is mainly to tie up loose ends in the novel  it's the end after all. We're given a description of what, when, and how the remaining characters live out their lives, and are brought to the end of Jim's recount of the events, further reminding us of the ultimate set of the book.
 ## Annotated chapter  
 THE next morning we fell early to work, for the transportation of this
 great mass of gold near a mile by land to the beach, and thence three
