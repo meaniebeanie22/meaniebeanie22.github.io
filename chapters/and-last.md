@@ -80,7 +80,7 @@ one, at least, of them is down with fever--I should leave this camp,
 and at whatever risk to my own carcass, take them the assistance of my
 skill.”
 
-“Ask your pardon, sir, you would be very wrong,” quoth Silver. “You
+[:“Ask your pardon, sir, you would be very wrong,” quoth Silver.](#mutguns) “You
 would lose your precious life, and you may lay to that. I’m on your side
 now, hand and glove; and I shouldn’t wish for to see the party weakened,
 let alone yourself, seeing as I know what I owes you. But these men down
@@ -92,7 +92,7 @@ and what’s more, they couldn’t believe as you could.”
 Well, that was about the last news we had of the three pirates. Only
 once we heard a gunshot a great way off and supposed them to be hunting.
 A council was held, and it was decided that we must desert them on the
-island--to the huge glee, I must say, of Ben Gunn, and with the strong
+island--to the huge glee, I must say, of [:Ben Gunn](#bg), and with the strong
 approval of Gray. We left a good stock of powder and shot, the bulk
 of the salt goat, a few medicines, and some other necessaries, tools,
 clothing, a spare sail, a fathom or two of rope, and by the particular
@@ -163,8 +163,8 @@ I think we were all pleased to be so cheaply quit of him.
 Well, to make a long story short, we got a few hands on board, made a
 good cruise home, and the HISPANIOLA reached Bristol just as Mr. Blandly
 was beginning to think of fitting out her consort. Five men only of
-those who had sailed returned with her. “Drink and the devil had done
-for the rest,” with a vengeance, although, to be sure, we were not quite
+those who had sailed returned with her. [:“Drink and the devil had done
+for the rest,”](#rep) with a vengeance, although, to be sure, we were not quite
 in so bad a case as that other ship they sang about:
 
      With one man of her crew alive,
@@ -194,3 +194,10 @@ wain-ropes would not bring me back again to that accursed island; and
 the worst dreams that ever I have are when I hear the surf booming about
 its coasts or start upright in bed with the sharp voice of Captain Flint
 still ringing in my ears: “Pieces of eight! Pieces of eight!”
+
+# :x mutguns
+They still have a musket, and a man who can aim it - so not a wise plan.
+# :x bg
+He was marooned by Flint, so makes sence why he is eager.
+# :x rep
+A thought back to the start of the book, and the drunken melody of Billy Bones and his crew.
