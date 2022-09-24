@@ -60,7 +60,9 @@ alow and aloft.”
 
 The blind man cursed the money.
 
-“Flint’s fist, I mean,” he cried.
+[:“Flint’s fist](#fist), I mean,” he cried.
+# :x fist
+Flint's fist is the name of the map  
 
 “We don’t see it here nohow,” returned the man.
 
