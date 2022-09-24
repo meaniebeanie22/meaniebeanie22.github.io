@@ -3,7 +3,14 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-
+#### Events: 
+1. They run to a hamlet across the road
+2. Hawkins' goes back to collect the money which they are owed, while some of the hamlet's residents go off to fetch Livesey
+3. They cut the key off Bill's neck 
+4. They also take the [:oilskin](https://en.wikipedia.org/wiki/Oilskin) packet that contained the map
+5. Mother faints, but they get across the bridge
+#### Analysis:
+This chapter creates the first major problem in the novel - Bill has died, and Jim took his treasure map. The hurry and rush around the black spot from the last chapter builds the intensity for this to occur, and the looming threat of the pirates coming for their treasure puts Livesey and the other riders on the clock.
 ## Annotated chapter  
 I LOST no time, of course, in telling my mother all that I knew, and
 perhaps should have told her long before, and we saw ourselves at once
@@ -24,7 +31,7 @@ the saying goes, I jumped in my skin for terror. Something must speedily
 be resolved upon, and it occurred to us at last to go forth together
 and seek help in the neighbouring hamlet. No sooner said than done.
 Bare-headed as we were, we ran out at once in the gathering evening and
-the frosty fog.
+the frosty fog.[:](#imagery)
 
 The hamlet lay not many hundred yards away, though out of view, on the
 other side of the next cove; and what greatly encouraged me, it was
@@ -65,8 +72,8 @@ Of course I said I would go with my mother, and of course they all cried
 out at our foolhardiness, but even then not a man would go along with
 us. All they would do was to give me a loaded pistol lest we were
 attacked, and to promise to have horses ready saddled in case we were
-pursued on our return, while one lad was to ride forward to the doctor’s
-in search of armed assistance.
+pursued on our return, [:while one lad was to ride forward to the doctor’s
+in search of armed assistance.](#timing)
 
 My heart was beating finely when we two set forth in the cold night upon
 this dangerous venture. A full moon was beginning to rise and peered
@@ -204,3 +211,8 @@ down the bank and a little way under the arch. Farther I could not move
 her, for the bridge was too low to let me do more than crawl below it.
 So there we had to stay--my mother almost entirely exposed and both of
 us within earshot of the inn.
+
+# :x imagery
+Setting the scene for the rush of action that is about to happen, whilst further building suspense for the arrival of the riders.
+# :x timing
+Who would arrive just in the nick of time to fend off the pirates. *Coincidence?*
