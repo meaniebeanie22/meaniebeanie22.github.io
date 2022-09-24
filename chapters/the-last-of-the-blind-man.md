@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:
+1. The pirates breach the inn
+2. They search bill
+3. Realise that Jim already took the key
+4. Panic, and the inn is upturned
+5. Riders show up
+6. Pew crushed
+7. 
+#### Analysis:  
 
 ## Annotated chapter
 MY curiosity, in a sense, was stronger than my fear, for I could not
