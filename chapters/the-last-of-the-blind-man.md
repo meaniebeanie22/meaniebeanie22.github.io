@@ -10,10 +10,10 @@ title: Chapter
 4. Panic, and the inn is upturned
 5. Riders show up
 6. Pew crushed
-7. Hawkins gives Livesey the treasure map
-#### Analysis:  
-Treasure island is many stories formed into one - and this is the resolution of the first section. If you look at the story arc, you end up with a wave, with arcs getting bigger and smaller as you move through the chapters. This structure keeps the reader hooked, giving the book an everliving sence of adventure, from the first chapter to the last.
-## Annotated chapter
+7. Hawkins gives Livesey the treasure map  
+#### Analysis:    
+Treasure island is many stories formed into one - and this is the resolution of the first section. If you look at the story arc, you end up with a wave, with arcs getting bigger and smaller as you move through the chapters. This structure keeps the reader hooked, giving the book an everliving sence of adventure, from the first chapter to the last.  
+## Annotated chapter  
 MY curiosity, in a sense, was stronger than my fear, for I could not
 remain where I was, but crept back to the bank again, whence, sheltering
 my head behind a bush of broom, I might command the road before our
@@ -61,9 +61,7 @@ alow and aloft.”
 The blind man cursed the money.
 
 [:“Flint’s fist](#fist), I mean,” he cried.
-# :x fist
-Flint's fist is the name of the map  
-
+ 
 “We don’t see it here nohow,” returned the man.
 
 “Here, you below there, is it on Bill?” cried the blind man again.
@@ -113,7 +111,7 @@ poor, crawling beggar, sponging for rum, when I might be rolling in a
 coach! If you had the pluck of a weevil in a biscuit you would catch
 them still.”
 
-“Hang it, Pew, we’ve got the doubloons!” grumbled one.
+“Hang it, Pew, we’ve got the [:doubloons](https://en.wikipedia.org/wiki/Doubloon)!” grumbled one.
 
 “They might have hid the blessed thing,” said another. “Take the
 Georges, Pew, and don’t stand here squalling.”
@@ -217,3 +215,5 @@ behind you.”
 As soon as I was mounted, holding on to Dogger’s belt, the supervisor
 gave the word, and the party struck out at a bouncing trot on the road
 to Dr. Livesey’s house.
+# :x fist
+Flint's fist is the name of the map 
