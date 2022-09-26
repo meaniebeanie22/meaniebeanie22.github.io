@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. The Hispanola is bought and fitted
+2. LJS interacted with by Squire Trelawney
+3. Hands hired
+4. Inn repaired
+5. The rest head to Bristol
+
+#### Analysis:  
+This chapter sets up the events of the second part of the story, with the shi[p that the rest takes part on being purchased, fited, and manned. This chapter serves to introduce Long John Silver, and he is referenced throughout the rest of the book. This chapter also serves to introduce the intermediary setting of Bristol, which they are in only for a short time, but that time is what resuolts in the whole catastrophy that becomes the mutiny.
 
 ## Annotated chapter  
 IT was longer than the squire imagined ere we were ready for the sea,
