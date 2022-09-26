@@ -9,9 +9,11 @@ title: Chapter
 3. Bill is still very weak (recoving from a stroke)  
 4. Black Spot description  
 5. Jim's father dies  
-6. Pew (the blind beggar) gives Bill a note, and he has a stroke and dies
+6. Pew (the blind beggar) gives Bill a note, and he has a stroke and dies  
+
 #### Analysis:  
-In this chapter with have the death of Bill, who is the main plot driver for the first section, before Jim loks over his corpse to find the details needed for the whole plot to kick off (the map used by Livesey and the Squire to locate the treasure). This chapter gets the ball rolling, and serves as a spark for the rest of the story to grow (there are others, but this is the main one).
+In this chapter with have the death of Bill, who is the main plot driver for the first section, before Jim loks over his corpse to find the details needed for the whole plot to kick off (the map used by Livesey and the Squire to locate the treasure). This chapter gets the ball rolling, and serves as a spark for the rest of the story to grow (there are others, but this is the main one).  
+
 ## Annotated chapter  
 ABOUT noon I stopped at the captain’s door with some cooling drinks
 and medicines. [:He was lying very much as we had left him, only a little

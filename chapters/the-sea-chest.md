@@ -9,8 +9,10 @@ title: Chapter
 3. They cut the key off Bill's neck 
 4. They also take the [:oilskin](https://en.wikipedia.org/wiki/Oilskin) packet that contained the map
 5. Mother faints, but they get across the bridge
+
 #### Analysis:
-This chapter creates the first major problem in the novel - Bill has died, and Jim took his treasure map. The hurry and rush around the black spot from the last chapter builds the intensity for this to occur, and the looming threat of the pirates coming for their treasure puts Livesey and the other riders on the clock.
+This chapter creates the first major problem in the novel - Bill has died, and Jim took his treasure map. The hurry and rush around the black spot from the last chapter builds the intensity for this to occur, and the looming threat of the pirates coming for their treasure puts Livesey and the other riders on the clock.  
+
 ## Annotated chapter  
 I LOST no time, of course, in telling my mother all that I knew, and
 perhaps should have told her long before, and we saw ourselves at once
