@@ -3,14 +3,14 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-#### Events:
+#### Events:  
 1. Ride to Livesey's
 2. Jim gives Livesey the map bundle
 3. Bundle opened, and they read Bone's record book
-4. Map opened, contains all the coordinates, and instructions to find the chest.
-#### Analysis:
-This chapter sets up the story for the beginning of the second section, where Jim and co set off. With the resolution of the first section, something needed to keep the novel going, and the discovery of the map by Jim and its use by Livesy sets the wheels in motion again.
-## Annotated chapter  
+4. Map opened, contains all the coordinates, and instructions to find the chest.  
+#### Analysis:  
+This chapter sets up the story for the beginning of the second section, where Jim and co set off. With the resolution of the first section, something needed to keep the novel going, and the discovery of the map by Jim and its use by Livesy sets the wheels in motion again.  
+## Annotated chapter    
 WE rode hard all the way till we drew up before Dr. Livesey’s door. The
 house was all dark to the front.
 

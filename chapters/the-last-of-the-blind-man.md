@@ -3,16 +3,16 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-#### Events:
+#### Events:  
 1. The pirates breach the inn
 2. They search bill
 3. Realise that Jim already took the key
 4. Panic, and the inn is upturned
 5. Riders show up
 6. Pew crushed
-7. Hawkins gives Livesey the treasure map
+7. Hawkins gives Livesey the treasure map  
 
-#### Analysis:    
+#### Analysis:  
 Treasure island is many stories formed into one - and this is the resolution of the first section. If you look at the story arc, you end up with a wave, with arcs getting bigger and smaller as you move through the chapters. This structure keeps the reader hooked, giving the book an everliving sence of adventure, from the first chapter to the last.  
 
 ## Annotated chapter  

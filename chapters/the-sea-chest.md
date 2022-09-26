@@ -3,14 +3,14 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-#### Events: 
+#### Events:  
 1. They run to a hamlet across the road
 2. Hawkins' goes back to collect the money which they are owed, while some of the hamlet's residents go off to fetch Livesey
 3. They cut the key off Bill's neck 
 4. They also take the [:oilskin](https://en.wikipedia.org/wiki/Oilskin) packet that contained the map
-5. Mother faints, but they get across the bridge
+5. Mother faints, but they get across the bridge  
 
-#### Analysis:
+#### Analysis:  
 This chapter creates the first major problem in the novel - Bill has died, and Jim took his treasure map. The hurry and rush around the black spot from the last chapter builds the intensity for this to occur, and the looming threat of the pirates coming for their treasure puts Livesey and the other riders on the clock.  
 
 ## Annotated chapter  
