@@ -3,7 +3,13 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-
+#### Events:
+1. Ride to Livesey's
+2. Jim gives Livesey the map bundle
+3. Bundle opened, and they read Bone's record book
+4. Map opened, contains all the coordinates, and instructions to find the chest.
+#### Analysis:
+This chapter sets up the story for the beginning of the second section, where Jim and co set off. With the resolution of the first section, something needed to keep the novel going, and the discovery of the map by Jim and its use by Livesy sets the wheels in motion again.
 ## Annotated chapter  
 WE rode hard all the way till we drew up before Dr. Livesey’s door. The
 house was all dark to the front.
@@ -199,7 +205,7 @@ Over on the back the same hand had written this further information:
      The arms are easy found, in the sand-hill, N.
      point of north inlet cape, bearing E. and a
      quarter N.
-     J.F.
+     [:J.F.](#flint)
 
 That was all; but brief as it was, and to me incomprehensible, it filled
 the squire and Dr. Livesey with delight.
@@ -232,3 +238,6 @@ found.”
 
 “Livesey,” returned the squire, “you are always in the right of it. I’ll
 be as silent as the grave.”
+
+# :x flint
+Captain Flint's initials.
