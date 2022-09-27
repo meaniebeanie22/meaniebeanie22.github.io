@@ -1,4 +1,4 @@
-# meaniebeanie22.github.io
+# [meaniebeanie22.github.io](https://meaniebeanie22.github.io)
 it's all hell  
 sections are under /chapters/ as section1 etc.  
 each section needs to link to the chapters under it.  
