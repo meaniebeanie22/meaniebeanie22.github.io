@@ -10,4 +10,4 @@ title: Part 2: The Sea Cook
 [Chapter 11 - What I Heard in the Apple Barrel](/chapters/what-i-heard-in-the-apple-barrel.html)  
 [Chapter 12 - Council of War](/chapters/council-of-war.html)  
 ## A short summary...
-lorem ipsum banana split
+This section covers events happening in Bristol, on the voyage to Treasure Island, and before anyone went ashore. It is in this part that we learn of LJS's idea to mutiny, and the stories circulating among the crew. We hear of the worthiness of the Hispanola as a sailing vessel, and the trials and tribulations of Captain Smollet among his crew and among those who hired him. He is initially hated by everyone, but he gains rapport among the Squire and Jim after demonstrating his abilities and worthiness at the command of the vessel.
