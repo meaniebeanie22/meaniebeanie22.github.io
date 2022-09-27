@@ -12,7 +12,7 @@ title: Chapter
 6. Jim learns of LJS's plot to mutiny, but the reader is left on a cliffhanger
 
 #### Analysis:  
-In this chapter we have a descripion of the voyage and a cliffhanger. This chapter is building tension for the climax of section 2, and Stevenson deliberately draws this out to add tension and detail to the events that are about to happen. This chapter also build on Jim's relationship with LJS and the crew, providing a more in depth view of his thoughts about them.
+In this chapter we have a descripion of the voyage and a cliffhanger. This chapter is building tension for the climax of section 2, and Stevenson deliberately draws this out to add tension and detail to the events that are about to happen. This chapter also builds on Jim's relationship with LJS and the crew, providing a more in depth view of his thoughts about them.
 
 ## Annotated chapter  
 ALL that night we were in a great bustle getting things stowed in their
