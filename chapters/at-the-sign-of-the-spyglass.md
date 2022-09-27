@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events: 
+1. Jim meets L.J.S
+2. Jim spots Black Dog, who runs and is not caught
+3. They talk of Pew, and how him and his gang used to come to the Spy-glass
+4. General chatter between Silver and Jim
+5. They go back to the Hispanola, Silver leaves while Livesey, Jim, and Trelawney go aboard to inspect the ship
+
+#### Analysis:  
+This chapter elaborates on LJS, bringing him further into the spotlight of the book. Stevenson provides a background for him that matches his personality, and we see his interactions with Jim and Livesey, with the Livesey remarking [:'I don’t put much faith in your discoveries, as a general thing; but I will say this, John Silver suits me.'](#start=['I don’t put much faith in your discoveries, as a general thing; but I will say this, John Silver suits me.']), which ends up haunting him in the next few chapters.
 
 ## Annotated chapter  
 At the Sign of the Spy-glass
