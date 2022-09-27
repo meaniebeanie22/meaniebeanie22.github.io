@@ -62,8 +62,8 @@ been his annoyance, Silver had the strength of mind to hide it.
 
 “Yes, sir,” said he, “this is the spot, to be sure, and very prettily
 drawed out. Who might have done that, I wonder? The pirates were too
-ignorant, I reckon. Aye, here it is: ‘Capt. Kidd’s Anchorage’--just
-the name my shipmate called it. There’s a strong current runs along the
+ignorant, I reckon. Aye, here it is: ‘Capt. Kidd’s Anchorage’--[:just
+the name my shipmate called it.](#hiscaptain) There’s a strong current runs along the
 south, and then away nor’ard up the west coast. Right you was, sir,”
  says he, “to haul your wind and keep the weather of the island.
 Leastways, if such was your intention as to enter and careen, and there
@@ -215,3 +215,6 @@ through me that safety came. In the meantime, talk as we pleased, there
 were only seven out of the twenty-six on whom we knew we could rely; and
 out of these seven one was a boy, so that the grown men on our side were
 six to their nineteen.
+
+# :x hiscaptain
+Odd, it's almost like it was named by the captain he sailed with, Flint.
