@@ -3,6 +3,16 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. The song returns
+2. Arrow was as bad as the captain thought, he was drunk and disorderly. He fell overboard to everyone's relief
+3. Everyone obeyed LJS (because he was msot of the crew's old [:Quartermaster](https://en.wikipedia.org/wiki/Quartermaster#Pirate_quartermasters)), and his nickname was Barbecue
+4. Jim is introduced to LJS's parrot, who is remembers a lot of weird things
+5. Recount of directions they took to get to the island
+6. Jim learns of LJS's plot to mutiny, but the reader is left on a cliffhanger
+
+#### Analysis:  
+In this chapter we have a descripion of the voyage and a cliffhanger. This chapter is building tension for the climax of section 2, and Stevenson deliberately draws this out to add tension and detail to the events that are about to happen. This chapter also build on Jim's relationship with LJS and the crew, providing a more in depth view of his thoughts about them.
 
 ## Annotated chapter  
 ALL that night we were in a great bustle getting things stowed in their
@@ -176,7 +186,7 @@ with a bright lookout day and night. It was about the last day of our
 outward voyage by the largest computation; some time that night, or at
 latest before noon of the morrow, we should sight the Treasure Island.
 We were heading S.S.W. and had a steady breeze abeam and a quiet sea.
-The HISPANIOLA rolled steadily, dipping her bowsprit now and then with
+The HISPANIOLA rolled steadily, dipping her [:bowsprit](#bowspirit) now and then with
 a whiff of spray. All was drawing alow and aloft; everyone was in the
 bravest spirits because we were now so near an end of the first part of
 our adventure.
@@ -199,3 +209,6 @@ not have shown myself for all the world, but lay there, trembling and
 listening, in the extreme of fear and curiosity, for from these dozen
 words I understood that the lives of all the honest men aboard depended
 upon me alone.
+
+# :x bowspirit
+The pole extending from the front of the ship (the bow) which is often used to hold a figurehead and a line for the front sail
