@@ -79,7 +79,7 @@ his score. Harry, run and catch him.”
 One of the others who was nearest the door leaped up and started in
 pursuit.
 
-“If he were Admiral Hawke he shall pay his score,” cried Silver; and
+“If he were [:Admiral Hawke](https://en.wikipedia.org/wiki/Edward_Hawke,_1st_Baron_Hawke) he shall pay his score,” cried Silver; and
 then, relinquishing my hand, “Who did you say he was?” he asked. “Black
 what?”
 
