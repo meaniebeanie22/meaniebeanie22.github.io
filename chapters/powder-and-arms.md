@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Captain Smollet introduced
+2. He has problems with the crew and the mission (to recover treasure), and begins swapping out the crew
+3. He also points out how the ship is being loaded poorly, and how the hands know almost all the details on the map already (Silver knows them as he was on Flint's crew as [:Quartermaster](https://en.wikipedia.org/wiki/Quartermaster#Pirate_quartermasters), so makes sence)
+4. Smollet gets his way, and changes are made
+5. Almsot everyone appears to hate the Captain, even though later on he demonstrates his abilities to the rest of the crew.
+
+#### Analysis:  
+This chapter introduces the Captain, along with Arrow. We see the Captain trying to bring the ship into a more favourable state, and unexpectedly Trelawney and Livesey listen and attempt to fix the issues outlines by the Captain in their quarters. Powder and arms are moved, berths reassigned, and the ship is in a far more favourable state if there were to be a mutiny (foreshadowing).
 
 ## Annotated chapter  
 THE HISPANIOLA lay some way out, and we went under the figureheads and
@@ -174,14 +183,14 @@ When we came on deck, the men had begun already to take out the arms and
 powder, yo-ho-ing at their work, while the captain and Mr. Arrow stood
 by superintending.
 
-The new arrangement was quite to my liking. The whole schooner had been
+The new arrangement was quite to my liking. The whole [:schooner](https://en.wikipedia.org/wiki/Schooner) had been
 overhauled; six berths had been made astern out of what had been the
 after-part of the main hold; and this set of cabins was only joined to
 the galley and forecastle by a sparred passage on the port side. It had
 been originally meant that the captain, Mr. Arrow, Hunter, Joyce, the
 doctor, and the squire were to occupy these six berths. Now Redruth and
 I were to get two of them and Mr. Arrow and the captain were to sleep
-on deck in the companion, which had been enlarged on each side till you
+on deck in the [:companion](https://en.wikipedia.org/wiki/Companionway), which had been enlarged on each side till you
 might almost have called it a round-house. Very low it was still, of
 course; but there was room to swing two hammocks, and even the mate
 seemed pleased with the arrangement. Even he, perhaps, had been doubtful
@@ -210,8 +219,8 @@ disappeared at once in the direction of his galley.
 
 “Very likely, sir,” replied Captain Smollett. “Easy with that,
 men--easy,” he ran on, to the fellows who were shifting the powder; and
-then suddenly observing me examining the swivel we carried amidships,
-a long brass nine, “Here you, ship’s boy,” he cried, “out o’ that! Off
+then suddenly observing me examining the [:swivel](https://en.wikipedia.org/wiki/Swivel_gun) we carried amidships,
+a [:long brass nine](#gun), “Here you, ship’s boy,” he cried, “out o’ that! Off
 with you to the cook and get some work.”
 
 And then as I was hurrying off I heard him say, quite loudly, to the
@@ -219,3 +228,6 @@ doctor, “I’ll have no favourites on my ship.”
 
 I assure you I was quite of the squire’s way of thinking, and hated the
 captain deeply.
+
+# :x gun
+Nine referring to the weight of the cannonball - nine pounds (~4kg), and the ball would be 3 and 1/2 inches (9cm) in diameter.
