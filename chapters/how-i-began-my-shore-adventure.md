@@ -3,6 +3,14 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Jim takes one of the boats ashore
+2. Plan made for the honests to stay aboard, and the rest let on to the island
+3. Jim stuffs it up by coming ashore with the rest
+4. Jim is noticed in the boats by LJS, and he bolts into the forest
+
+#### Analysis:  
+This chapter sets the scene for the mutiny to take place, as all the honest people (except Jim) stayed aboard the ship, while those who were plotting went ashore. We see Jim rushing off into the forest to avoid confrontation with Silver, and Stevenson uses this to pique the readers interest just before the mutineers open fire. This chapter serves as a set up for the events of the third part, and introduces the complication for this section - Jim being ashore with no honest men with him.
 
 ## Annotated chapter  
 THE appearance of the island when I came on deck next morning was
