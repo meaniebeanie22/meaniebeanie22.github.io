@@ -3,6 +3,14 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Description of LJS's time with Flint
+2. They are going after Flint's treasure (the crew knows), so they're happy
+3. More stories from John
+4. Mutiny planning
+
+#### Analysis:  
+This chapter introduces the main complication fo the story - the mutiny among the crew, with the honest hands at one end, and LJS's men (most of them old ones of Flint) at the other. This is the core issue of the novel, and is what delivers many of the other events, including the stockade on Treasure Island.
 
 ## Annotated chapter  
 “NO, not I,” said Silver. “Flint was cap’n; I was quartermaster, along
@@ -84,7 +92,7 @@ crew afloat, was Flint’s; the devil himself would have been feared to go
 to sea with them. Well now, I tell you, I’m not a boasting man, and you
 seen yourself how easy I keep company, but when I was quartermaster,
 LAMBS wasn’t the word for Flint’s old buccaneers. Ah, you may be sure of
-yourself in old John’s ship.”
+yourself in [:old John’s ship.”](#johnasserting)
 
 “Well, I tell you now,” replied the lad, “I didn’t half a quarter like
 the job till I had this talk with you, John; but there’s my hand on it
@@ -214,3 +222,6 @@ Just then a sort of brightness fell upon me in the barrel, and looking
 up, I found the moon had risen and was silvering the mizzen-top and
 shining white on the luff of the fore-sail; and almost at the same time
 the voice of the lookout shouted, “Land ho!”
+
+# :x johnasserting
+Here we see LJS asserting that he is the captain of the ship, further indicating that he is planning to mutiny and take charge.
