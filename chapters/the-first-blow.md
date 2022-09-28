@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Jim hears voices in the woods, presumably other crewmen
+2. Overhears the other crewmen, and one of them is an honest hand
+3. One honest killed by LJS, Tom speaks out, and them gets pelted with a brach by LJS and is stabbed to death
+4. Shot fired
+5. Jim runs to Ben Gunn's hill
+
+#### Analysis:  
+This chapter introduces the mutineers, and shows us how LJS ruthlessly punishes traitors when not under the watchful eye of the captain or squire. We see how he portrays himself in further detail, and the honests discover to what extent LJS is willing to use his men to capture the ship and treasure for him, and not his crew.
 
 ## Annotated chapter  
 I WAS so pleased at having given the slip to Long John that I began to
