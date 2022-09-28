@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Jim sees a creature running towards him, who lands on his knees begging - it's Ben Gunn
+2. Jim mentions the Hispanola, and they talk to eachother
+3. We learn that Ben has dug up the treasure and has it stored
+4. We hear of Ben's misfortune that led to him being marooned
+5. A stockade has been set up by the mutineers
+
+#### Analysis:  
+In this chapter Stevenson introduces the reader to Ben Gunn, and we are told of his adventures with Captain Flint and his crew, along with a voyage on another vessel after that lead to him being marooned on the island. He is instrumental to Jim's success, and Stevenson uses this chapter to give Jim a partner on the island before total war breaks out between the mutineers and those still on the ship.
 
 ## Annotated chapter  
 FROM the side of the hill, which was here steep and stony, a spout of
@@ -48,12 +57,12 @@ At that I once more stopped.
 
 “Who are you?” I asked.
 
-“Ben Gunn,” he answered, and his voice sounded hoarse and awkward,
+[:“Ben Gunn,” he answered, and his voice sounded hoarse and awkward,
 like a rusty lock. “I’m poor Ben Gunn, I am; and I haven’t spoke with a
 Christian these three years.”
 
 I could now see that he was a white man like myself and that his
-features were even pleasing. His skin, wherever it was exposed, was
+features were even pleasing.](#racism) His skin, wherever it was exposed, was
 burnt by the sun; even his lips were black, and his fair eyes looked
 quite startling in so dark a face. Of all the beggar-men that I had seen
 or fancied, he was the chief for raggedness. He was clothed with tatters
@@ -114,7 +123,7 @@ that put me here. I’ve thought it all out in this here lonely island,
 and I’m back on piety. You don’t catch me tasting rum so much, but just
 a thimbleful for luck, of course, the first chance I have. I’m bound
 I’ll be good, and I see the way to. And, Jim”--looking all round him and
-lowering his voice to a whisper--“I’m rich.”
+lowering his voice to a whisper--[:“I’m rich.”](#bgtreasure)
 
 I now felt sure that the poor fellow had gone crazy in his solitude, and
 I suppose I must have shown the feeling in my face, for he repeated the
@@ -154,7 +163,7 @@ the whole story of our voyage and the predicament in which we found
 ourselves. He heard me with the keenest interest, and when I had done he
 patted me on the head.
 
-“You’re a good lad, Jim,” he said; “and you’re all in a clove hitch,
+“You’re a good lad, Jim,” he said; “and you’re all in a [:clove hitch](#clovehitch),
 ain’t you? Well, you just put your trust in Ben Gunn--Ben Gunn’s the man
 to do it. Would you think it likely, now, that your squire would prove
 a liberal-minded one in case of help--him being in a clove hitch, as you
@@ -254,3 +263,12 @@ of small arms.
 
 Another pause, and then, not a quarter of a mile in front of me, I
 beheld the Union Jack flutter in the air above a wood.
+
+# :x racism
+This shows how times were far different back in the 17 and 1800's, as we have an example of division between races (with Jim being thankful as Ben was a white, christian man).
+
+# :x bgtreasure
+Here we have a hint that Ben Gunn has found the treasure and dug it up, along with storing it in his cave. This is crucial later in the story.
+
+# :x clovehitch
+Fundamental knot, [:see wikipedia entry.](https://en.wikipedia.org/wiki/Clove_hitch)
