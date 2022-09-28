@@ -87,11 +87,11 @@ The sun beat full upon them. Silver had thrown his hat beside him on the
 ground, and his great, smooth, blond face, all shining with heat, was
 lifted to the other man’s in a kind of appeal.
 
-“Mate,” he was saying, “it’s because I thinks gold dust of you--gold
+“Mate,” he was saying, [:“it’s because I thinks gold dust of you--gold
 dust, and you may lay to that! If I hadn’t took to you like pitch, do
 you think I’d have been here a-warning of you? All’s up--you can’t make
 nor mend; it’s to save your neck that I’m a-speaking, and if one of the
-wild uns knew it, where’d I be, Tom--now, tell me, where’d I be?”
+wild uns knew it, where’d I be, Tom--now, tell me, where’d I be?”](#weirdsimilies)
 
 “Silver,” said the other man--and I observed he was not only red in the
 face, but spoke as hoarse as a crow, and his voice shook too, like a
@@ -144,12 +144,12 @@ It struck poor Tom, point foremost, and with stunning violence, right
 between the shoulders in the middle of his back. His hands flew up, he
 gave a sort of gasp, and fell.
 
-Whether he were injured much or little, none could ever tell. Like
+[:Whether he were injured much or little, none could ever tell. Like
 enough, to judge from the sound, his back was broken on the spot. But he
 had no time given him to recover. Silver, agile as a monkey even without
 leg or crutch, was on the top of him next moment and had twice buried
 his knife up to the hilt in that defenceless body. From my place of
-ambush, I could hear him pant aloud as he struck the blows.
+ambush, I could hear him pant aloud as he struck the blows.](#nomercyLJS)
 
 I do not know what it rightly is to faint, but I do know that for the
 next little while the whole world swam away from before me in a whirling
@@ -200,3 +200,12 @@ some nearer seventy, feet high. The air too smelt more freshly than down
 beside the marsh.
 
 And here a fresh alarm brought me to a standstill with a thumping heart.
+
+
+# :x nomercysilver
+Another demonstration of Silver's split personality - on one side he is all smiles and caring, on the other he is a ruthless murderer. In the sight of authority he obeys, but when hidden in the shadows he plots, kills, and plunders.
+
+# :x weirdsimilies
+This is just a mess of weird similies from way back, but i'll try and break it down so the modern folk can understand:
+- I thinks gold dust of you - I think you're like gold, very precious (makes sence)
+- I took to you like pitch - I liked you so much I stuck to you like pitch (pitch being an extremely sticky black tar used for repairing holes in ships)
