@@ -3,13 +3,21 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Boat carrying last load of supplies too heavy
+2. Mutineers were left aboard the ship, and they are firing the swivel
+3. People on the jolly-boat fire back
+4. Boat sinks with many provisions
+
+#### Analysis:  
+This chapter introduces a complication for the honest men, as they are stuck on the island missing a goodly chunk of their supplies, and with fire coming from two directions - the coast (Hands and co on the Hispanola with the swivel gun) and on land (the mutineers using small arms). This requires them to hunker down for a siege at the stockade, which is the climax for this part. 
 
 ## Annotated chapter  
 THIS fifth trip was quite different from any of the others. In the
-first place, the little gallipot of a boat that we were in was gravely
+first place, the little [:gallipot](https://en.wikipedia.org/wiki/Gallipot) of a boat that we were in was gravely
 overloaded. Five grown men, and three of them--Trelawney, Redruth, and
 the captain--over six feet high, was already more than she was meant
-to carry. Add to that the powder, pork, and bread-bags. The gunwale was
+to carry. Add to that the powder, pork, and bread-bags. The [:gunwale](https://en.wikipedia.org/wiki/Gunwale) was
 lipping astern. Several times we shipped a little water, and my breeches
 and the tails of my coat were all soaking wet before we had gone a
 hundred yards.
@@ -108,12 +116,12 @@ great number of voices from the shore, and looking in that direction
 I saw the other pirates trooping out from among the trees and tumbling
 into their places in the boats.
 
-“Here come the gigs, sir,” said I.
+“Here come the [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)), sir,” said I.
 
 “Give way, then,” cried the captain. “We mustn’t mind if we swamp her
 now. If we can’t get ashore, all’s up.”
 
-“Only one of the gigs is being manned, sir,” I added; “the crew of the
+“Only one of the [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)) is being manned, sir,” I added; “the crew of the
 other most likely going round by shore to cut us off.”
 
 “They’ll have a hot run, sir,” returned the captain. “Jack ashore, you
