@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+##### Events:  
+1. 
+2. 
+3. 
+4. 
+5. 
+
+#### Analysis:  
+
 
 ## Annotated chapter  
 “JIM,” said Silver when we were alone, “if I saved your life, you saved

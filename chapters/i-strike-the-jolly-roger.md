@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+##### Events:  
+1. 
+2. 
+3. 
+4. 
+5. 
+
+#### Analysis:  
+
 
 ## Annotated chapter  
 I HAD scarce gained a position on the bowsprit when the flying jib

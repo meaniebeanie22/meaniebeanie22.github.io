@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+##### Events:  
+1. 
+2. 
+3. 
+4. 
+5. 
+
+#### Analysis:  
+
 
 ## Annotated chapter  
 Narrative Resumed by Jim Hawkins: The Garrison in the Stockade

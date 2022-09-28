@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+##### Events:  
+1. 
+2. 
+3. 
+4. 
+5. 
+
+#### Analysis:  
+
 
 ## Annotated chapter  
 AS soon as Silver disappeared, the captain, who had been closely

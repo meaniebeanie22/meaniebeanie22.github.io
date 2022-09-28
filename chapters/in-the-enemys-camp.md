@@ -3,6 +3,15 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+##### Events:  
+1. 
+2. 
+3. 
+4. 
+5. 
+
+#### Analysis:  
+
 
 ## Annotated chapter  
 THE red glare of the torch, lighting up the interior of the block house,
