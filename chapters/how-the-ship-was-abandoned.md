@@ -3,6 +3,14 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
+#### Events:  
+1. Livesey concerned for Jim's safety as he had gone ashore
+2. Doc and Hunter go ashore with the [:jolly-boat](#jb)
+3. They set up the stockade, and try to ship over supplies
+4. Jolly-boat sent back to Hispanola and being filled with all sorts of important things
+
+#### Analysis:  
+This chapter is the introduction for Part 4, and follows the same style as the other introduction chapters. We see a new point of view from the Doctor, which Stevenson uses to add detail and depth to the events that occurered on this part of the island while Jim was not present, so that the reader is able to construct an image of the setting and events.
 
 ## Annotated chapter  
 IT was about half past one--three bells in the sea phrase--that the two
@@ -21,15 +29,15 @@ if ever a man smelt fever and dysentery, it was in that abominable
 anchorage. The six scoundrels were sitting grumbling under a sail in the
 forecastle; ashore we could see the gigs made fast and a man sitting
 in each, hard by where the river runs in. One of them was whistling
-“Lillibullero.”
+“[:Lillibullero](https://www.youtube.com/watch?v=uDhRthVLBQQ?t=10).”
 
 Waiting was a strain, and it was decided that Hunter and I should go
-ashore with the jolly-boat in quest of information.
+ashore with the [:jolly-boat](#jb) in quest of information.
 
 The gigs had leaned to their right, but Hunter and I pulled straight in,
 in the direction of the stockade upon the chart. The two who were
 left guarding their boats seemed in a bustle at our appearance;
-“Lillibullero” stopped off, and I could see the pair discussing what
+“[:Lillibullero](https://www.youtube.com/watch?v=uDhRthVLBQQ?t=10)” stopped off, and I could see the pair discussing what
 they ought to do. Had they gone and told Silver, all might have turned
 out differently; but they had their orders, I suppose, and decided to
 sit quietly where they were and hark back again to “Lillibullero.”
@@ -40,11 +48,11 @@ I jumped out and came as near running as I durst, with a big silk
 handkerchief under my hat for coolness’ sake and a brace of pistols
 ready primed for safety.
 
-I had not gone a hundred yards when I reached the stockade.
+I had not gone a hundred yards when I reached the [:stockade](https://en.wikipedia.org/wiki/Stockade).
 
 This was how it was: a spring of clear water rose almost at the top of a
 knoll. Well, on the knoll, and enclosing the spring, they had clapped a
-stout loghouse fit to hold two score of people on a pinch and loopholed
+stout loghouse fit to hold [:two score](#score) of people on a pinch and loopholed
 for musketry on either side. All round this they had cleared a wide
 space, and then the thing was completed by a paling six feet high,
 without door or opening, too strong to pull down without time and labour
@@ -110,7 +118,7 @@ By this time, tumbling things in as they came, we had the jolly-boat
 loaded as much as we dared. Joyce and I got out through the stern-port,
 and we made for shore again as fast as oars could take us.
 
-This second trip fairly aroused the watchers along shore. “Lillibullero”
+This second trip fairly aroused the watchers along shore. “[:Lillibullero](https://www.youtube.com/watch?v=uDhRthVLBQQ?t=10)”
  was dropped again; and just before we lost sight of them behind the
 little point, one of them whipped ashore and disappeared. I had half a
 mind to change my plan and destroy their boats, but I feared that Silver
@@ -180,3 +188,9 @@ And the next moment he and the captain had dropped aboard of us, and we
 had shoved off and given way.
 
 We were clear out of the ship, but not yet ashore in our stockade.
+
+# :x jb
+[:The jolly boat was a type of ship's boat in use during the 18th and 19th centuries. Used mainly to ferry personnel to and from the ship, or for other small-scale activities, it was, by the 18th century, one of several types of ship's boat. The design evolved throughout its period in service...](https://en.wikipedia.org/wiki/Jolly_boat)
+# :x score
+a group or set of twenty or about twenty.
+"a score of men lost their lives in the battle"
