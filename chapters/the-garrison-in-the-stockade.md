@@ -4,14 +4,14 @@ title: Chapter
 ---
 ## Short summary  
 ##### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Ben Gunn returns to his home
+2. Jim watches what happened in the last few chapters (those narrated by the Doctor), including the trials and tribulations of the jolly-boat
+3. Jim rejoins the faithful men
+4. Ben Gunn gets his cheese
+5. Silver comes with a Flag of Truce
 
 #### Analysis:  
-
+In this chapter we see further development of those located at the stockade, along with the furtherance of Ben Gunn's various ramblings to Jim. Stevenson uses these recounts to ellicit this sence of adventure, as no one (often the reader included) knows what is coming next, allowing Stevenson to bring the reader and the characters along for a wild journey through the island.
 
 ## Annotated chapter  
 Narrative Resumed by Jim Hawkins: The Garrison in the Stockade
@@ -124,7 +124,7 @@ Little had been left besides the framework of the house, but in one
 corner there was a stone slab laid down by way of hearth and an old
 rusty iron basket to contain the fire.
 
-The slopes of the knoll and all the inside of the stockade had been
+The slopes of the [:knoll](#knoll) and all the inside of the stockade had been
 cleared of timber to build the house, and we could see by the stumps
 what a fine and lofty grove had been destroyed. Most of the soil had
 been washed away or buried in drift after the removal of the trees; only
@@ -210,7 +210,7 @@ before a week.
 
 “So,” he added, “if we are not all shot down first they’ll be glad to
 be packing in the schooner. It’s always a ship, and they can get to
-buccaneering again, I suppose.”
+[:buccaneering](#buccaneer) again, I suppose.”
 
 “First ship that ever I lost,” said Captain Smollett.
 
@@ -226,3 +226,8 @@ a cry of surprise, “Silver himself!”
 
 And at that, up I jumped, and rubbing my eyes, ran to a loophole in the
 wall.
+
+# :x knoll
+a small round hill
+# :x buccaneer
+Buccaneers were a kind of privateers or free sailors particular to the Caribbean Sea during the 17th and 18th centuries. First established on northern Hispaniola as early as 1625, their heyday was from the Restoration in 1660 until about 1688, during a time when governments were not strong enough and did not consistently attempt to suppress them.
