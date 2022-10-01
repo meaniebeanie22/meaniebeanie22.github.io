@@ -11,7 +11,7 @@ title: Chapter
 5. He's threatened by Smollet, and then leaves by himself as no one will give him a hand up off the sand.
 
 #### Analysis:  
-In this chapter we have the tipping point for an all0out war between the faithful en and the mutineers, as both Silver's and Smollet's demands to eachother are rejected, and they treat eachother with nothing but the greatest hostilities. This chappter shows us the fragile balance that Stevenson had been using to keep both the characters AND the reader on edge, and only now to we realise how crucial it has been to the plot as they two battling sides fall into chaos (a good metaphor for life if I do say so myself).
+In this chapter we have the tipping point for an all-out war between the faithful en and the mutineers, as both Silver's and Smollet's demands to eachother are rejected, and they treat eachother with nothing but the greatest hostilities. This chappter shows us the fragile balance that Stevenson had been using to keep both the characters AND the reader on edge, and only now to we realise how crucial it has been to the plot as they two battling sides fall into chaos (a good metaphor for life if I do say so myself).
 
 ## Annotated chapter  
 SURE enough, there were two men just outside the stockade, one of them
