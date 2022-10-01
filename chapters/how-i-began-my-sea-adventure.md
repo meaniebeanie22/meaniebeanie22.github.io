@@ -4,14 +4,12 @@ title: Chapter
 ---
 ## Short summary  
 ##### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Recovering from the attack last chapter
+2. Jim takes French leave, slipping off into the woods to find Ben Gunn's boat
+3. He sets up the boat for an attempt at boarding the Hispaniola 
 
 #### Analysis:  
-
+In this chapter we have a setup for Jim attempting to retake the Hispaniola, and the finishing touches that Stevenson wanted to add to tie up some loose ends form the last chapter and part. We have his interpretation of what an adventurous teenager might do in this situation, and a demonstration of Jim's foolishness to try and take the Hispaniola alone, without telling anyone at his camp.
 
 ## Annotated chapter  
 THERE was no return of the mutineers--not so much as another shot out of
@@ -47,7 +45,7 @@ After dinner the squire and the doctor sat by the captain’s side awhile
 in consultation; and when they had talked to their hearts’ content, it
 being then a little past noon, the doctor took up his hat and pistols,
 girt on a cutlass, put the chart in his pocket, and with a musket over
-his shoulder crossed the palisade on the north side and set off briskly
+his shoulder crossed the [:palisade](https://en.wikipedia.org/wiki/palisade) on the north side and set off briskly
 through the trees.
 
 Gray and I were sitting together at the far end of the block house, to
@@ -67,7 +65,7 @@ mark my words, I am.”
 he’s going now to see Ben Gunn.”
 
 I was right, as appeared later; but in the meantime, the house being
-stifling hot and the little patch of sand inside the palisade ablaze
+stifling hot and the little patch of sand inside the [:palisade](https://en.wikipedia.org/wiki/palisade) ablaze
 with midday sun, I began to get another thought into my head, which was
 not by any means so right. What I began to do was to envy the doctor
 walking in the cool shadow of the woods with the birds about him and the
@@ -87,7 +85,7 @@ over-bold act; but I was determined to do it with all the precautions in
 my power. These biscuits, should anything befall me, would keep me, at
 least, from starving till far on in the next day.
 
-The next thing I laid hold of was a brace of pistols, and as I already
+The next thing I laid hold of was a [:brace of pistols](#bop), and as I already
 had a powder-horn and bullets, I felt myself well supplied with arms.
 
 As for the scheme I had in my head, it was not a bad one in itself. I
@@ -141,7 +139,7 @@ lee of Skeleton Island, lay still and leaden as when first we entered
 it. The HISPANIOLA, in that unbroken mirror, was exactly portrayed from
 the truck to the waterline, the Jolly Roger hanging from her peak.
 
-Alongside lay one of the gigs, Silver in the stern-sheets--him I could
+Alongside lay one of the [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)), Silver in the [:stern-sheets](#sternsheets)--him I could
 always recognize--while a couple of men were leaning over the stern
 bulwarks, one of them with a red cap--the very rogue that I had seen
 some hours before stride-legs upon the palisade. Apparently they were
@@ -176,7 +174,7 @@ for me, and I can hardly imagine that it could have floated with a
 full-sized man. There was one thwart set as low as possible, a kind of
 stretcher in the bows, and a double paddle for propulsion.
 
-I had not then seen a coracle, such as the ancient Britons made, but
+I had not then seen a [:coracle](https://en.wikipedia.org/wiki/Coracle), such as the ancient Britons made, but
 I have seen one since, and I can give you no fairer idea of Ben Gunn’s
 boat than by saying it was like the first and the worst coracle ever
 made by man. But the great advantage of the coracle it certainly
@@ -194,7 +192,7 @@ a fine thing to prevent, and now that I had seen how they left their
 watchmen unprovided with a boat, I thought it might be done with little
 risk.
 
-Down I sat to wait for darkness, and made a hearty meal of biscuit. It
+Down I sat to wait for darkness, and made a hearty meal of [:biscuit](#notbiscuit). It
 was a night out of ten thousand for my purpose. The fog had now buried
 all heaven. As the last rays of daylight dwindled and disappeared,
 absolute blackness settled down on Treasure Island. And when, at last,
@@ -214,3 +212,12 @@ of swampy sand, where I sank several times above the ankle, before I
 came to the edge of the retreating water, and wading a little way in,
 with some strength and dexterity, set my coracle, keel downwards, on the
 surface.
+
+# :x bop
+A sash with space for several pistols OR two, depending on the situation.
+
+# :x sternsheets
+The back area of an open boat, with no seats. Generally a good place to stand in the boat while it's moving
+
+# :x notbiscuit
+Now this isn't the biscuit you're thinking of - this is hardtack. Hardtack is essentially a cooked rock of flour and water - bone dry and barely edible. [:See wikipedia](https://en.wikipedia.org/wiki/Hardtack).
