@@ -6,11 +6,11 @@ title: Chapter
 #### Events:  
 1. Boat carrying last load of supplies too heavy
 2. Mutineers were left aboard the ship, and they are firing the swivel
-3. People on the jolly-boat fire back
+3. People on the [:jolly-boat](https://en.wikipedia.org/wiki/Jolly_boat) fire back
 4. Boat sinks with many provisions
 
 #### Analysis:  
-This chapter introduces a complication for the honest men, as they are stuck on the island missing a goodly chunk of their supplies, and with fire coming from two directions - the coast (Hands and co on the Hispanola with the swivel gun) and on land (the mutineers using small arms). This requires them to hunker down for a siege at the stockade, which is the climax for this part. 
+This chapter introduces a complication for the honest men, as they are stuck on the island missing a goodly chunk of their supplies, and with fire coming from two directions - the coast (Hands and co on the Hispanola with the swivel gun) and on land (the mutineers using small arms). This requires them to hunker down for a siege at the [:stockade](https://en.wikipedia.org/wiki/Stockade), which is the climax for this part. 
 
 ## Annotated chapter  
 THIS fifth trip was quite different from any of the others. In the
@@ -18,7 +18,7 @@ first place, the little [:gallipot](https://en.wikipedia.org/wiki/Gallipot) of a
 overloaded. Five grown men, and three of them--Trelawney, Redruth, and
 the captain--over six feet high, was already more than she was meant
 to carry. Add to that the powder, pork, and bread-bags. The [:gunwale](https://en.wikipedia.org/wiki/Gunwale) was
-lipping astern. Several times we shipped a little water, and my breeches
+lipping astern. Several times we shipped a little water, and my [:breeches](https://en.wikipedia.org/wiki/Breeches)
 and the tails of my coat were all soaking wet before we had gone a
 hundred yards.
 
@@ -31,9 +31,9 @@ the straits by which we had entered in the morning. Even the ripples
 were a danger to our overloaded craft, but the worst of it was that we
 were swept out of our true course and away from our proper landing-place
 behind the point. If we let the current have its way we should come
-ashore beside the gigs, where the pirates might appear at any moment.
+ashore beside the [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)), where the [:pirates](#piratesnow) might appear at any moment.
 
-“I cannot keep her head for the stockade, sir,” said I to the captain.
+“I cannot keep her head for the [:stockade](https://en.wikipedia.org/wiki/Stockade), sir,” said I to the captain.
 I was steering, while he and Redruth, two fresh men, were at the oars.
 “The tide keeps washing her down. Could you pull a little stronger?”
 
@@ -50,14 +50,14 @@ way we ought to go.
  returned the captain. “We must keep upstream. You see, sir,” he went on,
 “if once we dropped to leeward of the landing-place, it’s hard to say
 where we should get ashore, besides the chance of being boarded by the
-gigs; whereas, the way we go the current must slacken, and then we can
+[:gigs](https://en.wikipedia.org/wiki/Gig_(boat)); whereas, the way we go the current must slacken, and then we can
 dodge back along the shore.”
 
 “The current’s less a’ready, sir,” said the man Gray, who was sitting in
 the fore-sheets; “you can ease her off a bit.”
 
-“Thank you, my man,” said I, quite as if nothing had happened, for we
-had all quietly made up our minds to treat him like one of ourselves.
+“Thank you, my man,” said I, quite as if nothing had happened, [:for we
+had all quietly made up our minds to treat him like one of ourselves.](#grayescaped)
 
 Suddenly the captain spoke up again, and I thought his voice was a
 little changed.
@@ -133,7 +133,7 @@ In the meanwhile we had been making headway at a good pace for a boat so
 overloaded, and we had shipped but little water in the process. We were
 now close in; thirty or forty strokes and we should beach her, for the
 ebb had already disclosed a narrow belt of sand below the clustering
-trees. The gig was no longer to be feared; the little point had already
+trees. The [:gig](https://en.wikipedia.org/wiki/Gig_(boat)) was no longer to be feared; the little point had already
 concealed it from our eyes. The ebb-tide, which had so cruelly delayed
 us, was now making reparation and delaying our assailants. The one
 source of danger was the gun.
@@ -165,7 +165,7 @@ ashore in safety. But there were all our stores at the bottom, and to
 make things worse, only two guns out of five remained in a state for
 service. Mine I had snatched from my knees and held over my head, by
 a sort of instinct. As for the captain, he had carried his over his
-shoulder by a bandoleer, and like a wise man, lock uppermost. The other
+shoulder by a bandoleer, and like a wise man, [:lock](#gunlock) uppermost. The other
 three had gone down with the boat.
 
 To add to our concern, we heard voices already drawing near us in the
@@ -177,5 +177,12 @@ was a doubtful case--a pleasant, polite man for a valet and to brush
 one’s clothes, but not entirely fitted for a man of war.
 
 With all this in our minds, we waded ashore as fast as we could, leaving
-behind us the poor jolly-boat and a good half of all our powder and
+behind us the poor [:jolly-boat](https://en.wikipedia.org/wiki/Jolly_boat) and a good half of all our powder and
 provisions.
+
+# :x gunlock
+The part of a musket that has all the complicated working parts, mainly the striker, pan, and the tube to the chamber - these all being heavily susceptible to rust and debris.
+# :x grayescaped
+Gray was one of the mutineers, before he was hurt by LJS and given the boot.
+# :x piratesnow
+They used to be called mutineers. Stevenson now choosing the term 'pirates' shows that he wants to put them in a poor light, and how they have developed throughout this part of the story.
