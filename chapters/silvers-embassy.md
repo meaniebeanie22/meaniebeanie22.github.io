@@ -4,14 +4,14 @@ title: Chapter
 ---
 ## Short summary
 ##### Events:  
-1. Silver comes to the outside of the stockade with a flag of truce
+1. Silver comes to the outside of the [:stockade](https://en.wikipedia.org/wiki/stockade) with a flag of truce
 2. Silver has been 'elected' the captain by the mutineers, and as such Smollet scolds him
 3. Silver tresspasses into the stockade, and is forced to sit outside on the sand while he talks to Smollet 
 4. He demands the chart, and is utterly rejected by Smollet
 5. He's threatened by Smollet, and then leaves by himself as no one will give him a hand up off the sand.
 
 #### Analysis:  
-In this chapter we have the tipping point for an all-out war between the faithful en and the mutineers, as both Silver's and Smollet's demands to eachother are rejected, and they treat eachother with nothing but the greatest hostilities. This chappter shows us the fragile balance that Stevenson had been using to keep both the characters AND the reader on edge, and only now to we realise how crucial it has been to the plot as they two battling sides fall into chaos (a good metaphor for life if I do say so myself).
+In this chapter we have the tipping point for an all-out war between the faithful men and the mutineers, as both Silver's and Smollet's demands to eachother are rejected, and they treat eachother with nothing but the greatest hostilities. This chapter shows us the fragile balance that Stevenson had been using to keep both the characters AND the reader on edge, and only now do we realise how crucial it has been to the plot as they two battling sides fall into chaos (a good metaphor for life if I do say so myself).
 
 ## Annotated chapter  
 SURE enough, there were two men just outside the stockade, one of them
@@ -23,7 +23,7 @@ was abroad in--a chill that pierced into the marrow. The sky was bright
 and cloudless overhead, and the tops of the trees shone rosily in
 the sun. But where Silver stood with his lieutenant, all was still in
 shadow, and they waded knee-deep in a low white vapour that had crawled
-during the night out of the morass. The chill and the vapour taken
+during the night out of the [:morass](https://en.wiktionary.org/wiki/morass). The chill and the vapour taken
 together told a poor tale of the island. It was plainly a damp,
 feverish, unhealthy spot.
 
@@ -57,7 +57,7 @@ Long John answered for himself. “Me, sir. These poor lads have chosen me
 cap’n, after your desertion, sir”--laying a particular emphasis upon the
 word “desertion.” “We’re willing to submit, if we can come to terms,
 and no bones about it. All I ask is your word, Cap’n Smollett, to let me
-safe and sound out of this here stockade, and one minute to get out o’
+safe and sound out of this here [:stockade](https://en.wikipedia.org/wiki/stockade), and one minute to get out o’
 shot before a gun is fired.”
 
 “My man,” said Captain Smollett, “I have not the slightest desire to
@@ -80,7 +80,7 @@ to be of the slightest use as sentry; indeed, I had already deserted
 my eastern loophole and crept up behind the captain, who had now seated
 himself on the threshold, with his elbows on his knees, his head in his
 hands, and his eyes fixed on the water as it bubbled out of the old iron
-kettle in the sand. He was whistling “Come, Lasses and Lads.”
+kettle in the sand. He was whistling [:“Come, Lasses and Lads.”](https://www.youtube.com/watch?v=sdehXwLgkHA?t=8)
 
 Silver had terrible hard work getting up the knoll. What with the
 steepness of the incline, the thick tree stumps, and the soft sand, he
@@ -167,8 +167,8 @@ stopping their tobacco, now leaning forward to spit. It was as good as
 the play to see them.
 
 “Now,” resumed Silver, “here it is. You give us the chart to get the
-treasure by, and drop shooting poor seamen and stoving of their heads in
-while asleep. You do that, and we’ll offer you a choice. Either you come
+treasure by, [:and drop shooting poor seamen and stoving of their heads in
+while asleep.](#bgmurder) You do that, and we’ll offer you a choice. Either you come
 aboard along of us, once the treasure shipped, and then I’ll give you my
 affy-davy, upon my word of honour, to clap you somewhere safe ashore. Or
 if that ain’t to your fancy, some of my hands being rough and having
@@ -223,3 +223,6 @@ And with a dreadful oath he stumbled off, ploughed down the sand, was
 helped across the stockade, after four or five failures, by the man with
 the flag of truce, and disappeared in an instant afterwards among the
 trees.
+
+# :x bgmurder
+Ben Gunn is doing this without the knowledge of the faithful men, but in the end it is what allows them to acquire victory over the mutineers.

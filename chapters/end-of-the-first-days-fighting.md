@@ -196,3 +196,5 @@ Gifts from a god/deity - a bit of a weird expression to use but this is the 1700
 the space in the stern of an open boat not occupied by the thwarts (seats)
 # :x magazine
 Powder/shot storage, not a little box you put into a rifle!
+# :x buccsnow
+Again, Stevenson is using different words to describe the mutineers based on their current actions and motives - from mutineers, to pirates, to buccaneers.
