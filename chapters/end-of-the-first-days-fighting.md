@@ -14,7 +14,7 @@ In this chapter we have many things going on, the least of which is a major sett
 
 ## Annotated chapter  
 WE made our best speed across the strip of wood that now divided us from
-the stockade, and at every step we took the voices of the buccaneers
+the [:stockade](https://en.wikipedia.org/wiki/stockade), and at every step we took the voices of the [:buccaneers](#buccsnow)
 rang nearer. Soon we could hear their footfalls as they ran and the
 cracking of the branches as they breasted across a bit of thicket.
 
@@ -31,10 +31,10 @@ handed him my cutlass. It did all our hearts good to see him spit in his
 hand, knit his brows, and make the blade sing through the air. It was
 plain from every line of his body that our new hand was worth his salt.
 
-Forty paces farther we came to the edge of the wood and saw the stockade
+Forty paces farther we came to the edge of the wood and saw the [:stockade](https://en.wikipedia.org/wiki/stockade)
 in front of us. We struck the enclosure about the middle of the south
 side, and almost at the same time, seven mutineers--Job Anderson, the
-boatswain, at their head--appeared in full cry at the southwestern
+[:boatswain](https://en.wikipedia.org/wiki/Boatswain), at their head--appeared in full cry at the southwestern
 corner.
 
 They paused as if taken aback, and before they recovered, not only the
@@ -43,7 +43,7 @@ fire. The four shots came in rather a scattering volley, but they did
 the business: one of the enemy actually fell, and the rest, without
 hesitation, turned and plunged into the trees.
 
-After reloading, we walked down the outside of the palisade to see to
+After reloading, we walked down the outside of the [:palisade](https://en.wikipedia.org/wiki/Palisade) to see to
 the fallen enemy. He was stone dead--shot through the heart.
 
 We began to rejoice over our good success when just at that moment a
@@ -65,7 +65,7 @@ Poor old fellow, he had not uttered one word of surprise, complaint,
 fear, or even acquiescence from the very beginning of our troubles till
 now, when we had laid him down in the log-house to die. He had lain like
 a Trojan behind his mattress in the gallery; he had followed every order
-silently, doggedly, and well; he was the oldest of our party by a score
+silently, doggedly, and well; he was the oldest of our party by a [:score](#score)
 of years; and now, sullen, old, serviceable servant, it was he that was
 to die.
 
@@ -115,7 +115,7 @@ were not back by the end of August Blandly was to send to find us, but
 neither sooner nor later. “You can calculate for yourself,” I said.
 
 “Why, yes,” returned the captain, scratching his head; “and making a
-large allowance, sir, for all the gifts of Providence, I should say we
+large allowance, sir, for all the [:gifts of Providence](#gop), I should say we
 were pretty close hauled.”
 
 “How do you mean?” I asked.
@@ -157,13 +157,13 @@ wood in front of us is likely clear. The ebb has made a good while; our
 stores should be uncovered. Volunteers to go and bring in pork.”
 
 Gray and Hunter were the first to come forward. Well armed, they stole
-out of the stockade, but it proved a useless mission. The mutineers were
+out of the [:stockade](https://en.wikipedia.org/wiki/stockade), but it proved a useless mission. The mutineers were
 bolder than we fancied or they put more trust in Israel’s gunnery. For
 four or five of them were busy carrying off our stores and wading out
-with them to one of the gigs that lay close by, pulling an oar or so to
-hold her steady against the current. Silver was in the stern-sheets in
+with them to one of the [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)) that lay close by, pulling an oar or so to
+hold her steady against the current. Silver was in the [:stern-sheets](#sternsheets) in
 command; and every man of them was now provided with a musket from some
-secret magazine of their own.
+secret [:magazine](#magazine) of their own.
 
 The captain sat down to his log, and here is the beginning of the entry:
 
@@ -186,4 +186,13 @@ A hail on the land side.
 “Doctor! Squire! Captain! Hullo, Hunter, is that you?” came the cries.
 
 And I ran to the door in time to see Jim Hawkins, safe and sound, come
-climbing over the stockade.
+climbing over the [:stockade](https://en.wikipedia.org/wiki/stockade).
+
+# :x score
+about 20
+# :x gop
+Gifts from a god/deity - a bit of a weird expression to use but this is the 1700's.
+# :x sternsheets
+the space in the stern of an open boat not occupied by the thwarts (seats)
+# :x magazine
+Powder/shot storage, not a little box you put into a rifle!
