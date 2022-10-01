@@ -4,14 +4,13 @@ title: Chapter
 ---
 ## Short summary  
 ##### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. The mutineers lay siege to the stockade, entering with the two sides exchanging fire
+2. They make it to the house, disarming and killing Hunter, and the doctor being hit with a cutlass
+3. A fight insues, with the honest's switching to cutlasses and killing many of the mutineers
+4. Numbers stand at 4-8 honests to mutineers.
 
 #### Analysis:  
-
+This chapter serves as both an introduction to the fifth section of the novel, where fighting amongst the mutineers and honest men is the main event whilst also closing off the fourth section (which mainly contains preparations for fighting an small skirmishes, as opposed to consistant fighting of both sides). This chapter is used by Stevenson to demonstrate the heartlessness of the mutineers, and how they are willing to kill many a man just for a chance at the treasure that lays within the island.
 
 ## Annotated chapter  
 AS soon as Silver disappeared, the captain, who had been closely
@@ -200,7 +199,7 @@ night-cap still half-way over, another still just showing his head above
 the top of the stockade. And yet, in this breath of time, the fight was
 over and the victory was ours.
 
-Gray, following close behind me, had cut down the big boatswain ere
+Gray, following close behind me, had cut down the big boatswain [:ere](#ere)
 he had time to recover from his last blow. Another had been shot at a
 loophole in the very act of firing into the house and now lay in agony,
 the pistol still smoking in his hand. A third, as I had seen, the doctor
@@ -241,3 +240,7 @@ bear.” *
 *The mutineers were soon only eight in number, for the man shot by Mr.
 Trelawney on board the schooner died that same evening of his wound. But
 this was, of course, not known till after by the faithful party.
+
+# :x ere
+ere
+(poetic, archaic) Before; sooner than. 
