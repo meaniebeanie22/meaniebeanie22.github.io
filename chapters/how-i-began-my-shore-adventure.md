@@ -138,7 +138,7 @@ and then the captain went on deck and addressed the crew.
 
 “My lads,” said he, “we’ve had a hot day and are all tired and out of
 sorts. A turn ashore’ll hurt nobody--the boats are still in the water;
-you can take the gigs, and as many as please may go ashore for the
+you can take the [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)), and as many as please may go ashore for the
 afternoon. I’ll fire a gun half an hour before sundown.”
 
 I believe the silly fellows must have thought they would break their

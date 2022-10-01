@@ -40,7 +40,7 @@ left guarding their boats seemed in a bustle at our appearance;
 “[:Lillibullero](https://www.youtube.com/watch?v=uDhRthVLBQQ?t=10)” stopped off, and I could see the pair discussing what
 they ought to do. Had they gone and told Silver, all might have turned
 out differently; but they had their orders, I suppose, and decided to
-sit quietly where they were and hark back again to “Lillibullero.”
+sit quietly where they were and hark back again to “[:Lillibullero](https://www.youtube.com/watch?v=uDhRthVLBQQ?t=10).”
 
 There was a slight bend in the coast, and I steered so as to put it
 between us; even before we landed we had thus lost sight of the gigs.
@@ -51,10 +51,10 @@ ready primed for safety.
 I had not gone a hundred yards when I reached the [:stockade](https://en.wikipedia.org/wiki/Stockade).
 
 This was how it was: a spring of clear water rose almost at the top of a
-knoll. Well, on the knoll, and enclosing the spring, they had clapped a
+knoll. Well, on the [:knoll](https://en.wikipedia.org/wiki/knoll), and enclosing the spring, they had clapped a
 stout loghouse fit to hold [:two score](#score) of people on a pinch and loopholed
 for musketry on either side. All round this they had cleared a wide
-space, and then the thing was completed by a paling six feet high,
+space, and then the thing was completed by a [:paling](https://en.wikipedia.org/wiki/Palisade) six feet high,
 without door or opening, too strong to pull down without time and labour
 and too open to shelter the besiegers. The people in the log-house had
 them in every way; they stood quiet in shelter and shot the others like
@@ -66,15 +66,15 @@ enough place of it in the cabin of the HISPANIOLA, with plenty of arms
 and ammunition, and things to eat, and excellent wines, there had been
 one thing overlooked--we had no water. I was thinking this over when
 there came ringing over the island the cry of a man at the point of
-death. I was not new to violent death--I have served his Royal Highness
-the Duke of Cumberland, and got a wound myself at Fontenoy--but I know
+death. I was not new to violent death--I have served [:his Royal Highness
+the Duke of Cumberland](https://en.wikipedia.org/wiki/Prince_William,_Duke_of_Cumberland), and got a wound myself at [:Fontenoy](https://en.wikipedia.org/wiki/Battle_of_Fontenoy)--but I know
 my pulse went dot and carry one. “Jim Hawkins is gone,” was my first
 thought.
 
 It is something to have been an old soldier, but more still to have been
 a doctor. There is no time to dilly-dally in our work. And so now I made
 up my mind instantly, and with no time lost returned to the shore and
-jumped on board the jolly-boat.
+jumped on board the [:jolly-boat](#jb).
 
 By good fortune Hunter pulled a good oar. We made the water fly, and the
 boat was soon alongside and I aboard the schooner.
@@ -97,9 +97,9 @@ loading her with powder tins, muskets, bags of biscuits, kegs of pork, a
 cask of cognac, and my invaluable medicine chest.
 
 In the meantime, the squire and the captain stayed on deck, and the
-latter hailed the coxswain, who was the principal man aboard.
+latter hailed the [:coxswain](https://en.wikipedia.org/wiki/Coxswain), who was the principal man aboard.
 
-“Mr. Hands,” he said, “here are two of us with a brace of pistols each.
+“Mr. Hands,” he said, “here are two of us with a [:brace of pistols](#bofp) each.
 If any one of you six make a signal of any description, that man’s
 dead.”
 
@@ -194,3 +194,5 @@ We were clear out of the ship, but not yet ashore in our stockade.
 # :x score
 a group or set of twenty or about twenty.
 "a score of men lost their lives in the battle"
+# :x bofp
+generally a pair mounted in a sort of holster, sort of like [:this](https://civilwartalk.com/attachments/pistol-baldric-jpg.380091/)

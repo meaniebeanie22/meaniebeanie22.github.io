@@ -222,7 +222,7 @@ We end up finding out this is true, as he tells Jim that he sailed as Captain Fl
 # :x blackdog
 Foreshadowing the arrival of Black Dog.
 # :x capstanbars
-capstan bar. noun. a lever, often wooden, for turning a capstan.
+capstan bar. noun. a lever, often wooden, for turning a [:capstan](https://en.wikipedia.org/wiki/Capstan_(nautical)).
 # :x blackdogscary
 This again refers to Black Dog, and paints a picture of how almost everyone saw him - not just Jim. He was feared by all, and probably a former member of Flint's crew who the Captain didn't get along with so well.
 # :x refusepay
