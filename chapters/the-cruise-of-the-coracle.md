@@ -9,7 +9,7 @@ title: Chapter
 3. Gets on the Hispaniola with no escape
 
 #### Analysis:  
-
+In this chapter Stevenson culminates various elements of the plot together to ellicit a sence of adventure and intrigue in the reader. We see Jim finally using Ben Gunn's coracle, along with a vivid description of the island that allows the reader to follow along Jim's actions on the map in the book, adding that extra depth to the plot. This mix of real and fantasy immerses the reader in the story, as opposed to just telling them what happened.
 
 ## Annotated chapter  
 IT was broad day when I awoke and found myself tossing at the south-west
