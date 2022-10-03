@@ -33,7 +33,7 @@ my strength in vain to scale the beetling crags.
 Nor was that all, for crawling together on flat tables of rock or
 letting themselves drop into the sea with loud reports I beheld huge
 slimy monsters--soft snails, as it were, of incredible bigness--two
-or three score of them together, making the rocks to echo with their
+or three [:score](#score) of them together, making the rocks to echo with their
 barkings.
 
 I have understood since that they were sea lions, and entirely harmless.
@@ -204,3 +204,6 @@ water. With one hand I caught the jib-boom, while my foot was lodged
 between the stay and the brace; and as I still clung there panting, a
 dull blow told me that the schooner had charged down upon and struck the
 coracle and that I was left without retreat on the HISPANIOLA.
+
+# :x
+about 20
