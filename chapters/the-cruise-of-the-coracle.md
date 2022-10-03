@@ -4,11 +4,9 @@ title: Chapter
 ---
 ## Short summary  
 ##### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Jim gives chase to the Hispaniola
+2. Catches up
+3. Gets on the Hispaniola with no escape
 
 #### Analysis:  
 
@@ -193,14 +191,14 @@ My first impulse was one of despair, but my second was towards joy.
 Round she came, till she was broadside on to me--round still till she
 had covered a half and then two thirds and then three quarters of the
 distance that separated us. I could see the waves boiling white under
-her [:forefoot](). Immensely tall she looked to me from my low station in the
+her [:forefoot](#forefoot). Immensely tall she looked to me from my low station in the
 coracle.
 
 And then, of a sudden, I began to comprehend. I had scarce time to
 think--scarce time to act and save myself. I was on the summit of one
-swell when the schooner came stooping over the next. The bowsprit was
+swell when the schooner came stooping over the next. The [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit) was
 over my head. I sprang to my feet and leaped, stamping the coracle under
-water. With one hand I caught the jib-boom, while my foot was lodged
+water. With one hand I caught the [:jib-boom](https://en.wikipedia.org/wiki/Jibboom), while my foot was lodged
 between the stay and the brace; and as I still clung there panting, a
 dull blow told me that the schooner had charged down upon and struck the
 coracle and that I was left without retreat on the HISPANIOLA.
@@ -212,3 +210,5 @@ Front [:companion](https://en.wikipedia.org/wiki/Companionway)
 # :x battendown
 to tie, close, or cover (something) in order to prevent it from moving or becoming damaged
 '*Everything on the ship's deck was battened down.*'
+# ;x forefoot
+The bottom 'seam' on many ships - protrudes from the hull and runs from bow to stern
