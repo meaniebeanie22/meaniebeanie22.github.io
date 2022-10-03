@@ -16,10 +16,10 @@ title: Chapter
 ## Annotated chapter  
 IT was broad day when I awoke and found myself tossing at the south-west
 end of Treasure Island. The sun was up but was still hid from me behind
-the great bulk of the Spy-glass, which on this side descended almost to
+the great bulk of the [:Spy-glass](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), which on this side descended almost to
 the sea in formidable cliffs.
 
-Haulbowline Head and Mizzen-mast Hill were at my elbow, the hill bare
+[:Haulbowline Head](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) and [:Mizzen-mast Hill](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) were at my elbow, the hill bare
 and dark, the head bound with cliffs forty or fifty feet high and
 fringed with great masses of fallen rock. I was scarce a quarter of a
 mile to seaward, and it was my first thought to paddle in and land.
@@ -43,16 +43,16 @@ landing-place. I felt willing rather to starve at sea than to confront
 such perils.
 
 In the meantime I had a better chance, as I supposed, before me. North
-of Haulbowline Head, the land runs in a long way, leaving at low tide
+of [:Haulbowline Head](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), the land runs in a long way, leaving at low tide
 a long stretch of yellow sand. To the north of that, again, there comes
-another cape--Cape of the Woods, as it was marked upon the chart--buried
+another cape--[:Cape of the Woods](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), as it was marked upon the chart--buried
 in tall green pines, which descended to the margin of the sea.
 
 I remembered what Silver had said about the current that sets northward
 along the whole west coast of Treasure Island, and seeing from my
 position that I was already under its influence, I preferred to leave
-Haulbowline Head behind me and reserve my strength for an attempt to
-land upon the kindlier-looking Cape of the Woods.
+[:Haulbowline Head](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) behind me and reserve my strength for an attempt to
+land upon the kindlier-looking [:Cape of the Woods](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg).
 
 There was a great, smooth swell upon the sea. The wind blowing steady
 and gentle from the south, there was no contrariety between that and the
@@ -61,33 +61,33 @@ current, and the billows rose and fell unbroken.
 Had it been otherwise, I must long ago have perished; but as it was,
 it is surprising how easily and securely my little and light boat could
 ride. Often, as I still lay at the bottom and kept no more than an eye
-above the gunwale, I would see a big blue summit heaving close above me;
-yet the coracle would but bounce a little, dance as if on springs, and
+above the [:gunwale](https://en.wikipedia.org/wiki/gunwale), I would see a big blue summit heaving close above me;
+yet the [:coracle](https://en.wikipedia.org/wiki/coracle) would but bounce a little, dance as if on springs, and
 subside on the other side into the trough as lightly as a bird.
 
 I began after a little to grow very bold and sat up to try my skill at
 paddling. But even a small change in the disposition of the weight will
-produce violent changes in the behaviour of a coracle. And I had hardly
+produce violent changes in the behaviour of a [:coracle](https://en.wikipedia.org/wiki/coracle). And I had hardly
 moved before the boat, giving up at once her gentle dancing movement,
 ran straight down a slope of water so steep that it made me giddy, and
 struck her nose, with a spout of spray, deep into the side of the next
 wave.
 
 I was drenched and terrified, and fell instantly back into my old
-position, whereupon the coracle seemed to find her head again and led
+position, whereupon the [:coracle](https://en.wikipedia.org/wiki/coracle) seemed to find her head again and led
 me as softly as before among the billows. It was plain she was not to be
 interfered with, and at that rate, since I could in no way influence her
 course, what hope had I left of reaching land?
 
 I began to be horribly frightened, but I kept my head, for all that.
-First, moving with all care, I gradually baled out the coracle with my
-sea-cap; then, getting my eye once more above the gunwale, I set myself
+First, moving with all care, I gradually baled out the [:coracle](https://en.wikipedia.org/wiki/coracle) with my
+sea-cap; then, getting my eye once more above the [:gunwale](https://en.wikipedia.org/wiki/gunwale), I set myself
 to study how it was she managed to slip so quietly through the rollers.
 
 I found each wave, instead of the big, smooth glossy mountain it looks
 from shore or from a vessel’s deck, was for all the world like any range
 of hills on dry land, full of peaks and smooth places and valleys. The
-coracle, left to herself, turning from side to side, threaded, so to
+[:coracle](https://en.wikipedia.org/wiki/coracle), left to herself, turning from side to side, threaded, so to
 speak, her way through these lower parts and avoided the steep slopes
 and higher, toppling summits of the wave.
 
@@ -99,10 +99,10 @@ my elbows in the most trying attitude, and every now and again gave a
 weak stroke or two to turn her head to shore.
 
 It was very tiring and slow work, yet I did visibly gain ground; and as
-we drew near the Cape of the Woods, though I saw I must infallibly
+we drew near the [:Cape of the Woods](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), though I saw I must infallibly
 miss that point, I had still made some hundred yards of easting. I was,
 indeed, close in. I could see the cool green tree-tops swaying together
-in the breeze, and I felt sure I should make the next promontory without
+in the breeze, and I felt sure I should make the next [:promontory](https://en.wikipedia.org/wiki/Promontory) without
 fail.
 
 It was high time, for I now began to be tortured with thirst. The glow
@@ -120,11 +120,11 @@ or sorry at the thought, and long before I had come to a conclusion,
 surprise had taken entire possession of my mind and I could do nothing
 but stare and wonder.
 
-The HISPANIOLA was under her main-sail and two jibs, and the beautiful
+The HISPANIOLA was under her main-sail and two [:jibs](https://en.wikipedia.org/wiki/Jib), and the beautiful
 white canvas shone in the sun like snow or silver. When I first
 sighted her, all her sails were drawing; she was lying a course about
 north-west, and I presumed the men on board were going round the island
-on their way back to the anchorage. Presently she began to fetch more
+on their way back to the [:anchorage](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg). Presently she began to fetch more
 and more to the westward, so that I thought they had sighted me and were
 going about in chase. At last, however, she fell right into the wind’s
 eye, was taken dead aback, and stood there awhile helpless, with her
@@ -143,26 +143,26 @@ so, where were the men? Either they were dead drunk or had deserted her,
 I thought, and perhaps if I could get on board I might return the vessel
 to her captain.
 
-The current was bearing coracle and schooner southward at an equal rate.
+The current was bearing [:coracle](https://en.wikipedia.org/wiki/coracle) and schooner southward at an equal rate.
 As for the latter’s sailing, it was so wild and intermittent, and she
 hung each time so long in irons, that she certainly gained nothing, if
 she did not even lose. If only I dared to sit up and paddle, I made
 sure that I could overhaul her. The scheme had an air of adventure
-that inspired me, and the thought of the water breaker beside the fore
-companion doubled my growing courage.
+that inspired me, and the thought of the water breaker beside the [:fore
+companion](#forecomp) doubled my growing courage.
 
 Up I got, was welcomed almost instantly by another cloud of spray, but
 this time stuck to my purpose and set myself, with all my strength and
 caution, to paddle after the unsteered HISPANIOLA. Once I shipped a sea
 so heavy that I had to stop and bail, with my heart fluttering like
 a bird, but gradually I got into the way of the thing and guided my
-coracle among the waves, with only now and then a blow upon her bows and
+[:coracle](https://en.wikipedia.org/wiki/coracle) among the waves, with only now and then a blow upon her bows and
 a dash of foam in my face.
 
 I was now gaining rapidly on the schooner; I could see the brass glisten
-on the tiller as it banged about, and still no soul appeared upon her
+on the [:tiller](https://en.wikipedia.org/wiki/Tiller) as it banged about, and still no soul appeared upon her
 decks. I could not choose but suppose she was deserted. If not, the men
-were lying drunk below, where I might batten them down, perhaps, and do
+were lying drunk below, where I might [:batten them down](#battendown), perhaps, and do
 what I chose with the ship.
 
 For some time she had been doing the worse thing possible for
@@ -193,7 +193,7 @@ My first impulse was one of despair, but my second was towards joy.
 Round she came, till she was broadside on to me--round still till she
 had covered a half and then two thirds and then three quarters of the
 distance that separated us. I could see the waves boiling white under
-her forefoot. Immensely tall she looked to me from my low station in the
+her [:forefoot](). Immensely tall she looked to me from my low station in the
 coracle.
 
 And then, of a sudden, I began to comprehend. I had scarce time to
@@ -205,5 +205,10 @@ between the stay and the brace; and as I still clung there panting, a
 dull blow told me that the schooner had charged down upon and struck the
 coracle and that I was left without retreat on the HISPANIOLA.
 
-# :x
+# :x score
 about 20
+# :x forecomp
+Front [:companion](https://en.wikipedia.org/wiki/Companionway)
+# :x battendown
+to tie, close, or cover (something) in order to prevent it from moving or becoming damaged
+'*Everything on the ship's deck was battened down.*'
