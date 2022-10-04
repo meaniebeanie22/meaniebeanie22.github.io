@@ -14,29 +14,29 @@ title: Chapter
 
 
 ## Annotated chapter  
-I HAD scarce gained a position on the bowsprit when the flying jib
+I HAD scarce gained a position on the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit) when the [:flying jib](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
 flapped and filled upon the other tack, with a report like a gun. The
-schooner trembled to her keel under the reverse, but next moment, the
-other sails still drawing, the jib flapped back again and hung idle.
+schooner trembled to her [:keel](https://en.wikipedia.org/wiki/Keel) under the reverse, but next moment, the
+other sails still drawing, the [:jib](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif) flapped back again and hung idle.
 
 This had nearly tossed me off into the sea; and now I lost no time,
-crawled back along the bowsprit, and tumbled head foremost on the deck.
+crawled back along the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit), and tumbled head foremost on the deck.
 
-I was on the lee side of the forecastle, and the mainsail, which was
-still drawing, concealed from me a certain portion of the after-deck.
+I was on the lee side of the [:forecastle, and the mainsail](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif), which was
+still drawing, concealed from me a certain portion of the [:after-deck](https://en.wikipedia.org/wiki/Afterdeck).
 Not a soul was to be seen. The planks, which had not been swabbed since
 the mutiny, bore the print of many feet, and an empty bottle, broken by
-the neck, tumbled to and fro like a live thing in the scuppers.
+the neck, tumbled to and fro like a live thing in the [:scuppers](https://en.wikipedia.org/wiki/Scupper).
 
-Suddenly the HISPANIOLA came right into the wind. The jibs behind me
+Suddenly the HISPANIOLA came right into the wind. The [:jibs](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif) behind me
 cracked aloud, the rudder slammed to, the whole ship gave a sickening
-heave and shudder, and at the same moment the main-boom swung inboard,
-the sheet groaning in the blocks, and showed me the lee after-deck.
+heave and shudder, and at the same moment the [:main-boom](#mainboom) swung inboard,
+the sheet groaning in the blocks, and showed me the [:lee](https://en.wiktionary.org/wiki/lee) [:after-deck](https://en.wikipedia.org/wiki/Afterdeck).
 
-There were the two watchmen, sure enough: red-cap on his back, as stiff
-as a handspike, with his arms stretched out like those of a crucifix and
+There were the two watchmen, sure enough: [:red-cap](#redcap) on his back, as stiff
+as a [:handspike](https://en.wiktionary.org/wiki/handspike), with his arms stretched out like those of a crucifix and
 his teeth showing through his open lips; Israel Hands propped against
-the bulwarks, his chin on his chest, his hands lying open before him on
+the [:bulwarks](#bulwark), his chin on his chest, his hands lying open before him on
 the deck, his face as white, under its tan, as a tallow candle.
 
 For a while the ship kept bucking and sidling like a vicious horse, the
@@ -45,7 +45,7 @@ and fro till the mast groaned aloud under the strain. Now and again too
 there would come a cloud of light sprays over the bulwark and a heavy
 blow of the ship’s bows against the swell; so much heavier weather was
 made of it by this great rigged ship than by my home-made, lop-sided
-coracle, now gone to the bottom of the sea.
+[:coracle](https://en.wikipedia.org/wiki/coracle), now gone to the bottom of the sea.
 
 At every jump of the schooner, red-cap slipped to and fro, but--what was
 ghastly to behold--neither his attitude nor his fixed teeth-disclosing
@@ -75,11 +75,11 @@ He rolled his eyes round heavily, but he was too far gone to express
 surprise. All he could do was to utter one word, “Brandy.”
 
 It occurred to me there was no time to lose, and dodging the boom as it
-once more lurched across the deck, I slipped aft and down the companion
+once more lurched across the deck, I slipped aft and down the [:companion](https://en.wikipedia.org/wiki/Companionway)
 stairs into the cabin.
 
 It was such a scene of confusion as you can hardly fancy. All the
-lockfast places had been broken open in quest of the chart. The floor
+[:lockfast](https://en.wiktionary.org/wiki/lockfast) places had been broken open in quest of the chart. The floor
 was thick with mud where ruffians had sat down to drink or consult after
 wading in the marshes round their camp. The bulkheads, all painted in
 clear white and beaded round with gilt, bore a pattern of dirty hands.
@@ -93,7 +93,7 @@ a most surprising number had been drunk out and thrown away. Certainly,
 since the mutiny began, not a man of them could ever have been sober.
 
 Foraging about, I found a bottle with some brandy left, for Hands; and
-for myself I routed out some biscuit, some pickled fruits, a great bunch
+for myself I routed out some [:biscuit](https://en.wikipedia.org/wiki/Hardtack), some pickled fruits, a great bunch
 of raisins, and a piece of cheese. With these I came on deck, put down
 my own stock behind the rudder head and well out of the coxswain’s
 reach, went forward to the water-breaker, and had a good deep drink of
@@ -142,30 +142,30 @@ back to my meal with a good appetite.
 
 “This man,” he began, nodding feebly at the corpse “--O’Brien were his
 name, a rank Irelander--this man and me got the canvas on her, meaning
-for to sail her back. Well, HE’S dead now, he is--as dead as bilge; and
+for to sail her back. Well, HE’S dead now, he is--as dead as [:bilge](#bilge); and
 who’s to sail this ship, I don’t see. Without I gives you a hint, you
 ain’t that man, as far’s I can tell. Now, look here, you gives me food
 and drink and a old scarf or ankecher to tie my wound up, you do, and
 I’ll tell you how to sail her, and that’s about square all round, I take
 it.”
 
-“I’ll tell you one thing,” says I: “I’m not going back to Captain Kidd’s
-anchorage. I mean to get into North Inlet and beach her quietly there.”
+“I’ll tell you one thing,” says I: “I’m not going back to [:Captain Kidd’s
+anchorage](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg). I mean to get into [:North Inlet](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) and beach her quietly there.”
 
 “To be sure you did,” he cried. “Why, I ain’t sich an infernal lubber
 after all. I can see, can’t I? I’ve tried my fling, I have, and I’ve
-lost, and it’s you has the wind of me. North Inlet? Why, I haven’t no
-ch’ice, not I! I’d help you sail her up to Execution Dock, by thunder!
+lost, and it’s you has the wind of me. [:North Inlet](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)? Why, I haven’t no
+ch’ice, not I! I’d help you sail her up to [:Execution Dock](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), by thunder!
 So I would.”
 
 Well, as it seemed to me, there was some sense in this. We struck our
 bargain on the spot. In three minutes I had the HISPANIOLA sailing
 easily before the wind along the coast of Treasure Island, with good
 hopes of turning the northern point ere noon and beating down again as
-far as North Inlet before high water, when we might beach her safely and
+far as [:North Inlet](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) before high water, when we might beach her safely and
 wait till the subsiding tide permitted us to land.
 
-Then I lashed the tiller and went below to my own chest, where I got a
+Then I lashed the [:tiller](https://en.wikipedia.org/wiki/Tiller) and went below to my own chest, where I got a
 soft silk handkerchief of my mother’s. With this, and with my aid, Hands
 bound up the great bleeding stab he had received in the thigh, and after
 he had eaten a little and had a swallow or two more of the brandy, he
@@ -187,6 +187,19 @@ had made. I should, I think, have had nothing left me to desire but for
 the eyes of the coxswain as they followed me derisively about the deck
 and the odd smile that appeared continually on his face. It was a smile
 that had in it something both of pain and weakness--a haggard old man’s
-smile; but there was, besides that, a grain of derision, a shadow of
+smile; but there was, besides that, [:a grain of derision, a shadow of
 treachery, in his expression as he craftily watched, and watched, and
-watched me at my work.
+watched me at my work.](#foreshadowing)
+
+# :x mainboom
+The spar (pole) along the bottom edge of the [:mainsail](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
+# :x redcap
+We've heard of him before
+# :x bulwark
+The planking or plating along the sides of a nautical vessel above her gunwale that reduces the likelihood of seas washing over the gunwales and people being washed overboard.
+# :x bilge
+The word is sometimes also used to describe the water that collects in this area. Water that does not drain off the side of the deck or through a hole in the hull, typically via a scupper, drains down into the ship into the bilge. This water may be from rough seas, rain, leaks in the hull or stuffing box, or other interior spillage. The collected water must be pumped out to prevent the bilge from becoming too full and threatening to sink the ship.
+Bilge water can be found aboard almost every vessel. Depending on the ship's design and function, bilge water may contain water, oil, urine, detergents, solvents, chemicals, pitch, particles, and other materials.
+By housing water in a compartment, the bilge keeps these liquids below decks, making it safer for the crew to operate the vessel and for people to move around in heavy weather.
+# :x foreshadowing
+Israel is about to try and kill Jim.
