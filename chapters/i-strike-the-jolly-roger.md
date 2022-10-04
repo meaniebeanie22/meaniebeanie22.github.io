@@ -4,14 +4,14 @@ title: Chapter
 ---
 ## Short summary  
 ##### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Jim comes onto deck
+2. Red-cap man (O'Brien) dead
+3. Israel injured, but fixed up in part by Jim
+4. Take the boat around to the north of the island
+5. Israel plotting to kill Jim
 
 #### Analysis:  
-
+In this chapter we begin to see who Israel *really* is - a cold hard pirate, who will backstab those who have saved him for personal gain. We hear more of Jim's plan to bring the ship around, and how the ship has fallen into disrepair as those onboard have neglected her. We have a recount of the prior activities that have occured on the *Hispaniola* after it was abandoned, possible future events are hinted at throughout the chapter (including Hands' killing Jim).
 
 ## Annotated chapter  
 I HAD scarce gained a position on the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit) when the [:flying jib](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
@@ -22,7 +22,7 @@ other sails still drawing, the [:jib](https://merriam-webster.com/assets/mw/stat
 This had nearly tossed me off into the sea; and now I lost no time,
 crawled back along the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit), and tumbled head foremost on the deck.
 
-I was on the lee side of the [:forecastle, and the mainsail](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif), which was
+I was on the [:lee](https://en.wiktionary.org/wiki/lee) side of the [:forecastle, and the mainsail](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif), which was
 still drawing, concealed from me a certain portion of the [:after-deck](https://en.wikipedia.org/wiki/Afterdeck).
 Not a soul was to be seen. The planks, which had not been swabbed since
 the mutiny, bore the print of many feet, and an empty bottle, broken by
