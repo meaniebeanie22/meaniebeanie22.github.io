@@ -194,7 +194,7 @@ watched me at my work.](#foreshadowing)
 # :x mainboom
 The spar (pole) along the bottom edge of the [:mainsail](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
 # :x redcap
-We've heard of him before
+We've heard of him before.
 # :x bulwark
 The planking or plating along the sides of a nautical vessel above her gunwale that reduces the likelihood of seas washing over the gunwales and people being washed overboard.
 # :x bilge
