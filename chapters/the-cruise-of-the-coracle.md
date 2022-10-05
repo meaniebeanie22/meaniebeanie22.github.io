@@ -14,10 +14,10 @@ In this chapter Stevenson culminates various elements of the plot together to el
 ## Annotated chapter  
 IT was broad day when I awoke and found myself tossing at the south-west
 end of Treasure Island. The sun was up but was still hid from me behind
-the great bulk of the [:Spy-glass](<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg">), which on this side descended almost to
+the great bulk of the [:Spy-glass](#islandmap), which on this side descended almost to
 the sea in formidable cliffs.
 
-[:Haulbowline Head](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) and [:Mizzen-mast Hill](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) were at my elbow, the hill bare
+[:Haulbowline Head](#islandmap) and [:Mizzen-mast Hill](#islandmap) were at my elbow, the hill bare
 and dark, the head bound with cliffs forty or fifty feet high and
 fringed with great masses of fallen rock. I was scarce a quarter of a
 mile to seaward, and it was my first thought to paddle in and land.
@@ -41,16 +41,16 @@ landing-place. I felt willing rather to starve at sea than to confront
 such perils.
 
 In the meantime I had a better chance, as I supposed, before me. North
-of [:Haulbowline Head](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), the land runs in a long way, leaving at low tide
+of [:Haulbowline Head](#islandmap), the land runs in a long way, leaving at low tide
 a long stretch of yellow sand. To the north of that, again, there comes
-another cape--[:Cape of the Woods](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), as it was marked upon the chart--buried
+another cape--[:Cape of the Woods](#islandmap), as it was marked upon the chart--buried
 in tall green pines, which descended to the margin of the sea.
 
 I remembered what Silver had said about the current that sets northward
 along the whole west coast of Treasure Island, and seeing from my
 position that I was already under its influence, I preferred to leave
-[:Haulbowline Head](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) behind me and reserve my strength for an attempt to
-land upon the kindlier-looking [:Cape of the Woods](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg).
+[:Haulbowline Head](#islandmap) behind me and reserve my strength for an attempt to
+land upon the kindlier-looking [:Cape of the Woods](#islandmap).
 
 There was a great, smooth swell upon the sea. The wind blowing steady
 and gentle from the south, there was no contrariety between that and the
@@ -97,7 +97,7 @@ my elbows in the most trying attitude, and every now and again gave a
 weak stroke or two to turn her head to shore.
 
 It was very tiring and slow work, yet I did visibly gain ground; and as
-we drew near the [:Cape of the Woods](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), though I saw I must infallibly
+we drew near the [:Cape of the Woods](#islandmap), though I saw I must infallibly
 miss that point, I had still made some hundred yards of easting. I was,
 indeed, close in. I could see the cool green tree-tops swaying together
 in the breeze, and I felt sure I should make the next [:promontory](https://en.wikipedia.org/wiki/Promontory) without
@@ -122,7 +122,7 @@ The HISPANIOLA was under her main-sail and two [:jibs](https://en.wikipedia.org/
 white canvas shone in the sun like snow or silver. When I first
 sighted her, all her sails were drawing; she was lying a course about
 north-west, and I presumed the men on board were going round the island
-on their way back to the [:anchorage](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg). Presently she began to fetch more
+on their way back to the [:anchorage](#islandmap). Presently she began to fetch more
 and more to the westward, so that I thought they had sighted me and were
 going about in chase. At last, however, she fell right into the wind’s
 eye, was taken dead aback, and stood there awhile helpless, with her
@@ -212,3 +212,5 @@ to tie, close, or cover (something) in order to prevent it from moving or becomi
 '*Everything on the ship's deck was battened down.*'
 # ;x forefoot
 The bottom 'seam' on many ships - protrudes from the hull and runs from bow to stern
+# :x islandmap
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
