@@ -14,7 +14,7 @@ In this chapter Stevenson culminates various elements of the plot together to el
 ## Annotated chapter  
 IT was broad day when I awoke and found myself tossing at the south-west
 end of Treasure Island. The sun was up but was still hid from me behind
-the great bulk of the [:Spy-glass](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), which on this side descended almost to
+the great bulk of the [:Spy-glass](<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg">), which on this side descended almost to
 the sea in formidable cliffs.
 
 [:Haulbowline Head](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) and [:Mizzen-mast Hill](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) were at my elbow, the hill bare
