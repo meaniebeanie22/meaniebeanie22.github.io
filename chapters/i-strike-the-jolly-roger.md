@@ -207,3 +207,4 @@ Israel is about to try and kill Jim.
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
 # :x sailpic
 ![](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
+sail 1a (of a schooner): 1 flying jib, 2 jib, 3 forestaysail, 4 foresail, 5 fore gaff-topsail, 6 main-topmast staysail, 7 mainsail, 8 main gaff-topsail
