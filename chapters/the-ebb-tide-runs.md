@@ -4,14 +4,14 @@ title: Chapter
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Jim paddles up to the *Hispaniola*
+2. He cuts all but two threads in the rope holding her down
+3. He cuts the final two when the tide dips so he isn't hit
+4. He chases the *Hispaniola*, and looks in the window
+5. He falls asleep in the coracle
 
 #### Analysis:  
-
+In this chapter we are re-introduced to the main setting of this section (the decaying *Hispaniola*), with its skeleton crew (both figuratively and literally) and lack of direction. We see Jim cut her free, and the path that she sets herself becomes of importance in the next chapter, as it allows Jim to get aboard and set her course (and continue the story). This chapter serves as an extention of the introduction, which Stevenson uses to build suspense for the reader and again evoke that sence of adventure that flows throughout the novel.
 
 ## Annotated chapter  
 THE coracle--as I had ample reason to know before I was done with
@@ -34,7 +34,7 @@ darkness, then her spars and hull began to take shape, and the next
 moment, as it seemed (for, the farther I went, the brisker grew the
 current of the ebb), I was alongside of her hawser and had laid hold.
 
-The hawser was as taut as a bowstring, and the current so strong she
+The [:hawser](https://en.wikipedia.org/wiki/Hawser) was as taut as a bowstring, and the current so strong she
 pulled upon her anchor. All round the hull, in the blackness, the
 rippling current bubbled and chattered like a little mountain stream.
 One cut with my sea-gully and the HISPANIOLA would go humming down the
@@ -53,7 +53,7 @@ meditating, a puff came, caught the HISPANIOLA, and forced her up into
 the current; and to my great joy, I felt the hawser slacken in my grasp,
 and the hand by which I held it dip for a second under water.
 
-With that I made my mind up, took out my gully, opened it with my teeth,
+With that I made my mind up, took out my [:gully](#gully), opened it with my teeth,
 and cut one strand after another, till the vessel swung only by two.
 Then I lay quiet, waiting to sever these last when the strain should be
 once more lightened by a breath of wind.
@@ -90,7 +90,7 @@ what I saw, all these buccaneers were as callous as the sea they sailed
 on.
 
 At last the breeze came; the schooner sidled and drew nearer in the
-dark; I felt the hawser slacken once more, and with a good, tough
+dark; I felt the [:hawser](https://en.wikipedia.org/wiki/hawser) slacken once more, and with a good, tough
 effort, cut the last fibres through.
 
 The breeze had but little action on the coracle, and I was almost
@@ -174,3 +174,6 @@ expect death at the next plunge. Gradually weariness grew upon me; a
 numbness, an occasional stupor, fell upon my mind even in the midst of
 my terrors, until sleep at last supervened and in my sea-tossed coracle
 I lay and dreamed of home and the old Admiral Benbow.
+
+# :x gully
+Gully is a dialect word of Scotland and Northern England meaning “large knife.”
