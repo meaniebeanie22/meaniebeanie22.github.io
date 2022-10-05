@@ -3,7 +3,7 @@ layout: page
 title: Chapter
 ---
 ## Short summary
-##### Events:  
+#### Events:  
 1. Silver comes to the outside of the [:stockade](https://en.wikipedia.org/wiki/stockade) with a flag of truce
 2. Silver has been 'elected' the captain by the mutineers, and as such Smollet scolds him
 3. Silver tresspasses into the stockade, and is forced to sit outside on the sand while he talks to Smollet 

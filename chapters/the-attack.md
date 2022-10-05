@@ -3,7 +3,7 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-##### Events:  
+#### Events:  
 1. The mutineers lay siege to the stockade, entering with the two sides exchanging fire
 2. They make it to the house, disarming and killing Hunter, and the doctor being hit with a cutlass
 3. A fight insues, with the honest's switching to cutlasses and killing many of the mutineers

@@ -3,7 +3,7 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-##### Events:  
+#### Events:  
 1. Jim gives chase to the Hispaniola
 2. Catches up
 3. Gets on the Hispaniola with no escape
