@@ -14,21 +14,21 @@ title: Chapter
 In this chapter we begin to see who Israel *really* is - a cold hard pirate, who will backstab those who have saved him for personal gain. We hear more of Jim's plan to bring the ship around, and how the ship has fallen into disrepair as those onboard have neglected her. We have a recount of the prior activities that have occured on the *Hispaniola* after it was abandoned, possible future events are hinted at throughout the chapter (including Hands' killing Jim).
 
 ## Annotated chapter  
-I HAD scarce gained a position on the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit) when the [:flying jib](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
+I HAD scarce gained a position on the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit) when the [:flying jib](#sailpic)
 flapped and filled upon the other tack, with a report like a gun. The
 schooner trembled to her [:keel](https://en.wikipedia.org/wiki/Keel) under the reverse, but next moment, the
-other sails still drawing, the [:jib](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif) flapped back again and hung idle.
+other sails still drawing, the [:jib](#sailpic) flapped back again and hung idle.
 
 This had nearly tossed me off into the sea; and now I lost no time,
 crawled back along the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit), and tumbled head foremost on the deck.
 
-I was on the [:lee](https://en.wiktionary.org/wiki/lee) side of the [:forecastle, and the mainsail](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif), which was
+I was on the [:lee](https://en.wiktionary.org/wiki/lee) side of the [:forecastle, and the mainsail](#sailpic), which was
 still drawing, concealed from me a certain portion of the [:after-deck](https://en.wikipedia.org/wiki/Afterdeck).
 Not a soul was to be seen. The planks, which had not been swabbed since
 the mutiny, bore the print of many feet, and an empty bottle, broken by
 the neck, tumbled to and fro like a live thing in the [:scuppers](https://en.wikipedia.org/wiki/Scupper).
 
-Suddenly the HISPANIOLA came right into the wind. The [:jibs](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif) behind me
+Suddenly the HISPANIOLA came right into the wind. The [:jibs](#sailpic) behind me
 cracked aloud, the rudder slammed to, the whole ship gave a sickening
 heave and shudder, and at the same moment the [:main-boom](#mainboom) swung inboard,
 the sheet groaning in the blocks, and showed me the [:lee](https://en.wiktionary.org/wiki/lee) [:after-deck](https://en.wikipedia.org/wiki/Afterdeck).
@@ -150,19 +150,19 @@ I’ll tell you how to sail her, and that’s about square all round, I take
 it.”
 
 “I’ll tell you one thing,” says I: “I’m not going back to [:Captain Kidd’s
-anchorage](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg). I mean to get into [:North Inlet](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) and beach her quietly there.”
+anchorage](#islandmap). I mean to get into [:North Inlet](#islandmap) and beach her quietly there.”
 
 “To be sure you did,” he cried. “Why, I ain’t sich an infernal lubber
 after all. I can see, can’t I? I’ve tried my fling, I have, and I’ve
-lost, and it’s you has the wind of me. [:North Inlet](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)? Why, I haven’t no
-ch’ice, not I! I’d help you sail her up to [:Execution Dock](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg), by thunder!
+lost, and it’s you has the wind of me. [:North Inlet](#islandmap)? Why, I haven’t no
+ch’ice, not I! I’d help you sail her up to [:Execution Dock](#islandmap), by thunder!
 So I would.”
 
 Well, as it seemed to me, there was some sense in this. We struck our
 bargain on the spot. In three minutes I had the HISPANIOLA sailing
 easily before the wind along the coast of Treasure Island, with good
 hopes of turning the northern point ere noon and beating down again as
-far as [:North Inlet](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg) before high water, when we might beach her safely and
+far as [:North Inlet](#islandmap) before high water, when we might beach her safely and
 wait till the subsiding tide permitted us to land.
 
 Then I lashed the [:tiller](https://en.wikipedia.org/wiki/Tiller) and went below to my own chest, where I got a
@@ -203,3 +203,7 @@ Bilge water can be found aboard almost every vessel. Depending on the ship's des
 By housing water in a compartment, the bilge keeps these liquids below decks, making it safer for the crew to operate the vessel and for people to move around in heavy weather.
 # :x foreshadowing
 Israel is about to try and kill Jim.
+# :x islandmap
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
+# :x sailpic
+![](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
