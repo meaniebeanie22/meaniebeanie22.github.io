@@ -210,7 +210,7 @@ Front [:companion](https://en.wikipedia.org/wiki/Companionway)
 # :x battendown
 to tie, close, or cover (something) in order to prevent it from moving or becoming damaged
 '*Everything on the ship's deck was battened down.*'
-# ;x forefoot
+# :x forefoot
 The bottom 'seam' on many ships - protrudes from the hull and runs from bow to stern
 # :x islandmap
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
