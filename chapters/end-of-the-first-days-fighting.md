@@ -3,7 +3,7 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-##### Events:  
+#### Events:  
 1. Mutineers and honest hands exchange fire at the stockade
 2. Redruth (the Gamekeeper) is shot and killed by an unknown mutineer
 3. Honest's take the stockade

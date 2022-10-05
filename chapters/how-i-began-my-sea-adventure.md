@@ -3,7 +3,7 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-##### Events:  
+#### Events:  
 1. Recovering from the attack last chapter
 2. Jim takes French leave, slipping off into the woods to find Ben Gunn's boat
 3. He sets up the boat for an attempt at boarding the Hispaniola 

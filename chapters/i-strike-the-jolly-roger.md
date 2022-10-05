@@ -3,7 +3,7 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-##### Events:  
+#### Events:  
 1. Jim comes onto deck
 2. Red-cap man (O'Brien) dead
 3. Israel injured, but fixed up in part by Jim

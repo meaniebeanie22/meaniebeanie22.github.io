@@ -3,7 +3,7 @@ layout: page
 title: Chapter
 ---
 ## Short summary  
-##### Events:  
+#### Events:  
 1. Ben Gunn returns to his home
 2. Jim watches what happened in the last few chapters (those narrated by the Doctor), including the trials and tribulations of the jolly-boat
 3. Jim rejoins the faithful men
