@@ -4,14 +4,13 @@ title: Chapter
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Jim frees himself from the dirk
+2. He wander around the island, heading back to the loghouse
+3. He isn't seen by a watchment
+4. He enters, and realises it has been taken over by the mutineers.
 
 #### Analysis:  
-
+In this chapter we see Stevenson using 
 
 ## Annotated chapter  
 OWING to the cant of the vessel, the masts hung far out over the water,
@@ -27,7 +26,7 @@ enough, for all that, being both shot and drowned, and was food for fish
 in the very place where he had designed my slaughter.
 
 I was no sooner certain of this than I began to feel sick, faint, and
-terrified. The hot blood was running over my back and chest. The dirk,
+terrified. The hot blood was running over my back and chest. The [:dirk](https://en.wikipedia.org/wiki/dirk),
 where it had pinned my shoulder to the mast, seemed to burn like a hot
 iron; yet it was not so much these real sufferings that distressed me,
 for these, it seemed to me, I could bear without a murmur; it was the
@@ -39,7 +38,7 @@ cover up the peril. Gradually my mind came back again, my pulses quieted
 down to a more natural time, and I was once more in possession of
 myself.
 
-It was my first thought to pluck forth the dirk, but either it stuck too
+It was my first thought to pluck forth the [:dirk](https://en.wikipedia.org/wiki/dirk), but either it stuck too
 hard or my nerve failed me, and I desisted with a violent shudder. Oddly
 enough, that very shudder did the business. The knife, in fact, had come
 the nearest in the world to missing me altogether; it held me by a mere
@@ -80,7 +79,7 @@ though it was well warded off by the hill with the two peaks upon the
 east, the cordage had begun to sing a little softly to itself and the
 idle sails to rattle to and fro.
 
-I began to see a danger to the ship. The jibs I speedily doused and
+I began to see a danger to the ship. The [:jibs](#sailpic) I speedily doused and
 brought tumbling to the deck, but the main-sail was a harder matter. Of
 course, when the schooner canted over, the boom had swung out-board, and
 the cap of it and a foot or two of sail hung even under water. I thought
@@ -98,7 +97,7 @@ tide was rapidly fleeting seaward, the schooner settling more and more
 on her beam-ends.
 
 I scrambled forward and looked over. It seemed shallow enough, and
-holding the cut hawser in both hands for a last security, I let myself
+holding the cut [:hawser](https://en.wikipedia.org/wiki/Hawser) in both hands for a last security, I let myself
 drop softly overboard. The water scarcely reached my waist; the sand was
 firm and covered with ripple marks, and I waded ashore in great spirits,
 leaving the HISPANIOLA on her side, with her main-sail trailing wide
@@ -115,7 +114,7 @@ even Captain Smollett would confess I had not lost my time.
 
 So thinking, and in famous spirits, I began to set my face homeward for
 the block house and my companions. I remembered that the most easterly
-of the rivers which drain into Captain Kidd’s anchorage ran from the
+of the rivers which drain into [:Captain Kidd’s anchorage](#islandmap) ran from the
 two-peaked hill upon my left, and I bent my course in that direction
 that I might pass the stream while it was small. The wood was pretty
 open, and keeping along the lower spurs, I had soon turned the corner
@@ -133,12 +132,12 @@ of Silver himself where he camped upon the shore among the marshes?
 
 Gradually the night fell blacker; it was all I could do to guide myself
 even roughly towards my destination; the double hill behind me and the
-Spy-glass on my right hand loomed faint and fainter; the stars were few
+[:Spy-glass](#islandmap) on my right hand loomed faint and fainter; the stars were few
 and pale; and in the low ground where I wandered I kept tripping among
 bushes and rolling into sandy pits.
 
 Suddenly a kind of brightness fell about me. I looked up; a pale glimmer
-of moonbeams had alighted on the summit of the Spy-glass, and soon after
+of moonbeams had alighted on the summit of the [:Spy-glass](#islandmap), and soon after
 I saw something broad and silvery moving low down behind the trees, and
 knew the moon had risen.
 
@@ -222,3 +221,10 @@ tight.
 
 And one of the men left the log-house and presently returned with a
 lighted brand.
+
+# :x islandmap
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
+
+# :x sailpic
+![](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
+sail 1a (of a schooner): 1 flying jib, 2 jib, 3 forestaysail, 4 foresail, 5 fore gaff-topsail, 6 main-topmast staysail, 7 mainsail, 8 main gaff-topsail
