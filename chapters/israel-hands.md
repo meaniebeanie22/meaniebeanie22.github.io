@@ -4,14 +4,12 @@ title: Chapter
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Steering ship into the anchorage
+2. Israel has a knife, and Jim knows
+3. He tries to kill Jim, but falls overboard with Jim onto the beach after the ship runs aground (Israel is still heavily injured though)
 
 #### Analysis:  
-
+This chapter is the climax of part 5, with Steveson using Jim's knowledge of Israel's situation to captivate the reader. This further plays into Stevenson's ability to lure the reader in with small amounts of information, before turning the reader's inferences on their head.
 
 ## Annotated chapter  
 THE wind, serving us to a desire, now hauled into the west. We could run
@@ -296,7 +294,7 @@ DIALECT
 a large number or amount of something.
 "there's a power of difference between farming now and when I was a lad"
 # :x blood
-O'Brian's most likely
+O'Brien's most likely
 # :x luff
 steer a yacht nearer the wind.
 "all you need to do is luff up, head to wind"
