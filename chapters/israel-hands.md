@@ -16,7 +16,7 @@ title: Chapter
 ## Annotated chapter  
 THE wind, serving us to a desire, now hauled into the west. We could run
 so much the easier from the north-east corner of the island to the mouth
-of the North Inlet. Only, as we had no power to anchor and dared not
+of the [:North Inlet](#islandmap). Only, as we had no power to anchor and dared not
 beach her till the tide had flowed a good deal farther, time hung on our
 hands. The coxswain told me how to lay the ship to; after a good many
 trials I succeeded, and we both sat in silence over another meal.
@@ -30,7 +30,7 @@ but I don’t reckon him ornamental now, do you?”
 me,” said I.
 
 “This here’s an unlucky ship, this HISPANIOLA, Jim,” he went on,
-blinking. “There’s a power of men been killed in this HISPANIOLA--a
+blinking. “There’s a [:power](#power) of men been killed in this HISPANIOLA--a
 sight o’ poor seamen dead and gone since you and me took ship to
 Bristol. I never seen sich dirty luck, not I. There was this here
 O’Brien now--he’s dead, ain’t he? Well now, I’m no scholar, and you’re a
@@ -69,9 +69,9 @@ replied; “so it’s strong, and plenty of it, what’s the odds?”
 “All right,” I answered. “I’ll bring you port, Mr. Hands. But I’ll have
 to dig for it.”
 
-With that I scuttled down the companion with all the noise I could,
+With that I scuttled down the [:companion](https://en.wikipedia.org/wiki/Companionway) with all the noise I could,
 slipped off my shoes, ran quietly along the sparred gallery, mounted the
-forecastle ladder, and popped my head out of the fore companion. I
+[:forecastle](https://en.wikipedia.org/wiki/Forecastle) ladder, and popped my head out of the fore [:companion](https://en.wikipedia.org/wiki/Companionway). I
 knew he would not expect to see me there, yet I took every precaution
 possible, and certainly the worst of my suspicions proved too true.
 
@@ -80,7 +80,7 @@ leg obviously hurt him pretty sharply when he moved--for I could hear
 him stifle a groan--yet it was at a good, rattling rate that he trailed
 himself across the deck. In half a minute he had reached the port
 scuppers and picked, out of a coil of rope, a long knife, or rather a
-short dirk, discoloured to the hilt with blood. He looked upon it for
+short [:dirk](https://en.wikipedia.org/wiki/Dirk), discoloured to the [:hilt with blood](#blood). He looked upon it for
 a moment, thrusting forth his under jaw, tried the point upon his hand,
 and then, hastily concealing it in the bosom of his jacket, trundled
 back again into his old place against the bulwark.
@@ -89,7 +89,7 @@ This was all that I required to know. Israel could move about, he was
 now armed, and if he had been at so much trouble to get rid of me,
 it was plain that I was meant to be the victim. What he would do
 afterwards--whether he would try to crawl right across the island from
-North Inlet to the camp among the swamps or whether he would fire Long
+[:North Inlet](#islandmap) to the camp among the swamps or whether he would fire Long
 Tom, trusting that his own comrades might come first to help him--was,
 of course, more than I could say.
 
@@ -127,7 +127,7 @@ broken your trust; you’ve lived in sin and lies and blood; there’s a man
 you killed lying at your feet this moment, and you ask me why! For God’s
 mercy, Mr. Hands, that’s why.”
 
-I spoke with a little heat, thinking of the bloody dirk he had hidden
+I spoke with a little heat, thinking of the bloody [:dirk](https://en.wikipedia.org/wiki/Dirk) he had hidden
 in his pocket and designed, in his ill thoughts, to end me with. He,
 for his part, took a great draught of the wine and spoke with the most
 unusual solemnity.
@@ -150,7 +150,7 @@ and dodged in, shaving the banks, with a certainty and a neatness that
 were a pleasure to behold.
 
 Scarcely had we passed the heads before the land closed around us. The
-shores of North Inlet were as thickly wooded as those of the southern
+shores of [:North Inlet](#islandmap) were as thickly wooded as those of the southern
 anchorage, but the space was longer and narrower and more like, what in
 truth it was, the estuary of a river. Right before us, at the southern
 end, we saw the wreck of a ship in the last stages of dilapidation. It
@@ -168,14 +168,14 @@ flowers a-blowing like a garding on that old ship.”
 
 “Why, so,” he replied: “you take a line ashore there on the other side
 at low water, take a turn about one of them big pines; bring it back,
-take a turn around the capstan, and lie to for the tide. Come high
+take a turn around the [:capstan](https://en.wikipedia.org/wiki/Capstan_(nautical)), and lie to for the tide. Come high
 water, all hands take a pull upon the line, and off she comes as sweet
 as natur’. And now, boy, you stand by. We’re near the bit now, and she’s
 too much way on her. Starboard a little--so--steady--starboard--larboard
 a little--steady--steady!”
 
 So he issued his commands, which I breathlessly obeyed, till, all of a
-sudden, he cried, “Now, my hearty, luff!” And I put the helm hard up,
+sudden, he cried, “Now, my hearty, [:luff](#luff)!” And I put the helm hard up,
 and the HISPANIOLA swung round rapidly and ran stem on for the low,
 wooded shore.
 
@@ -188,7 +188,7 @@ the bows. I might have fallen without a struggle for my life had not a
 sudden disquietude seized upon me and made me turn my head. Perhaps I
 had heard a creak or seen his shadow moving with the tail of my eye;
 perhaps it was an instinct like a cat’s; but, sure enough, when I looked
-round, there was Hands, already half-way towards me, with the dirk in
+round, there was Hands, already half-way towards me, with the [:dirk](https://en.wikipedia.org/wiki/Dirk) in
 his right hand.
 
 We must both have cried out aloud when our eyes met, but while mine
@@ -214,7 +214,7 @@ indeed much inclination, for I was sure it would be useless. One thing I
 saw plainly: I must not simply retreat before him, or he would speedily
 hold me boxed into the bows, as a moment since he had so nearly boxed
 me in the stern. Once so caught, and nine or ten inches of the
-blood-stained dirk would be my last experience on this side of eternity.
+blood-stained [:dirk](https://en.wikipedia.org/wiki/dirk) would be my last experience on this side of eternity.
 I placed my palms against the main-mast, which was of a goodish bigness,
 and waited, every nerve upon the stretch.
 
@@ -288,3 +288,18 @@ it was by my own volition, and I am sure it was without a conscious
 aim--both my pistols went off, and both escaped out of my hands. They
 did not fall alone; with a choked cry, the coxswain loosed his grasp
 upon the shrouds and plunged head first into the water.
+
+# :x islandmap
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
+# :x power
+DIALECT
+a large number or amount of something.
+"there's a power of difference between farming now and when I was a lad"
+# :x blood
+O'Brian's most likely
+# :x luff
+steer a yacht nearer the wind.
+"all you need to do is luff up, head to wind"
+# :x puncheon
+The puncheon was a British unit for beer, wines and spirits.
+1 puncheon = 0.318-0.546 m3 or 318 to 546 litres.
