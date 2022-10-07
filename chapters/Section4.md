@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Part 4: The Stockade
 ---
 ## Chapters in this part:

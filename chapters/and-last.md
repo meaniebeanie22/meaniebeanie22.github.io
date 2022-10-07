@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: And Last
 ---
 ## Short summary  
 #### Events:  

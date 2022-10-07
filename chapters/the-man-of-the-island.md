@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Man of the Island
 ---
 ## Short summary  
 #### Events:  

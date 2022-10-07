@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: At the Sign of the Spyglass
 ---
 ## Short summary  
 #### Events: 

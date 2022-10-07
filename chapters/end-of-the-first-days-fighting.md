@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: End of the First Day's Fighting
 ---
 ## Short summary  
 #### Events:  

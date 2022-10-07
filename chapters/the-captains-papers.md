@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Captain's Papers
 ---
 ## Short summary  
 #### Events:  

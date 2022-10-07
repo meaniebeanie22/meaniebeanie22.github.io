@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Part 3: My Shore Adventure
 ---
 ## Chapters in this part:

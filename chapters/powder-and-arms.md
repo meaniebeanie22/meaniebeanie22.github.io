@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: Powder and Arms
 ---
 ## Short summary  
 #### Events:  

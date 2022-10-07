@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Garrison in the Stockade
 ---
 ## Short summary  
 #### Events:  

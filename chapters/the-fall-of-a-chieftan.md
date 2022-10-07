@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Fall of a Chieftan
 ---
 ## Short summary  
 #### Events:  

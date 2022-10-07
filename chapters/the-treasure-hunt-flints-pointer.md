@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Treasure Hunt: Flint's Pointer
 ---
 ## Short summary  
 #### Events:  

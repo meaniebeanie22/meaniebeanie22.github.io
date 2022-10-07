@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: I Strike the Jolly Roger
 ---
 ## Short summary  
 #### Events:  

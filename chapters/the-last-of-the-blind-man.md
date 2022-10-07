@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Last of the Blind Man
 ---
 ## Short summary  
 #### Events:  

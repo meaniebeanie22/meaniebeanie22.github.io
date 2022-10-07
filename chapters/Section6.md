@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Part 6: Captain Silver
 ---
 ## Chapters in this part:

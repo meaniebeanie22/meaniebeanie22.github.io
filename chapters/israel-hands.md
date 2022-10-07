@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: Israel Hands
 ---
 ## Short summary  
 #### Events:  

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: Black Dog Appears and Disappears
 ---
 ## Short summary  
 #### Events:  

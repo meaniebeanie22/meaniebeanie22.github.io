@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Part 2: The Sea Cook
 ---
 ## Chapters in this part:

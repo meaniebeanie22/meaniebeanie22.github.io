@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: Pieces of Eight
 ---
 ## Short summary  
 #### Events:  

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: How I Began My Shore Adventure
 ---
 ## Short summary  
 #### Events:  

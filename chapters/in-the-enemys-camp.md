@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: In the Enemy's Camp
 ---
 ## Short summary  
 #### Events:  

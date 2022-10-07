@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: I Go to Bristol
 ---
 ## Short summary  
 #### Events:  

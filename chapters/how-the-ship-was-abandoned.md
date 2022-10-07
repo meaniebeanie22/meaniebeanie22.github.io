@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: How the Ship was Abandoned
 ---
 ## Short summary  
 #### Events:  

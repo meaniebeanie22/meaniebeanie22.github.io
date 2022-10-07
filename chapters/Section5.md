@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Part 5: My Sea Adventure
 ---
 ## Chapters in this part:

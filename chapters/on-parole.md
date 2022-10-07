@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: On Parole
 ---
 ## Short summary  
 #### Events:  

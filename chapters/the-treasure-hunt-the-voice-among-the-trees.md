@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Treasure Hunt: The Voice Among the Trees
 ---
 ## Short summary  
 #### Events:  

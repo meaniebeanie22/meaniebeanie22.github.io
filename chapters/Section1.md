@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Part 1: The Old Buccaneer
 ---
 ## Chapters in this part:

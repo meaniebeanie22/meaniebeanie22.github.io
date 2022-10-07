@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Cruise of the Coracle
 ---
 ## Short summary  
 #### Events:  

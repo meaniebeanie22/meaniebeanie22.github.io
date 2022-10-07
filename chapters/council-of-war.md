@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: Council of War
 ---
 ## Short summary  
 #### Events:  

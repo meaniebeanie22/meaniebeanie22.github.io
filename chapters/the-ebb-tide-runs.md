@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Ebb-Tide Runs
 ---
 ## Short summary  
 #### Events:  

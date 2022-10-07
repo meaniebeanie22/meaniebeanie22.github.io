@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Jolly-Boat's Last Trip
 ---
 ## Short summary  
 #### Events:  

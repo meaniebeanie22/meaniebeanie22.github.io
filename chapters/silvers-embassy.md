@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: Silver's Embassy
 ---
 ## Short summary
 #### Events:  

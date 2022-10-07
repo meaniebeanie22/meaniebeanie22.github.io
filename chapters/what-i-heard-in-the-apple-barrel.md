@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: What I Heard in the Apple Barrel
 ---
 ## Short summary  
 #### Events:  

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Old Sea Dog
 ---
 ## Short summary  

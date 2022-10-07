@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: How I Began My Sea Adventure
 ---
 ## Short summary  
 #### Events:  

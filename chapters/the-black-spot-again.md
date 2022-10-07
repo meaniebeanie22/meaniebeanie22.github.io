@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chapter
+layout: default
+title: The Black Spot Again
 ---
 ## Short summary  
 #### Events:  
