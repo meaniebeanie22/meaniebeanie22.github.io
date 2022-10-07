@@ -20,8 +20,7 @@
 
 title: English
 description: >- # this means to ignore newlines until "baseurl:"
-  you wanted content? Here's content:
-  english is painful.
+  I got bored so I made this instead. Don't ask why.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  meaniebeanie22
