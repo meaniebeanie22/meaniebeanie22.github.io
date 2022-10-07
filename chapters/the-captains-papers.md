@@ -192,21 +192,21 @@ captain’s tottery characters, these words: “Bulk of treasure here.”
 
 Over on the back the same hand had written this further information:
 
-Tall tree, Spy-glass shoulder, bearing a point to
-the N. of N.N.E.
+   Tall tree, Spy-glass shoulder, bearing a point to
+   the N. of N.N.E.
 
-Skeleton Island E.S.E. and by E.
+   Skeleton Island E.S.E. and by E.
 
-Ten feet.
+   Ten feet.
 
-The bar silver is in the north cache; you can find
-it by the trend of the east hummock, ten fathoms
-south of the black crag with the face on it.
+   The bar silver is in the north cache; you can find
+   it by the trend of the east hummock, ten fathoms
+   south of the black crag with the face on it.
 
-The arms are easy found, in the sand-hill, N.
-point of north inlet cape, bearing E. and a
-quarter N.
-[:J.F.](#flint)
+   The arms are easy found, in the sand-hill, N.
+   point of north inlet cape, bearing E. and a
+   quarter N.
+   [:J.F.](#flint)
 
 That was all; but brief as it was, and to me incomprehensible, it filled
 the squire and Dr. Livesey with delight.
@@ -242,4 +242,4 @@ be as silent as the grave.”
 
 # :x flint
 Captain Flint's initials.
-#
+# 
