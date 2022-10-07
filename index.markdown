@@ -11,4 +11,4 @@ title: Home
 ## [Part 3: My Shore Adventure](/chapters/Section3.html)
 ## [Part 4: The Stockade](/chapters/Section4.html)
 ## [Part 5: My Sea Adventure](/chapters/Section5.html)
-## [Part 6: Captain Silver](/chapter/Section6.html)
+## [Part 6: Captain Silver](/chapters/Section6.html)
