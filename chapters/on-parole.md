@@ -122,7 +122,7 @@ for your kindness, and as you see, puts faith in you and takes the drugs
 down like that much grog. And I take it I’ve found a way as’ll suit all.
 Hawkins, will you give me your word of honour as a young gentleman--for
 a young gentleman you are, although poor born--your word of honour not
-to slip your cable?”
+to [:slip your cable?](https://en.wiktionary.org/wiki/slip_the_cable)”
 
 I readily gave the pledge required.
 
@@ -160,7 +160,7 @@ doctor awaited us on the other side of the stockade, and as soon as we
 were within easy speaking distance Silver stopped.
 
 “You’ll make a note of this here also, doctor,” says he, “and the boy’ll
-tell you how I saved his life, and were deposed for it too, and you
+tell you how I saved his life, and were [:deposed for it too](#silverlining), and you
 may lay to that. Doctor, when a man’s steering as near the wind as
 me--playing chuck-farthing with the last breath in his body, like--you
 wouldn’t think it too much, mayhap, to give him one good word? You’ll
@@ -232,13 +232,12 @@ boy. You found out the plot; you found Ben Gunn--the best deed that
 ever you did, or will do, though you live to ninety. Oh, by Jupiter, and
 talking of Ben Gunn! Why, this is the mischief in person. Silver!” he
 cried. “Silver! I’ll give you a piece of advice,” he continued as
-the cook drew near again; “don’t you be in any great hurry after that
-treasure.”
+the cook drew near again; [:“don’t you be in any great hurry after that
+treasure.”](#bgtreasure)
 
 “Why, sir, I do my possible, which that ain’t,” said Silver. “I can
 only, asking your pardon, save my life and the boy’s by seeking for that
 treasure; and you may lay to that.”
-
 “Well, Silver,” replied the doctor, “if that is so, I’ll go one step
 further: look out for squalls when you find it.”
 
@@ -266,3 +265,9 @@ speak at random. Good-bye, Jim.”
 
 And Dr. Livesey shook hands with me through the stockade, nodded to
 Silver, and set off at a brisk pace into the wood.
+
+# :x silverlining
+Silver is deliberately leaving out the fact that he was immediately reinstated by his crew, attempting to make what he did more grand and give him some brownie points with the Doctor.
+
+# :x bgtreasure
+Don't go looking for it because it ain't there! Ben dug it up while on the island alone and transported it to his cave. This'll get Silver in a hell of a lot of trouble with the mutineers when they go to dig.
