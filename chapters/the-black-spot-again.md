@@ -4,14 +4,12 @@ title: The Black Spot Again
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. General talk about black spot
+2. Silver deposed and then immediately voted back in
+3. Only punishment is that the deposer had to guard for the night
 
 #### Analysis:  
-
+This chapter on it's own doesn't serve much of a purpose - it's with the wider book that it's palce begins to feel sure. It's needed to build tension for the upcoming flurry of action, and serves as a 'calm before the storm' that is the attempt at digging up the treasure.
 
 ## Annotated chapter  
 THE council of buccaneers had lasted some time, when one of them
@@ -162,8 +160,8 @@ trifle! You look there--that’s why!”
 And he cast down upon the floor a paper that I instantly
 recognized--none other than the chart on yellow paper, with the three
 red crosses, that I had found in the oilcloth at the bottom of the
-captain’s chest. Why the doctor had given it to him was more than I
-could fancy.
+captain’s chest. [:Why the doctor had given it to him was more than I
+could fancy.](#charttosilver)
 
 But if it were inexplicable to me, the appearance of the chart was
 incredible to the surviving mutineers. They leaped upon it like cats
@@ -237,3 +235,6 @@ to make his peace and save his miserable life. He himself slept
 peacefully and snored aloud, yet my heart was sore for him, wicked as he
 was, to think on the dark perils that environed and the shameful gibbet
 that awaited him.
+
+# :x charttosilver
+My guess would be that Ben Gunn had joined the faithful men, and told them that he had found and dug up the treasure in his three years marooned on the island, which would make the chart absolutely worthless. Unfortunately, no one knows that bar the honest's. 
