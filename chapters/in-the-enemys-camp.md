@@ -4,14 +4,14 @@ title: In the Enemy's Camp
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Block-house contains mutineers now, and the honest men no longer care for Jim
+2. Jim is offered to join the mutineers by Silver, but he refuses
+3. We learn that Livesey came down with a flag of truce to Silver, and that he gave them almost everything
+4. Silver joins Jim while the others are trying to give Silver the black spot
+5. We know Silver has the chart
 
 #### Analysis:  
-
+This chapter sets the ball rolling for the final part of the book, and at great pace. It is in this chapter that we learn of the misfortune that has befallen the honest men, and how he is thought of by both the faithful men that he deserted, the mutineers, and Silver himself. Stevenson uses this chapter to build a tremendous amount of tension in hopes of keppeing the reader hooked in until the very end.
 
 ## Annotated chapter  
 THE red glare of the torch, lighting up the interior of the block house,
@@ -61,14 +61,14 @@ on again.
 “Now, you see, Jim, so be as you ARE here,” says he, “I’ll give you a
 piece of my mind. I’ve always liked you, I have, for a lad of spirit,
 and the picter of my own self when I was young and handsome. I always
-wanted you to jine and take your share, and die a gentleman, and now, my
+wanted you to [:jine](#jine) and take your share, and die a gentleman, and now, my
 cock, you’ve got to. Cap’n Smollett’s a fine seaman, as I’ll own up to
 any day, but stiff on discipline. ‘Dooty is dooty,’ says he, and right
 he is. Just you keep clear of the cap’n. The doctor himself is gone dead
 again you--‘ungrateful scamp’ was what he said; and the short and the
 long of the whole story is about here: you can’t go back to your own
 lot, for they won’t have you; and without you start a third ship’s
-company all by yourself, which might be lonely, you’ll have to jine with
+company all by yourself, which might be lonely, you’ll have to [:jine](#jine) with
 Cap’n Silver.”
 
 So far so good. My friends, then, were still alive, and though I partly
@@ -79,7 +79,7 @@ what I heard.
 “I don’t say nothing as to your being in our hands,” continued Silver,
 “though there you are, and you may lay to it. I’m all for argyment; I
 never seen good come out o’ threatening. If you like the service, well,
-you’ll jine; and if you don’t, Jim, why, you’re free to answer no--free
+you’ll [:jine](#jine); and if you don’t, Jim, why, you’re free to answer no--free
 and welcome, shipmate; and if fairer can be said by mortal seaman,
 shiver my sides!”
 
@@ -187,10 +187,10 @@ Morgan paused, but a hoarse murmur rose from the others.
 “I stood hazing long enough from one,” added another. “I’ll be hanged if
 I’ll be hazed by you, John Silver.”
 
-“Did any of you gentlemen want to have it out with ME?” roared Silver,
+[:“Did any of you gentlemen want to have it out with ME?” roared Silver,
 bending far forward from his position on the keg, with his pipe still
 glowing in his right hand. “Put a name on what you’re at; you ain’t
-dumb, I reckon. Him that wants shall get it. Have I lived this many
+dumb, I reckon.](#silverlosingcontrol) Him that wants shall get it. Have I lived this many
 years, and a son of a rum puncheon cock his hat athwart my hawse at the
 latter end of it? You know the way; you’re all gentlemen o’ fortune, by
 your account. Well, I’m ready. Take a cutlass, him that dares, and I’ll
@@ -274,7 +274,7 @@ He hobbled to the torch, where it stood propped among the firewood, and
 took a fresh light to his pipe.
 
 “Understand me, Jim,” he said, returning. “I’ve a head on my shoulders,
-I have. I’m on squire’s side now. I know you’ve got that ship safe
+I have. [:I’m on squire’s side now](#silverswinging). I know you’ve got that ship safe
 somewheres. How you done it, I don’t know, but safe it is. I guess Hands
 and O’Brien turned soft. I never much believed in neither of THEM. Now
 you mark me. I ask no questions, nor I won’t let others. I know when
@@ -296,3 +296,10 @@ no doubt--something, surely, under that, Jim--bad or good.”
 
 And he took another swallow of the brandy, shaking his great fair head
 like a man who looks forward to the worst.
+
+# :x jine
+related to 'jeti' (to conquer)
+# :x silverlosingcontrol
+Silver's reigns on the mutineers are starting to loosen, and their might be an attemp to remove him from his place [(the black spot again?)](/the-black-spot-again.html)
+# :x silverswinging
+Silver has already switched sides once, and he's switching again. This is one reason no one trusts the man!
