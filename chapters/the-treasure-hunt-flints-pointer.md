@@ -75,8 +75,8 @@ boy--against five strong and active seamen!
 Add to this double apprehension the mystery that still hung over the
 behaviour of my friends, their unexplained desertion of the stockade,
 their inexplicable cession of the chart, or harder still to understand,
-the doctor’s last warning to Silver, “Look out for squalls when you
-find it,” and you will readily believe how little taste I found in my
+the doctor’s last warning to Silver, [:“Look out for squalls when you
+find it,”](#squalls) and you will readily believe how little taste I found in my
 breakfast and with how uneasy a heart I set forth behind my captors on
 the quest for treasure.
 
@@ -90,7 +90,7 @@ line about my waist and followed obediently after the sea-cook, who
 held the loose end of the rope, now in his free hand, now between his
 powerful teeth. For all the world, I was led like a dancing bear.
 
-The other men were variously burthened, some carrying picks and
+The other men were variously [:burthened](#bd), some carrying picks and
 shovels--for that had been the very first necessary they brought ashore
 from the HISPANIOLA--others laden with pork, bread, and brandy for the
 midday meal. All the stores, I observed, came from our stock, and I
@@ -241,3 +241,9 @@ We started, certainly; but in spite of the hot sun and the staring
 daylight, the pirates no longer ran separate and shouting through the
 wood, but kept side by side and spoke with bated breath. The terror of
 the dead buccaneer had fallen on their spirits.
+
+# :x squalls
+Squalls are a sudden violent gust of wind, or localized storm. This probable means that the Doctor is telling Silver to looks out for any unforseen things that might topple him or his plans.
+
+# :x bd
+Old-timey word for burdened

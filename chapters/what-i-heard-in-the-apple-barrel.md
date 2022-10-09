@@ -10,7 +10,7 @@ title: What I Heard in the Apple Barrel
 4. Mutiny planning
 
 #### Analysis:  
-This chapter introduces the main complication fo the story - the mutiny among the crew, with the honest hands at one end, and LJS's men (most of them old ones of Flint) at the other. This is the core issue of the novel, and is what delivers many of the other events, including the stockade on Treasure Island.
+This chapter introduces the main complication of the story - the mutiny among the crew, with the honest hands at one end, and LJS's men (most of them old ones of Flint) at the other. This is the core issue of the novel, and is what delivers many of the other events, including the stockade on Treasure Island.
 
 ## Annotated chapter  
 “NO, not I,” said Silver. “Flint was cap’n; I was quartermaster, along

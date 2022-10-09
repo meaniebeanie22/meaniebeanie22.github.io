@@ -238,7 +238,7 @@ treasure.”](#bgtreasure)
 only, asking your pardon, save my life and the boy’s by seeking for that
 treasure; and you may lay to that.”
 “Well, Silver,” replied the doctor, “if that is so, I’ll go one step
-further: look out for squalls when you find it.”
+further: [:look out for squalls when you find it.”](#squalls)
 
 “Sir,” said Silver, “as between man and man, that’s too much and too
 little. What you’re after, why you left the block house, why you given
@@ -270,3 +270,6 @@ Silver is deliberately leaving out the fact that he was immediately reinstated b
 
 # :x bgtreasure
 Don't go looking for it because it ain't there! Ben dug it up while on the island alone and transported it to his cave. This'll get Silver in a hell of a lot of trouble with the mutineers when they go to dig.
+
+# :x squalls
+Squalls are a sudden violent gust of wind, or localized storm. This probable means that the Doctor is telling Silver to looks out for any unforseen things that might topple him or his plans.

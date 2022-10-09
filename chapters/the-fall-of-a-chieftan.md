@@ -11,7 +11,7 @@ title: The Fall of a Chieftan
 5. The rest walk to the cave, eat and rest.
 
 #### Analysis:  
-This chapter brings the start of the resolution for the novel, as we see the treasure in the hands of the honest men, and the mutineers depleted in number and running for their lives. Those who stayed loyal (except Silver of course) are rewarded handsomely with a good nights rest and food, while the mutineers are left to fight for themselves. This chapter is The second last, and the story is coming to a close (you can feel it in the ending).
+This chapter brings the start of the resolution for the novel, as we see the treasure in the hands of the honest men, and the mutineers depleted in number and running for their lives. Those who stayed loyal (except Silver of course) are rewarded handsomely with a good nights rest and food, while the mutineers are left to fight for themselves. This chapter is the second last, and the story is coming to a close (you can feel it in the ending).
 
 ## Annotated chapter  
 THERE never was such an overturn in this world. Each of these six men
