@@ -20,10 +20,10 @@ the brow of the ascent.
 
 The plateau being somewhat tilted towards the west, this spot on which
 we had paused commanded a wide prospect on either hand. Before us,
-over the tree-tops, we beheld the Cape of the Woods fringed with surf;
+over the tree-tops, we beheld the [:Cape of the Woods](#islandmap) fringed with surf;
 behind, we not only looked down upon the anchorage and Skeleton Island,
 but saw--clear across the spit and the eastern lowlands--a great field
-of open sea upon the east. Sheer above us rose the Spyglass, here dotted
+of open sea upon the east. Sheer above us rose the [:Spyglass](#islandmap), here dotted
 with single pines, there black with precipices. There was no sound but
 that of the distant breakers, mounting from all round, and the chirp of
 countless insects in the brush. Not a man, not a sail, upon the sea; the
@@ -32,7 +32,7 @@ very largeness of the view increased the sense of solitude.
 Silver, as he sat, took certain bearings with his compass.
 
 “There are three ‘tall trees’” said he, “about in the right line from
-Skeleton Island. ‘Spy-glass shoulder,’ I take it, means that lower p’int
+Skeleton Island. [:‘Spy-glass shoulder,’](#islandmap) I take it, means that lower p’int
 there. It’s child’s play to find the stuff now. I’ve half a mind to dine
 first.”
 
@@ -78,12 +78,12 @@ His courage had come back as he spoke, and some of the colour to his
 face along with it. Already the others had begun to lend an ear to this
 encouragement and were coming a little to themselves, when the same
 voice broke out again--not this time singing, but in a faint distant
-hail that echoed yet fainter among the clefts of the Spy-glass.
+hail that echoed yet fainter among the clefts of the [:Spy-glass](#islandmap).
 
-“Darby M’Graw,” it wailed--for that is the word that best describes the
+[:“Darby M’Graw,” it wailed--for that is the word that best describes the
 sound--“Darby M’Graw! Darby M’Graw!” again and again and again; and then
 rising a little higher, and with an oath that I leave out: “Fetch aft
-the rum, Darby!”
+the rum, Darby!”](#bg)
 
 The buccaneers remained rooted to the ground, their eyes starting from
 their heads. Long after the voice had died away they still stared in
@@ -103,7 +103,7 @@ but he had not yet surrendered.
 but us that’s here.” And then, making a great effort: “Shipmates,”
  he cried, “I’m here to get that stuff, and I’ll not be beat by man or
 devil. I never was feared of Flint in his life, and, by the powers, I’ll
-face him dead. There’s seven hundred thousand pound not a quarter of a
+face him dead. There’s [:seven hundred thousand pound](#holyjesusmoneyprinter) not a quarter of a
 mile from here. When did ever a gentleman o’ fortune show his stern to
 that much dollars for a boozy old seaman with a blue mug--and him dead
 too?”
@@ -172,9 +172,9 @@ downhill, for, as I have said, the plateau tilted towards the west. The
 pines, great and small, grew wide apart; and even between the clumps of
 nutmeg and azalea, wide open spaces baked in the hot sunshine. Striking,
 as we did, pretty near north-west across the island, we drew, on the
-one hand, ever nearer under the shoulders of the Spy-glass, and on the
+one hand, ever nearer under the shoulders of the [:Spy-glass](#islandmap), and on the
 other, looked ever wider over that western bay where I had once tossed
-and trembled in the coracle.
+and trembled in the [:coracle](#coracle).
 
 The first of the tall trees was reached, and by the bearings proved the
 wrong one. So with the second. The third rose nearly two hundred feet
@@ -185,7 +185,7 @@ the east and west and might have been entered as a sailing mark upon the
 chart.
 
 But it was not its size that now impressed my companions; it was the
-knowledge that seven hundred thousand pounds in gold lay somewhere
+knowledge that [:seven hundred thousand pounds](#holyjesusmoneyprinter) in gold lay somewhere
 buried below its spreading shadow. The thought of the money, as they
 drew nearer, swallowed up their previous terrors. Their eyes burned in
 their heads; their feet grew speedier and lighter; their whole soul
@@ -234,4 +234,16 @@ around. On one of these boards I saw, branded with a hot iron, the name
 WALRUS--the name of Flint’s ship.
 
 All was clear to probation. The CACHE had been found and rifled; the
-seven hundred thousand pounds were gone!
+[:seven hundred thousand pounds](#holyjesusmoneyprinter) were gone!
+
+# :x islandmap
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
+
+# :x holyjesusmoneyprinter
+700,000 pounds from 1750 (right in the middle of the range given at the very start of the book) is today about 120 million GBP, or 210m AUD - a tremendous amount of money for anyone to have. Finding this cache would have made every man a millionaire ten times over, so it's no wonder why they fight tooth and nail for it until the very end.
+
+# :x bg
+Ben Gunn - he was part of Flint's crew, and therefore knew they knew this
+
+# :x coracle
+The little boat Ben Gunn made, that Jim used to board the *Hispaniola* - [:see wikipedia](https://en.wikipedia.org/wiki/coracle)
