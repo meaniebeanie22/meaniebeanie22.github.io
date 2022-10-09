@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 3: My Shore Adventure
+title: "Part 3: My Shore Adventure"
 ---
 ## Chapters in this part:
 * [Chapter 13 - How I Began my Shore Adventure](/chapters/how-i-began-my-shore-adventure.html).  

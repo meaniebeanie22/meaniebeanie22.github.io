@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 4: The Stockade
+title: "Part 4: The Stockade"
 ---
 ## Chapters in this part:
 * [Chapter 16 - Narrative Continued by the Doctor: How the Ship was Abandoned](/chapters/how-the-ship-was-abandoned.html).  

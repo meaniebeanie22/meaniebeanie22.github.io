@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 1\: The Old Buccaneer
+title: "Part 1: The Old Buccaneer"
 ---
 ## Chapters in this part:
 * [Chapter 1 - The Old Sea Dog at the 'Admiral Benbow'](/chapters/the-old-sea-dog-at-the-admiral-benbow.html).

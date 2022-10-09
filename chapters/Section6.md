@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 6: Captain Silver
+title: "Part 6: Captain Silver"
 ---
 ## Chapters in this part:
 * [Chapter 28 - In the Enemy's Camp](/chapters/in-the-enemys-camp.html).  

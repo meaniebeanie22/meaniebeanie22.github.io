@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 5: My Sea Adventure
+title: "Part 5: My Sea Adventure"
 ---
 ## Chapters in this part:
 * [Chapter 22 - How I Began my Sea Adventure](/chapters/how-i-began-my-sea-adventure.html).  

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 2\: The Sea Cook
+title: "Part 2: The Sea Cook"
 ---
 ## Chapters in this part:
 * [Chapter 7 - I Go to Bristol](/chapters/i-go-to-bristol.html).  
