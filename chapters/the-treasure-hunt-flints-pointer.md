@@ -4,14 +4,14 @@ title: The Treasure Hunt: Flint's Pointer
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Planning for the treasure hunt
+2. Set out full of kit and food
+3. Trek out, and reach the plateau where the treasure lies
+4. Find a corpse leaning against a tree (one of Flint's crew that Silver and Morgan recognise)
+5. It points in the direction on the instructions, so they know they have one vector of the two on the chart.
 
 #### Analysis:  
-
+This chapter is building suspense for the disappointment that comes of the treasure. The fact that there is none their is hinted to the reader multiple times, but the mutineers seem to remain oblivious. Steveson uses this to entice the reader, luring them through because they want to see what happends when the pirates realise that there is nothing but a two guinea piece left.
 
 ## Annotated chapter  
 “JIM,” said Silver when we were alone, “if I saved your life, you saved
