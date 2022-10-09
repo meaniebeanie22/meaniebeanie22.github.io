@@ -198,6 +198,6 @@ still ringing in my ears: “Pieces of eight! Pieces of eight!”
 # :x mutguns
 They still have a musket, and a man who can aim it - so not a wise plan.
 # :x bg
-He was marooned by Flint, so makes sence why he is eager.
+He was marooned by Flint, so makes sense why he is eager.
 # :x rep
 A thought back to the start of the book, and the drunken melody of Billy Bones and his crew.
