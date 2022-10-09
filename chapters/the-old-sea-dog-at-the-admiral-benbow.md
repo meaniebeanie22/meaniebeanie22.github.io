@@ -57,7 +57,7 @@ he, looking as fierce as a commander.
 
 And indeed bad as his clothes were and coarsely as he spoke, he had none
 of the appearance of a man who sailed before the mast, [:but seemed like
-a mate or skipper accustomed to be obeyed or to strike.](#captainisamate] The man who came
+a mate or skipper accustomed to be obeyed or to strike.](#captainisamate) The man who came
 with the barrow told us the mail had set him down the morning before at
 the Royal George, that he had inquired what inns there were along the
 coast, and hearing ours well spoken of, I suppose, and described as
