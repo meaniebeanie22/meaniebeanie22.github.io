@@ -5,8 +5,8 @@ title: The Fall of a Chieftan
 ## Short summary  
 #### Events:  
 1. Silver changes sides back to the faithfuls
-2. Silver knows the hunt is useless, and when the other mutineers realise they get out of the hole and begin to rebel, before being shot at by three of the faithful men (Livesey, Gray, and Ben Gunn)
-3. They run, and Silver and Jim fire aswell
+2. Silver knows the hunt is useless, and when the other mutineers realise, they get out of the hole and begin to rebel, before being shot at by three of the faithful men (Livesey, Gray, and Ben Gunn)
+3. They run, and Silver and Jim fire as well
 4. They bring the boat around the island close to Ben's cave, with Gray going to the *Hispaniola* to guard for the night
 5. The rest walk to the cave, eat and rest.
 
