@@ -12,7 +12,7 @@ title: Council of War
 6. The honest's are outnumbered severely
 
 #### Analysis:  
-This chapter sets the scene for the next part (as is the pattern in the novel), and we overhear LJS suggesting that the men should be allowed to go ashore, which ends up being the spark for the mutiny to begin, or at least one of the main factors. We see the Captain becoming more accepted by the Squire and Jim for his loyalty and ability, which makes their everts far more cohesive than they would have been without him.  
+This chapter sets the scene for the next part (as is the pattern in the novel), and we overhear LJS suggesting that the men should be allowed to go ashore, which ends up being the spark for the mutiny to begin, or at least one of the main factors. We see the Captain becoming more accepted by the Squire and Jim for his loyalty and ability, which makes their efforts far more cohesive than they would have been without him.  
 
 ## Annotated chapter  
 THERE was a great rush of feet across the deck. I could hear people
