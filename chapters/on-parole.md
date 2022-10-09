@@ -4,14 +4,13 @@ title: On Parole
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Doctor comes to treat his patients
+2. After, he and Jim and out and have a chat
+3. The Doc tries to warn Silver about the uselesness of the chart
+4. They part ways - the Doc going back, and Jim returning to the block-house as he promised to Silver
 
 #### Analysis:  
-
+This chapter serves a similar purpose to the last - to build suspense for the treasure hunt that Silver mentions 'is happening today' (next chapter). Livesey appears to forgive Jim when they talk, and the two returning to their spots only adds to the tension (we know they're going to get back together, but when?)
 
 ## Annotated chapter  
 I WAS wakened--indeed, we were all wakened, for I could see even the
