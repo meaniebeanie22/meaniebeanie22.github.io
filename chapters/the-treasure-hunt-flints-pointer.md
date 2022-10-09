@@ -103,7 +103,7 @@ short of eatables, it was not likely they would be very flush of powder.
 
 Well, thus equipped, we all set out--even the fellow with the broken
 head, who should certainly have kept in shadow--and straggled, one after
-another, to the beach, where the two gigs awaited us. Even these bore
+another, to the beach, where the two [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)) awaited us. Even these bore
 trace of the drunken folly of the pirates, one in a broken thwart, and
 both in their muddy and unbailed condition. Both were to be carried
 along with us for the sake of safety; and so, with our numbers divided
@@ -121,9 +121,9 @@ reader may remember, thus:
 
 A tall tree was thus the principal mark. Now, right before us the
 anchorage was bounded by a plateau from two to three hundred feet high,
-adjoining on the north the sloping southern shoulder of the Spy-glass
+adjoining on the north the sloping southern shoulder of the [:Spy-glass](#islandmap)
 and rising again towards the south into the rough, cliffy eminence
-called the Mizzen-mast Hill. The top of the plateau was dotted thickly
+called the [:Mizzen-mast Hill](#islandmap). The top of the plateau was dotted thickly
 with pine-trees of varying height. Every here and there, one of a
 different species rose forty or fifty feet clear above its neighbours,
 and which of these was the particular “tall tree” of Captain Flint could
@@ -135,11 +135,11 @@ shrugging his shoulders and bidding them wait till they were there.
 
 We pulled easily, by Silver’s directions, not to weary the hands
 prematurely, and after quite a long passage, landed at the mouth of
-the second river--that which runs down a woody cleft of the Spy-glass.
+the second river--that which runs down a woody cleft of the [:Spy-glass](#islandmap).
 Thence, bending to our left, we began to ascend the slope towards the
 plateau.
 
-At the first outset, heavy, miry ground and a matted, marish vegetation
+At the first outset, heavy, [:miry](https://en.wiktionary.org/wiki/miry#Adjective) ground and a matted, marish vegetation
 greatly delayed our progress; but by little and little the hill began
 to steepen and become stony under foot, and the wood to change its
 character and to grow in a more open order. It was, indeed, a most
@@ -247,3 +247,6 @@ Squalls are a sudden violent gust of wind, or localized storm. This probable mea
 
 # :x bd
 Old-timey word for burdened
+
+# :x islandmap
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
