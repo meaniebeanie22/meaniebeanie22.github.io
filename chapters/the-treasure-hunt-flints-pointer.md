@@ -11,7 +11,7 @@ title: The Treasure Hunt: Flint's Pointer
 5. It points in the direction on the instructions, so they know they have one vector of the two on the chart.
 
 #### Analysis:  
-This chapter is building suspense for the disappointment that comes of the treasure. The fact that there is none their is hinted to the reader multiple times, but the mutineers seem to remain oblivious. Steveson uses this to entice the reader, luring them through because they want to see what happends when the pirates realise that there is nothing but a two guinea piece left.
+This chapter is building suspense for the disappointment that comes of the treasure. The fact that there is none there is hinted to the reader multiple times, but the mutineers seem to remain oblivious. Stevenson uses this to entice the reader, luring them through because they want to see what happens when the pirates realise that there is nothing but a two guinea piece left.
 
 ## Annotated chapter  
 “JIM,” said Silver when we were alone, “if I saved your life, you saved
@@ -243,7 +243,7 @@ wood, but kept side by side and spoke with bated breath. The terror of
 the dead buccaneer had fallen on their spirits.
 
 # :x squalls
-Squalls are a sudden violent gust of wind, or localized storm. This probable means that the Doctor is telling Silver to looks out for any unforseen things that might topple him or his plans.
+Squalls are a sudden violent gust of wind, or localised storm. This probably means that the Doctor is telling Silver to look out for any unforeseen things that might topple him or his plans.
 
 # :x bd
 Old-timey word for burdened
