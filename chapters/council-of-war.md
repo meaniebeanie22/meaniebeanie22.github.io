@@ -8,11 +8,11 @@ title: Council of War
 2. John suggests people going ashore would be good
 3. Livesey and the honest officers are called into the cabin to discuss what Jim heard.
 4. Silver is now known as a traitor
-5. They contniue the voyage to make sure they don't annoy the mutineers
+5. They continue the voyage to make sure they don't annoy the mutineers
 6. The honest's are outnumbered severely
 
 #### Analysis:  
-This chapter sets the scene for the next part (as is the pattern in the novel), and we overhear LJS suggesting that the men should be allowed to go ashore, which ends up being the spark for the mutiny to begin, or atleast one of the main factors. We see the Captain becoming more accepted by the Squire and Jim for his layalty and ability, which makes their everts far more cohesive than they would have been without him.  
+This chapter sets the scene for the next part (as is the pattern in the novel), and we overhear LJS suggesting that the men should be allowed to go ashore, which ends up being the spark for the mutiny to begin, or at least one of the main factors. We see the Captain becoming more accepted by the Squire and Jim for his loyalty and ability, which makes their everts far more cohesive than they would have been without him.  
 
 ## Annotated chapter  
 THERE was a great rush of feet across the deck. I could hear people
