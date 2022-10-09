@@ -4,11 +4,11 @@ title: Powder and Arms
 ---
 ## Short summary  
 #### Events:  
-1. Captain Smollet introduced
+1. Captain Smollett introduced
 2. He has problems with the crew and the mission (to recover treasure), and begins swapping out the crew
-3. He also points out how the ship is being loaded poorly, and how the hands know almost all the details on the map already (Silver knows them as he was on Flint's crew as [:Quartermaster](https://en.wikipedia.org/wiki/Quartermaster#Pirate_quartermasters), so makes sence)
-4. Smollet gets his way, and changes are made
-5. Almsot everyone appears to hate the Captain, even though later on he demonstrates his abilities to the rest of the crew.
+3. He also points out how the ship is being loaded poorly, and how the hands know almost all the details on the map already (Silver knows them as he was on Flint's crew as [:Quartermaster](https://en.wikipedia.org/wiki/Quartermaster#Pirate_quartermasters), so makes sense)
+4. Smollett gets his way, and changes are made
+5. Almost everyone appears to hate the Captain, even though later on he demonstrates his abilities to the rest of the crew.
 
 #### Analysis:  
 This chapter introduces the Captain, along with Arrow. We see the Captain trying to bring the ship into a more favourable state, and unexpectedly Trelawney and Livesey listen and attempt to fix the issues outlines by the Captain in their quarters. Powder and arms are moved, berths reassigned, and the ship is in a far more favourable state if there were to be a mutiny (foreshadowing).

@@ -13,7 +13,7 @@ title: The Last of the Blind Man
 7. Hawkins gives Livesey the treasure map  
 
 #### Analysis:  
-Treasure island is many stories formed into one - and this is the resolution of the first section. If you look at the story arc, you end up with a wave, with arcs getting bigger and smaller as you move through the chapters. This structure keeps the reader hooked, giving the book an everliving sence of adventure, from the first chapter to the last.  
+Treasure island is many stories formed into one - and this is the resolution of the first section. If you look at the story arc, you end up with a wave, with arcs getting bigger and smaller as you move through the chapters. This structure keeps the reader hooked, giving the book an ever-living sense of adventure, from the first chapter to the last.  
 
 ## Annotated chapter  
 MY curiosity, in a sense, was stronger than my fear, for I could not
@@ -218,4 +218,4 @@ As soon as I was mounted, holding on to Dogger’s belt, the supervisor
 gave the word, and the party struck out at a bouncing trot on the road
 to Dr. Livesey’s house.
 # :x fist
-Flint's fist is the name of the map 
+Flint's fist is the name of the map

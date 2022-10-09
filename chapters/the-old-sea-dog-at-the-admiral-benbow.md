@@ -5,12 +5,12 @@ title: The Old Sea Dog
 ## Short summary  
 #### Events:  
 1. An intro into the book, telling us who the main characters at the beginning are (Livesey and Trelawney), and gives us the settings of the book (the inn and Treasure Island predominantly)
-2. A recount of the old sea dog ('My mate Bill' - who turns out to have been Cpt. Flint's first mate) who stayed at the Admiral Benbow, and his physical appearance and general demeanor
+2. A recount of the old sea dog ('My mate Bill' - who turns out to have been Capt. Flint's first mate) who stayed at the Admiral Benbow, and his physical appearance and general demeanour
 3. Dr. Livesey's first interaction with Bill, a confrontation that beings about the main plot
 4. 'The song'  
 
 #### Analysis  
-During this chapter, Stevenson supports the character development of many of the core characters of the novel, and presents Jim in a light that relates him most to the target audience - youth. The whole novel brings about a sence of adventure, but this chapter is the kindling of the story - it takes the idea and gives it what it needs to grow into a fully fledged tale of adventure.
+During this chapter, Stevenson supports the character development of many of the core characters of the novel, and presents Jim in a light that relates him most to the target audience - youth. The whole novel brings about a sense of adventure, but this chapter is the kindling of the story - it takes the idea and gives it what it needs to grow into a fully-fledged tale of adventure.
   
 He uses themes like adventure and coming-of-age in Treasure Island extensively, further appealing to youth. It's written as a recount of the past, of what many of us thought great life could have been life back in the 1700s. While the book may not be particularly accurate, it certainly hits the spot in his audience.  
 ## Annotated chapter  
@@ -224,10 +224,10 @@ Foreshadowing the arrival of Black Dog.
 # :x capstanbars
 capstan bar. noun. a lever, often wooden, for turning a [:capstan](https://en.wikipedia.org/wiki/Capstan_(nautical)).
 # :x blackdogscary
-This again refers to Black Dog, and paints a picture of how almost everyone saw him - not just Jim. He was feared by all, and probably a former member of Flint's crew who the Captain didn't get along with so well.
+This again refers to Black Dog, and paints a picture of how almost everyone saw him - not just Jim. He was feared by all, and probably a former member of Flint's crew who the captain didn't get along with so well.
 # :x refusepay
 This goes on for a while, and when Jim and his mother take what they are owed when the pirate dies, it incites a conflict between them (with the Squire and the Doc.) and the pirates (Pew et. al).
 # :x forecapdeath
 Foreshadowing the Captain's stroke due to alcohol, which crippled him for the rest of his (rather short) life.
 # :x chest
-And there's a good reason why - it had all of the Captain's worldy possessions, along with critical documentation of his time as a pirate - if the Doctor or a lawmen had seen it he would be toast.
+And there's a good reason why - it had all of the Captain's worldly possessions, along with critical documentation of his time as a pirate - if the Doctor or a lawmen had seen it he would be toast.

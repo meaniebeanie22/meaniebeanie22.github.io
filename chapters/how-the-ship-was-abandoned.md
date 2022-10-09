@@ -7,10 +7,10 @@ title: How the Ship was Abandoned
 1. Livesey concerned for Jim's safety as he had gone ashore
 2. Doc and Hunter go ashore with the [:jolly-boat](#jb)
 3. They set up the stockade, and try to ship over supplies
-4. Jolly-boat sent back to Hispanola and being filled with all sorts of important things
+4. Jolly-boat sent back to *Hispaniola* and being filled with all sorts of important things
 
 #### Analysis:  
-This chapter is the introduction for Part 4, and follows the same style as the other introduction chapters. We see a new point of view from the Doctor, which Stevenson uses to add detail and depth to the events that occurered on this part of the island while Jim was not present, so that the reader is able to construct an image of the setting and events.
+This chapter is the introduction for Part 4, and follows the same style as the other introduction chapters. We see a new point of view from the Doctor, which Stevenson uses to add detail and depth to the events that occurred on this part of the island while Jim was not present, so that the reader is able to construct an image of the setting and events.
 
 ## Annotated chapter  
 IT was about half past one--three bells in the sea phrase--that the two

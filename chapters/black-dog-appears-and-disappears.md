@@ -265,7 +265,7 @@ Black Dog telling Jim he's going to fight Bill, just before he opens the door.
 # :x capscared  
 The captain shows many times that he is scared of Black Dog, probably because he served under him on Captain Flint's crew.  
 # :x shipmates  
-Evidence they served with Flint on the same vessel. As we see later on, Bill has precise records of Flint's voyages, and it would make sence for him to be Quartermaster, and Black Dog first mate.  
+Evidence they served with Flint on the same vessel. As we see later on, Bill has precise records of Flint's voyages, and it would make sense for him to be First mate, with Black Dog being a former crew member.
 # :x strokesymptoms  
 Probably because he had a stroke due to several reasons:  
 1. Alcohol

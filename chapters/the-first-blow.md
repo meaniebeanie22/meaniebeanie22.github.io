@@ -6,7 +6,7 @@ title: The First Blow
 #### Events:  
 1. Jim hears voices in the woods, presumably other crewmen
 2. Overhears the other crewmen, and one of them is an honest hand
-3. One honest killed by LJS, Tom speaks out, and them gets pelted with a brach by LJS and is stabbed to death
+3. One honest killed by LJS, Tom speaks out, and them gets pelted with a branch by LJS and is stabbed to death
 4. Shot fired
 5. Jim runs to Ben Gunn's hill
 
@@ -206,6 +206,6 @@ And here a fresh alarm brought me to a standstill with a thumping heart.
 Another demonstration of Silver's split personality - on one side he is all smiles and caring, on the other he is a ruthless murderer. In the sight of authority he obeys, but when hidden in the shadows he plots, kills, and plunders.
 
 # :x weirdsimilies
-This is just a mess of weird similies from way back, but i'll try and break it down so the modern folk can understand:
-- I thinks gold dust of you - I think you're like gold, very precious (makes sence)
+This is just a mess of weird similes from way back, but I’ll try and break it down so the modern folk can understand:
+- I thinks gold dust of you - I think you're like gold, very precious (makes sense)
 - I took to you like pitch - I liked you so much I stuck to you like pitch (pitch being an extremely sticky black tar used for repairing holes in ships)

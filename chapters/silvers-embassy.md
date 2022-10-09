@@ -5,13 +5,13 @@ title: Silver's Embassy
 ## Short summary
 #### Events:  
 1. Silver comes to the outside of the [:stockade](https://en.wikipedia.org/wiki/stockade) with a flag of truce
-2. Silver has been 'elected' the captain by the mutineers, and as such Smollet scolds him
-3. Silver tresspasses into the stockade, and is forced to sit outside on the sand while he talks to Smollet 
-4. He demands the chart, and is utterly rejected by Smollet
-5. He's threatened by Smollet, and then leaves by himself as no one will give him a hand up off the sand.
+2. Silver has been 'elected' the captain by the mutineers, and as such Smollett scolds him
+3. Silver trespasses into the stockade, and is forced to sit outside on the sand while he talks to Smollett 
+4. He demands the chart, and is utterly rejected by Smollett
+5. He's threatened by Smollett, and then leaves by himself as no one will give him a hand up off the sand.
 
 #### Analysis:  
-In this chapter we have the tipping point for an all-out war between the faithful men and the mutineers, as both Silver's and Smollet's demands to eachother are rejected, and they treat eachother with nothing but the greatest hostilities. This chapter shows us the fragile balance that Stevenson had been using to keep both the characters AND the reader on edge, and only now do we realise how crucial it has been to the plot as they two battling sides fall into chaos (a good metaphor for life if I do say so myself).
+In this chapter we have the tipping point for an all-out war between the faithful men and the mutineers, as both Silver's and Smollett’s demands to each other are rejected, and they treat each other with nothing but the greatest hostilities. This chapter shows us the fragile balance that Stevenson had been using to keep both the characters AND the reader on edge, and only now do we realise how crucial it has been to the plot as they two battling sides fall into chaos (a good metaphor for life if I do say so myself).
 
 ## Annotated chapter  
 SURE enough, there were two men just outside the stockade, one of them

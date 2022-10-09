@@ -5,14 +5,14 @@ title: The Voyage
 ## Short summary  
 #### Events:  
 1. The song returns
-2. Arrow was as bad as the captain thought, he was drunk and disorderly. He fell overboard to everyone's relief
-3. Everyone obeyed LJS (because he was msot of the crew's old [:Quartermaster](https://en.wikipedia.org/wiki/Quartermaster#Pirate_quartermasters)), and his nickname was Barbecue
+2. Arrow was as bad as the captain thought; he was drunk and disorderly. He fell overboard to everyone's relief
+3. Everyone obeyed LJS (because he was most of the crew's old [:Quartermaster](https://en.wikipedia.org/wiki/Quartermaster#Pirate_quartermasters)), and his nickname was Barbecue
 4. Jim is introduced to LJS's parrot, who is remembers a lot of weird things
 5. Recount of directions they took to get to the island
-6. Jim learns of LJS's plot to mutiny, but the reader is left on a cliffhanger
+6. Jim learns of LJS's plot to mutiny, but the reader is left on a cliff-hanger
 
 #### Analysis:  
-In this chapter we have a descripion of the voyage and a cliffhanger. This chapter is building tension for the climax of section 2, and Stevenson deliberately draws this out to add tension and detail to the events that are about to happen. This chapter also builds on Jim's relationship with LJS and the crew, providing a more in depth view of his thoughts about them.
+In this chapter we have a description of the voyage and a cliff-hanger. This chapter is building tension for the climax of section 2, and Stevenson deliberately draws this out to add tension and detail to the events that are about to happen. This chapter also builds on Jim's relationship with LJS and the crew, providing a more in-depth view of his thoughts about them.
 
 ## Annotated chapter  
 ALL that night we were in a great bustle getting things stowed in their

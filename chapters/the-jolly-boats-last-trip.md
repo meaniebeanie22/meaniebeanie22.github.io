@@ -10,7 +10,7 @@ title: The Jolly-Boat's Last Trip
 4. Boat sinks with many provisions
 
 #### Analysis:  
-This chapter introduces a complication for the honest men, as they are stuck on the island missing a goodly chunk of their supplies, and with fire coming from two directions - the coast (Hands and co on the Hispanola with the swivel gun) and on land (the mutineers using small arms). This requires them to hunker down for a siege at the [:stockade](https://en.wikipedia.org/wiki/Stockade), which is the climax for this part. 
+This chapter introduces a complication for the honest men, as they are stuck on the island missing a goodly chunk of their supplies, and with fire coming from two directions - the coast (Hands and co on the *Hispaniola* with the swivel gun) and on land (the mutineers using small arms). This requires them to hunker down for a siege at the [:stockade](https://en.wikipedia.org/wiki/Stockade), which is the climax for this part. 
 
 ## Annotated chapter  
 THIS fifth trip was quite different from any of the others. In the

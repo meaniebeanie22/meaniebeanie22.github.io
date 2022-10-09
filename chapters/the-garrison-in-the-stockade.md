@@ -6,12 +6,12 @@ title: The Garrison in the Stockade
 #### Events:  
 1. Ben Gunn returns to his home
 2. Jim watches what happened in the last few chapters (those narrated by the Doctor), including the trials and tribulations of the jolly-boat
-3. Jim rejoins the faithful men
+3. Jim re-joins the faithful men
 4. Ben Gunn gets his cheese
 5. Silver comes with a Flag of Truce
 
 #### Analysis:  
-In this chapter we see further development of those located at the stockade, along with the furtherance of Ben Gunn's various ramblings to Jim. Stevenson uses these recounts to ellicit this sence of adventure, as no one (often the reader included) knows what is coming next, allowing Stevenson to bring the reader and the characters along for a wild journey through the island.
+In this chapter we see further development of those located at the stockade, along with the furtherance of Ben Gunn's various ramblings to Jim. Stevenson uses these recounts to elicit this sense of adventure, as no one (often the reader included) knows what is coming next, allowing Stevenson to bring the reader and the characters along for a wild journey through the island.
 
 ## Annotated chapter  
 Narrative Resumed by Jim Hawkins: The Garrison in the Stockade

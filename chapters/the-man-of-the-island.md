@@ -5,7 +5,7 @@ title: The Man of the Island
 ## Short summary  
 #### Events:  
 1. Jim sees a creature running towards him, who lands on his knees begging - it's Ben Gunn
-2. Jim mentions the Hispanola, and they talk to eachother
+2. Jim mentions the *Hispaniola*, and they talk to each other
 3. We learn that Ben has dug up the treasure and has it stored
 4. We hear of Ben's misfortune that led to him being marooned
 5. A stockade has been set up by the mutineers
@@ -265,10 +265,10 @@ Another pause, and then, not a quarter of a mile in front of me, I
 beheld the Union Jack flutter in the air above a wood.
 
 # :x racism
-This shows how times were far different back in the 17 and 1800's, as we have an example of division between races (with Jim being thankful as Ben was a white, christian man).
+This shows how times were far different back in the 17 and 1800's, as we have an example of division between races (with Jim being thankful as Ben was a white, Christian man).
 
 # :x bgtreasure
 Here we have a hint that Ben Gunn has found the treasure and dug it up, along with storing it in his cave. This is crucial later in the story.
 
 # :x clovehitch
-Fundamental knot, [:see wikipedia entry.](https://en.wikipedia.org/wiki/Clove_hitch)
+Fundamental knot, [:see Wikipedia entry.](https://en.wikipedia.org/wiki/Clove_hitch)

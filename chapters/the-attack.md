@@ -6,11 +6,11 @@ title: The Attack
 #### Events:  
 1. The mutineers lay siege to the stockade, entering with the two sides exchanging fire
 2. They make it to the house, disarming and killing Hunter, and the doctor being hit with a cutlass
-3. A fight insues, with the honest's switching to cutlasses and killing many of the mutineers
-4. Numbers stand at 4-8 honests to mutineers.
+3. A fight ensues, with the honest's switching to cutlasses and killing many of the mutineers
+4. Numbers stand at 4-8 honest to mutineers.
 
 #### Analysis:  
-This chapter serves as both an introduction to the fifth section of the novel, where fighting amongst the mutineers and honest men is the main event whilst also closing off the fourth section (which mainly contains preparations for fighting an small skirmishes, as opposed to consistant fighting of both sides). This chapter is used by Stevenson to demonstrate the heartlessness of the mutineers, and how they are willing to kill many a man just for a chance at the treasure that lays within the island.
+This chapter serves as both an introduction to the fifth section of the novel, where fighting amongst the mutineers and honest men is the main event whilst also closing off the fourth section (which mainly contains preparations for fighting and small skirmishes, as opposed to consistent fighting of both sides). This chapter is used by Stevenson to demonstrate the heartlessness of the mutineers, and how they are willing to kill many a man just for a chance at the treasure that lays within the island.
 
 ## Annotated chapter  
 AS soon as Silver disappeared, the captain, who had been closely
@@ -243,4 +243,4 @@ this was, of course, not known till after by the faithful party.
 
 # :x ere
 ere
-(poetic, archaic) Before; sooner than. 
+(poetic, archaic) Before; sooner than.

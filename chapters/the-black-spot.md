@@ -6,13 +6,13 @@ title: The Black Spot
 #### Events:  
 1. Jim is harassed into bringing Bill deadly rum  
 2. Bill complains that rum is half his life  
-3. Bill is still very weak (recoving from a stroke)  
+3. Bill is still very weak (recovering from a stroke)  
 4. Black Spot description  
 5. Jim's father dies  
 6. Pew (the blind beggar) gives Bill a note, and he has a stroke and dies  
 
 #### Analysis:  
-In this chapter with have the death of Bill, who is the main plot driver for the first section, before Jim loks over his corpse to find the details needed for the whole plot to kick off (the map used by Livesey and the Squire to locate the treasure). This chapter gets the ball rolling, and serves as a spark for the rest of the story to grow (there are others, but this is the main one).  
+In this chapter with have the death of Bill, who is the main plot driver for the first section, before Jim looks over his corpse to find the details needed for the whole plot to kick off (the map used by Livesey and the Squire to locate the treasure). This chapter gets the ball rolling, and serves as a spark for the rest of the story to grow (there are others, but this is the main one).  
 
 ## Annotated chapter  
 ABOUT noon I stopped at the captain’s door with some cooling drinks
@@ -239,4 +239,4 @@ He overdoses on rum and dies from another stroke at the end of the chapter.
 # :x pew  
 Pew - the blind man. Gives the Captain a black spot and a stroke.
 # :x maptaking  
-When they take the map? When he has to hand what he got from flint over? It would make sence, and is just after Hawkins and co take the map.
+When they take the map? When he has to hand what he got from flint over? It would make sense, and is just after Hawkins and co take the map.

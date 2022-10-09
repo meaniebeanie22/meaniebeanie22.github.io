@@ -7,10 +7,10 @@ title: End of the First Day's Fighting
 1. Mutineers and honest hands exchange fire at the stockade
 2. Redruth (the Gamekeeper) is shot and killed by an unknown mutineer
 3. Honest's take the stockade
-4. Jim rejoins them at the stockade
+4. Jim re-joins them at the stockade
 
 #### Analysis:  
-In this chapter we have many things going on, the least of which is a major setting change for our protagonists. We see the honest hands moving in to capture the stockade, and setting up shop inside. We have the death of Redruth (the first among the honest men that stayed with the pack), and Jim rejoining the group to spread the word that Ben Gunn is alive and well.
+In this chapter we have many things going on, the least of which is a major setting change for our protagonists. We see the honest hands moving in to capture the stockade and setting up shop inside. We have the death of Redruth (the first among the honest men that stayed with the pack), and Jim re-joining the group to spread the word that Ben Gunn is alive and well.
 
 ## Annotated chapter  
 WE made our best speed across the strip of wood that now divided us from

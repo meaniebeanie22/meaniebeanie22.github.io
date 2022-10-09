@@ -220,4 +220,4 @@ A sash with space for several pistols OR two, depending on the situation.
 The back area of an open boat, with no seats. Generally a good place to stand in the boat while it's moving
 
 # :x notbiscuit
-Now this isn't the biscuit you're thinking of - this is hardtack. Hardtack is essentially a cooked rock of flour and water - bone dry and barely edible. [:See wikipedia](https://en.wikipedia.org/wiki/Hardtack).
+Now this isn't the biscuit you're thinking of - this is hardtack. Hardtack is essentially a cooked rock of flour and water - bone dry and barely edible. [:See Wikipedia](https://en.wikipedia.org/wiki/Hardtack).
