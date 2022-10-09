@@ -4,14 +4,14 @@ title: The Fall of a Chieftan
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Silver changes sides back to the faithfuls
+2. Silver knows the hunt is useless, and when the other mutineers realise they get out of the hole and begin to rebel, before being shot at by three of the faithful men (Livesey, Gray, and Ben Gunn)
+3. They run, and Silver and Jim fire aswell
+4. They bring the boat around the island close to Ben's cave, with Gray going to the *Hispaniola* to guard for the night
+5. The rest walk to the cave, eat and rest.
 
 #### Analysis:  
-
+This chapter brings the start of the resolution for the novel, as we see the treasure in the hands of the honest men, and the mutineers depleted in number and running for their lives. Those who stayed loyal (except Silver of course) are rewarded handsomely with a good nights rest and food, while the mutineers are left to fight for themselves. This chapter is The second last, and the story is coming to a close (you can feel it in the ending).
 
 ## Annotated chapter  
 THERE never was such an overturn in this world. Each of these six men
@@ -30,7 +30,7 @@ had put the hollow between us two and the other five. Then he looked at
 me and nodded, as much as to say, “Here is a narrow corner,” as, indeed,
 I thought it was. His looks were not quite friendly, and I was so
 revolted at these constant changes that I could not forbear whispering,
-“So you’ve changed sides again.”
+[:“So you’ve changed sides again.”](#thatsfour)
 
 There was no time left for him to answer in. The buccaneers, with oaths
 and cries, began to leap, one after another, into the pit and to dig
@@ -44,9 +44,9 @@ hundred thousand pounds, is it? You’re the man for bargains, ain’t you?
 You’re him that never bungled nothing, you wooden-headed lubber!”
 
 “Dig away, boys,” said Silver with the coolest insolence; “you’ll find
-some pig-nuts and I shouldn’t wonder.”
+some [:pig-nuts](#pn) and I shouldn’t wonder.”
 
-“Pig-nuts!” repeated Merry, in a scream. “Mates, do you hear that? I
+[:“Pig-nuts!”](#pn) repeated Merry, in a scream. “Mates, do you hear that? I
 tell you now, that man there knew it all along. Look in the face of him
 and you’ll see it wrote there.”
 
@@ -99,7 +99,7 @@ verge of strangling when we reached the brow of the slope.
 
 Sure enough there was no hurry. In a more open part of the plateau, we
 could see the three survivors still running in the same direction as
-they had started, right for Mizzenmast Hill. We were already between
+they had started, right for [:Mizzenmast Hill](#islandmap). We were already between
 them and the boats; and so we four sat down to breathe, while Long John,
 mopping his face, came slowly up with us.
 
@@ -156,7 +156,7 @@ thought, doctor.”
 
 “Not a thought,” replied Dr. Livesey cheerily.
 
-And by this time we had reached the gigs. The doctor, with the pick-axe,
+And by this time we had reached the [:gigs](https://en.wikipedia.org/wiki/Gig_(boat)). The doctor, with the pick-axe,
 demolished one of them, and then we all got aboard the other and set out
 to go round by sea for North Inlet.
 
@@ -177,9 +177,9 @@ lifted her, and had there been much wind or a strong tide current, as
 in the southern anchorage, we should never have found her more, or found
 her stranded beyond help. As it was, there was little amiss beyond the
 wreck of the main-sail. Another anchor was got ready and dropped in a
-fathom and a half of water. We all pulled round again to Rum Cove,
+[:fathom](https://en.wikipedia.org/wiki/Fathom) and a half of water. We all pulled round again to [:Rum Cove](#islandmap),
 the nearest point for Ben Gunn’s treasure-house; and then Gray,
-single-handed, returned with the gig to the HISPANIOLA, where he was to
+single-handed, returned with the [:gig](https://en.wikipedia.org/wiki/Gig_(boat)) to the HISPANIOLA, where he was to
 pass the night on guard.
 
 A gentle slope ran up from the beach to the entrance of the cave. At the
@@ -227,3 +227,12 @@ gayer or happier. And there was Silver, sitting back almost out of the
 firelight, but eating heartily, prompt to spring forward when anything
 was wanted, even joining quietly in our laughter--the same bland,
 polite, obsequious seaman of the voyage out.
+
+# :x thatsfour
+Four times now Silver has changed sides - maybe this will play out better for him?
+
+# :x pn
+**pig-nut**: any of several bitter, astringent hickory nuts.
+
+# :x islandmap
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Treasure-island-map.jpg)
