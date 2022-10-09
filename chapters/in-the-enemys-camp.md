@@ -11,7 +11,7 @@ title: In the Enemy's Camp
 5. We know Silver has the chart
 
 #### Analysis:  
-This chapter sets the ball rolling for the final part of the book, and at great pace. It is in this chapter that we learn of the misfortune that has befallen the honest men, and how he is thought of by both the faithful men that he deserted, the mutineers, and Silver himself. Stevenson uses this chapter to build a tremendous amount of tension in hopes of keppeing the reader hooked in until the very end.
+This chapter sets the ball rolling for the final part of the book, and at great pace. It is in this chapter that we learn of the misfortune that has befallen the honest men, and how he is thought of by both the faithful men that he deserted, the mutineers, and Silver himself. Stevenson uses this chapter to build a tremendous amount of tension in hopes of keeping the reader hooked in until the very end.
 
 ## Annotated chapter  
 THE red glare of the torch, lighting up the interior of the block house,

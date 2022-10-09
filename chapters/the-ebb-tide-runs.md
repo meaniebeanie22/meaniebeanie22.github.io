@@ -6,12 +6,12 @@ title: The Ebb-Tide Runs
 #### Events:  
 1. Jim paddles up to the *Hispaniola*
 2. He cuts all but two threads in the rope holding her down
-3. He cuts the final two when the tide dips so he isn't hit
+3. He cuts the final two when the tide dips, so he isn't hit
 4. He chases the *Hispaniola*, and looks in the window
 5. He falls asleep in the coracle
 
 #### Analysis:  
-In this chapter we are re-introduced to the main setting of this section (the decaying *Hispaniola*), with its skeleton crew (both figuratively and literally) and lack of direction. We see Jim cut her free, and the path that she sets herself becomes of importance in the next chapter, as it allows Jim to get aboard and set her course (and continue the story). This chapter serves as an extention of the introduction, which Stevenson uses to build suspense for the reader and again evoke that sence of adventure that flows throughout the novel.
+In this chapter we are re-introduced to the main setting of this section (the decaying *Hispaniola*), with its skeleton crew (both figuratively and literally) and lack of direction. We see Jim cut her free, and the path that she sets herself becomes of importance in the next chapter, as it allows Jim to get aboard and set her course (and continue the story). This chapter serves as an extension of the introduction, which Stevenson uses to build suspense for the reader and again evoke that sense of adventure that flows throughout the novel.
 
 ## Annotated chapter  
 THE coracle--as I had ample reason to know before I was done with

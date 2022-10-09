@@ -11,7 +11,7 @@ title: I Strike the Jolly Roger
 5. Israel plotting to kill Jim
 
 #### Analysis:  
-In this chapter we begin to see who Israel *really* is - a cold hard pirate, who will backstab those who have saved him for personal gain. We hear more of Jim's plan to bring the ship around, and how the ship has fallen into disrepair as those onboard have neglected her. We have a recount of the prior activities that have occured on the *Hispaniola* after it was abandoned, possible future events are hinted at throughout the chapter (including Hands' killing Jim).
+In this chapter we begin to see who Israel *really* is - a cold hard pirate, who will backstab those who have saved him for personal gain. We hear more of Jim's plan to bring the ship around, and how the ship has fallen into disrepair as those onboard have neglected her. We have a recount of the prior activities that have occurred on the *Hispaniola* after it was abandoned, possible future events are hinted at throughout the chapter (including Hands' killing Jim).
 
 ## Annotated chapter  
 I HAD scarce gained a position on the [:bowsprit](https://en.wikipedia.org/wiki/Bowsprit) when the [:flying jib](#sailpic)
@@ -145,7 +145,7 @@ name, a rank Irelander--this man and me got the canvas on her, meaning
 for to sail her back. Well, HE’S dead now, he is--as dead as [:bilge](#bilge); and
 who’s to sail this ship, I don’t see. Without I gives you a hint, you
 ain’t that man, as far’s I can tell. Now, look here, you gives me food
-and drink and a old scarf or ankecher to tie my wound up, you do, and
+and drink and a old scarf or [:ankecher](#hanky) to tie my wound up, you do, and
 I’ll tell you how to sail her, and that’s about square all round, I take
 it.”
 
@@ -208,3 +208,5 @@ Israel is about to try and kill Jim.
 # :x sailpic
 ![](https://merriam-webster.com/assets/mw/static/art/dict/sail.gif)
 sail 1a (of a schooner): 1 flying jib, 2 jib, 3 forestaysail, 4 foresail, 5 fore gaff-topsail, 6 main-topmast staysail, 7 mainsail, 8 main gaff-topsail
+# :x hanky
+A handkerchief

@@ -9,7 +9,7 @@ title: The Black Spot Again
 3. Only punishment is that the deposer had to guard for the night
 
 #### Analysis:  
-This chapter on it's own doesn't serve much of a purpose - it's with the wider book that it's palce begins to feel sure. It's needed to build tension for the upcoming flurry of action, and serves as a 'calm before the storm' that is the attempt at digging up the treasure.
+This chapter on it's own doesn't serve much of a purpose - it's with the wider book that it's place begins to feel sure. It's needed to build tension for the upcoming flurry of action, and serves as a 'calm before the storm' that is the attempt at digging up the treasure.
 
 ## Annotated chapter  
 THE council of buccaneers had lasted some time, when one of them
@@ -237,4 +237,4 @@ was, to think on the dark perils that environed and the shameful gibbet
 that awaited him.
 
 # :x charttosilver
-My guess would be that Ben Gunn had joined the faithful men, and told them that he had found and dug up the treasure in his three years marooned on the island, which would make the chart absolutely worthless. Unfortunately, no one knows that bar the honest's. 
+My guess would be that Ben Gunn had joined the faithful men, and told them that he had found and dug up the treasure in his three years marooned on the island, which would make the chart absolutely worthless. Unfortunately, no one knows that bar the honest's.

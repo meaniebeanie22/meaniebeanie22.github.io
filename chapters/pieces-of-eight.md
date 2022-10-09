@@ -5,12 +5,12 @@ title: Pieces of Eight
 ## Short summary  
 #### Events:  
 1. Jim frees himself from the dirk
-2. He wander around the island, heading back to the loghouse
-3. He isn't seen by a watchment
+2. He wander around the island, heading back to the log house
+3. He isn't seen the watchman
 4. He enters, and realises it has been taken over by the mutineers.
 
 #### Analysis:  
-In this chapter we see Stevenson using a wide variety of literary and plot devices to keep the reader JUST entertained enough to continue reading (no, seriously, he's just fluffing up the book at this point). The chapter contains mainly background information, with the typical small cliffhanger at the end of the chapter (Jim walking into the cabin now full of mutineers) that we see Stevenson using **extensively** throughout the book.
+In this chapter we see Stevenson using a wide variety of literary and plot devices to keep the reader JUST entertained enough to continue reading (no, seriously, he's just fluffing up the book at this point). The chapter contains mainly background information, with the typical small cliff-hanger at the end of the chapter (Jim walking into the cabin now full of mutineers) that we see Stevenson using **extensively** throughout the book.
 
 ## Annotated chapter  
 OWING to the cant of the vessel, the masts hung far out over the water,
