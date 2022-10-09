@@ -6,7 +6,7 @@ title: On Parole
 #### Events:  
 1. Doctor comes to treat his patients
 2. After, he and Jim and out and have a chat
-3. The Doc tries to warn Silver about the uselesness of the chart
+3. The Doc tries to warn Silver about the uselessness of the chart
 4. They part ways - the Doc going back, and Jim returning to the block-house as he promised to Silver
 
 #### Analysis:  
@@ -266,10 +266,10 @@ And Dr. Livesey shook hands with me through the stockade, nodded to
 Silver, and set off at a brisk pace into the wood.
 
 # :x silverlining
-Silver is deliberately leaving out the fact that he was immediately reinstated by his crew, attempting to make what he did more grand and give him some brownie points with the Doctor.
+Silver is deliberately leaving out the fact that he was immediately reinstated by his crew, attempting to make what he did grander and give him some brownie points with the Doctor.
 
 # :x bgtreasure
 Don't go looking for it because it ain't there! Ben dug it up while on the island alone and transported it to his cave. This'll get Silver in a hell of a lot of trouble with the mutineers when they go to dig.
 
 # :x squalls
-Squalls are a sudden violent gust of wind, or localized storm. This probable means that the Doctor is telling Silver to looks out for any unforseen things that might topple him or his plans.
+Squalls are a sudden violent gust of wind, or localised storm. This probably means that the Doctor is telling Silver to look out for any unforeseen things that might topple him or his plans.
