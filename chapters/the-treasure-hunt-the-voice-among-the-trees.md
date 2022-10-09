@@ -4,14 +4,13 @@ title: The Treasure Hunt: The Voice Among the Trees
 ---
 ## Short summary  
 #### Events:  
-1. 
-2. 
-3. 
-4. 
-5. 
+1. They hear Ben Gunn singing various songs and sayings
+2. It scares the living daylights out of many of them, and it takes them a while to realise who it is
+3. They reach the approximate location of the cash, and everyone turns into animals
+4. They realise that all that is left is a big ditch, with nothing left, and everyone freezes, realising everything has been done in vain
 
 #### Analysis:  
-
+This chapter is the the tipping point of the novel, the beginning of the end. All of the tension that Stevenson created has finally been released, and the only thing that remains is *who* dug up the treasure. In the later chapters Stevenson reminds the reader that it was Ben Gunn, but the only people who know this currently are those who are with the honest men at Ben's cave (explaining why the Doctor handed the chart over to Silver earlier on in the story - it was useless as all the treasure was gone). We see the tipping point of all the men who have worked and killed to get the treasure, and from now on it's yet another bloody battle.
 
 ## Annotated chapter  
 PARTLY from the damping influence of this alarm, partly to rest Silver
