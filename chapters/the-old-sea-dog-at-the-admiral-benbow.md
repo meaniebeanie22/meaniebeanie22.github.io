@@ -218,7 +218,7 @@ You'll see this one a lot - it's the stereotypical pirate chant used throughout 
 # :x captainunderpays
 He says this - but no one dares ask him for more - they end up scavenging it off his body after he has his second stroke.
 # :x captainisamate
-We end up finding out this is true, as he tells Jim that he sailed as Captain Flint's first mate (Flint being the one who's treasure we end up trying to take - flint was dead well before the story, hence why the Captain has his map).
+We end up finding out this is true, as he tells Jim that he sailed as Captain Flint's [:First Mate](https://en.wikipedia.org/wiki/Chief_mate) (Flint being the one who's treasure we end up trying to take - he was dead well before the story, hence why the Captain has his map).
 # :x blackdog
 Foreshadowing the arrival of Black Dog.
 # :x capstanbars
