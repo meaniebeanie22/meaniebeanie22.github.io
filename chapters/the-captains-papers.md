@@ -10,7 +10,7 @@ title: The Captain's Papers
 4. Map opened, contains all the coordinates, and instructions to find the chest.
     
 #### Analysis:  
-This chapter sets up the story for the beginning of the second section, where Jim and co set off. With the resolution of the first section, something needed to keep the novel going, and the discovery of the map by Jim and its use by Livesey sets the wheels in motion again.  
+This chapter sets up the story for the beginning of the second section, where Jim and Co set off. With the resolution of the first section, something needed to keep the novel going, and the discovery of the map by Jim and its use by Livesey sets the wheels in motion again.  
 ## Annotated chapter  
 WE rode hard all the way till we drew up before Dr. Livesey’s door. The
 house was all dark to the front.
